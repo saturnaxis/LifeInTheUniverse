@@ -1,0 +1,726 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Learning with AI and NotebookLM &#8212; Life in the Universe</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/exercise.css?v=20ffa6e1" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css?v=4c969af8" />
+    <link rel="stylesheet" type="text/css" href="../_static/metadata_figure.css?v=2463d4a7" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx_iframe.css?v=96c28b52" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.plyr.io/3.8.4/plyr.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/custom.css?v=19cccc54" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="../_static/tabs.js?v=3ee01567"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script src="../_static/h5p-resizer.js?v=a3e8b8ed"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'Preamble/learning-and-AI';</script>
+    <script src="https://cdn.plyr.io/3.8.4/plyr.polyfilled.js"></script>
+    <script src="../_static/init-plyr.js?v=bf401924"></script>
+    <link rel="canonical" href="https://saturnaxis.github.io/LifeInTheUniverse/Preamble/learning-and-AI.html" />
+    <link rel="icon" href="../_static/LITU_logo.png"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Book FAQ" href="course-faq.html" />
+    <link rel="prev" title="Science and Evidence" href="science-and-evidence.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../home.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/LITU_logo.png" class="logo__image only-light" alt="Life in the Universe - Home"/>
+    <script>document.write(`<img src="../_static/LITU_logo.png" class="logo__image only-dark" alt="Life in the Universe - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../home.html">
+                    Welcome to Life in the Universe
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Preamble</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="who-for.html">Who Are These Notes For?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="cite-reuse.html">How to Cite and Reuse This Material</a></li>
+<li class="toctree-l1"><a class="reference internal" href="math-and-python.html">Mathematics and Python</a></li>
+<li class="toctree-l1"><a class="reference internal" href="science-and-evidence.html">Science and Evidence</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Learning with AI and NotebookLM</a></li>
+<li class="toctree-l1"><a class="reference internal" href="course-faq.html">Book FAQ</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Science, History, and the Physical Universe</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter01/universe-of-life.html">1. Universe of Life</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter02/science-of-life.html">2. Science of Life</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter03/context-of-life.html">3. The Universal Context of Life</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">History of Life on Earth</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter04/habitability-of-earth.html">4. Habitability of Earth</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter05/nature-of-life.html">5. Nature of Life</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter06/evolution-life.html">6. Origin and Evolution of Life</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Habitability in the Solar System</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter08/mars.html">7. Mars</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter09/jovian-moons.html">8. Life on the Jovian Moons</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter10/nature-of-habitability.html">9. Nature of Habitability</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Search for Life in the Universe</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter11/exoplanets.html">10. Exoplanets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter12/seti.html">11. SETI</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter13/interstellar-fermi.html">12. Interstellar Travel and the Fermi Paradox</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-launch-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Launch interactive content">
+    <i class="fas fa-rocket"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://mybinder.org/v2/gh/saturnaxis/LifeInTheUniverse/main?urlpath=tree/Preamble/learning-and-AI.ipynb" target="_blank"
+   class="btn btn-sm dropdown-item"
+   title="Launch on Binder"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  
+    <img alt="Binder logo" src="../_static/images/logo_binder.svg">
+  </span>
+<span class="btn__text-container">Binder</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://colab.research.google.com/github/saturnaxis/LifeInTheUniverse/blob/main/Preamble/learning-and-AI.ipynb" target="_blank"
+   class="btn btn-sm dropdown-item"
+   title="Launch on Colab"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  
+    <img alt="Colab logo" src="../_static/images/logo_colab.png">
+  </span>
+<span class="btn__text-container">Colab</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="initThebeSBT()"
+  class="btn btn-sm btn-launch-thebe dropdown-item"
+  title="Launch Thebe"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-play"></i>
+  </span>
+<span class="btn__text-container">Live Code</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/saturnaxis/LifeInTheUniverse" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/saturnaxis/LifeInTheUniverse/issues/new?title=Issue%20on%20page%20%2FPreamble/learning-and-AI.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/Preamble/learning-and-AI.ipynb" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.ipynb</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Learning with AI and NotebookLM</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#example-ai-prompts-for-learning">Example AI Prompts for Learning</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#summarizing-a-section">Summarizing a section</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#checking-understanding">Checking understanding</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#explaining-vocabulary">Explaining vocabulary</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preparing-for-a-quiz">Preparing for a quiz</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#reviewing-a-confusing-idea">Reviewing a confusing idea</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#improving-a-written-answer">Improving a written answer</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-notebooklm-with-these-notes">Using NotebookLM with These Notes</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="learning-with-ai-and-notebooklm">
+<h1>Learning with AI and NotebookLM<a class="headerlink" href="#learning-with-ai-and-notebooklm" title="Link to this heading">#</a></h1>
+<p>AI tools can be useful for learning astronomy when they are used carefully. They can summarize a difficult section, generate practice questions, explain vocabulary, help compare ideas, or give feedback on your understanding.</p>
+<p>However, AI tools should not replace your own thinking. They can make mistakes, oversimplify an idea, or give an answer that sounds confident but is not well supported. In this course, AI should be used as a study partner, not as an authority.</p>
+<p>NotebookLM is especially useful because it can work directly with the course notes you provide as sources. You are encouraged to use NotebookLM with these notes to review sections, generate study guides, create practice questions, and ask for explanations of difficult concepts.</p>
+<div class="note admonition">
+<p class="admonition-title">A good AI prompt has three parts</p>
+<p>A strong learning prompt usually includes:</p>
+<ol class="arabic simple">
+<li><p><strong>Persona</strong> — tell the AI what role to take.</p></li>
+<li><p><strong>Context</strong> — tell the AI what you are studying and what you already know.</p></li>
+<li><p><strong>Task</strong> — tell the AI exactly what you want it to do.</p></li>
+</ol>
+<p>This structure helps the AI give a response that is more useful for learning.</p>
+</div>
+<p>For example, instead of writing:</p>
+<blockquote>
+<div><p>Explain habitable zones.</p>
+</div></blockquote>
+<p>write:</p>
+<blockquote>
+<div><p>Act as a patient introductory astronomy tutor. I am an ASTR120 student learning about habitable zones for the first time. Explain what a habitable zone is, why it does not guarantee that life exists, and give me three checkpoint questions to test my understanding.</p>
+</div></blockquote>
+<p>The second prompt is better because it gives the AI a role, a context, and a specific task.</p>
+<hr class="docutils" />
+<section id="example-ai-prompts-for-learning">
+<h2>Example AI Prompts for Learning<a class="headerlink" href="#example-ai-prompts-for-learning" title="Link to this heading">#</a></h2>
+<section id="summarizing-a-section">
+<h3>Summarizing a section<a class="headerlink" href="#summarizing-a-section" title="Link to this heading">#</a></h3>
+<blockquote>
+<div><p>Act as an introductory astronomy tutor. I am reading a section about the search for life beyond Earth. Summarize the section in plain language, keep the important science vocabulary, and list the three most important ideas I should remember.</p>
+</div></blockquote>
+</section>
+<section id="checking-understanding">
+<h3>Checking understanding<a class="headerlink" href="#checking-understanding" title="Link to this heading">#</a></h3>
+<blockquote>
+<div><p>Act as a study coach for an ASTR120 student. I just read a section about evidence and scientific claims. Ask me five conceptual questions, one at a time. After each answer, give feedback and help me improve my explanation.</p>
+</div></blockquote>
+</section>
+<section id="explaining-vocabulary">
+<h3>Explaining vocabulary<a class="headerlink" href="#explaining-vocabulary" title="Link to this heading">#</a></h3>
+<blockquote>
+<div><p>Act as a patient science tutor. I am confused by the terms hypothesis, evidence, model, and theory. Explain each term using simple examples from astronomy or astrobiology.</p>
+</div></blockquote>
+</section>
+<section id="preparing-for-a-quiz">
+<h3>Preparing for a quiz<a class="headerlink" href="#preparing-for-a-quiz" title="Link to this heading">#</a></h3>
+<blockquote>
+<div><p>Act as a quiz generator for an introductory astronomy course. Based on this section of notes, create ten multiple-choice questions. Do not show the answers until after the questions. Then explain why the correct answers are correct.</p>
+</div></blockquote>
+</section>
+<section id="reviewing-a-confusing-idea">
+<h3>Reviewing a confusing idea<a class="headerlink" href="#reviewing-a-confusing-idea" title="Link to this heading">#</a></h3>
+<blockquote>
+<div><p>Act as an astronomy instructor. I am confused about why detecting oxygen in an exoplanet atmosphere would be interesting but would not automatically prove life exists. Explain the idea carefully and include at least two possible nonliving explanations.</p>
+</div></blockquote>
+</section>
+<section id="improving-a-written-answer">
+<h3>Improving a written answer<a class="headerlink" href="#improving-a-written-answer" title="Link to this heading">#</a></h3>
+<blockquote>
+<div><p>Act as a helpful writing coach for an introductory astronomy student. Read my paragraph and give feedback on scientific accuracy, clarity, and use of evidence. Do not rewrite the paragraph for me. Instead, give suggestions that help me revise it myself.</p>
+</div></blockquote>
+</section>
+</section>
+<hr class="docutils" />
+<section id="using-notebooklm-with-these-notes">
+<h2>Using NotebookLM with These Notes<a class="headerlink" href="#using-notebooklm-with-these-notes" title="Link to this heading">#</a></h2>
+<p>NotebookLM works best when you give it the course notes as a source. After adding the relevant chapter or section, you can ask it to help you study from that material.</p>
+<p>Good NotebookLM prompts include:</p>
+<ul class="simple">
+<li><p>Summarize this section in plain language, but keep the important astronomy vocabulary.</p></li>
+<li><p>Create a study guide for this section.</p></li>
+<li><p>List the main claims in this section and describe the evidence for each one.</p></li>
+<li><p>Generate five checkpoint questions that test whether I understood the section.</p></li>
+<li><p>Explain this section as if I am new to astronomy.</p></li>
+<li><p>What are common misconceptions about this topic?</p></li>
+<li><p>Turn this section into a short review quiz.</p></li>
+<li><p>Help me compare two ideas from this section.</p></li>
+<li><p>Identify the most important figures, examples, or calculations in this section.</p></li>
+<li><p>Give me a list of questions I should be able to answer after reading this section.</p></li>
+</ul>
+<div class="warning admonition">
+<p class="admonition-title">Use AI responsibly</p>
+<p>AI can help you study, but it can also be wrong. Always compare AI-generated explanations with the course notes, class discussion, and reliable scientific sources.</p>
+<p>Do not copy AI-generated text as your own work. Use AI to improve your understanding, not to avoid thinking.</p>
+</div>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "saturnaxis/LifeInTheUniverse",
+            ref: "main",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./Preamble"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="science-and-evidence.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Science and Evidence</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="course-faq.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Book FAQ</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#example-ai-prompts-for-learning">Example AI Prompts for Learning</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#summarizing-a-section">Summarizing a section</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#checking-understanding">Checking understanding</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#explaining-vocabulary">Explaining vocabulary</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preparing-for-a-quiz">Preparing for a quiz</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#reviewing-a-confusing-idea">Reviewing a confusing idea</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#improving-a-written-answer">Improving a written answer</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-notebooklm-with-these-notes">Using NotebookLM with These Notes</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Billy Quarles
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2026.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

@@ -1,0 +1,651 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Mathematics and Python &#8212; Life in the Universe</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/exercise.css?v=20ffa6e1" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css?v=4c969af8" />
+    <link rel="stylesheet" type="text/css" href="../_static/metadata_figure.css?v=2463d4a7" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx_iframe.css?v=96c28b52" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.plyr.io/3.8.4/plyr.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/custom.css?v=19cccc54" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="../_static/tabs.js?v=3ee01567"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script src="../_static/h5p-resizer.js?v=a3e8b8ed"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'Preamble/math-and-python';</script>
+    <script src="https://cdn.plyr.io/3.8.4/plyr.polyfilled.js"></script>
+    <script src="../_static/init-plyr.js?v=bf401924"></script>
+    <link rel="canonical" href="https://saturnaxis.github.io/LifeInTheUniverse/Preamble/math-and-python.html" />
+    <link rel="icon" href="../_static/LITU_logo.png"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Science and Evidence" href="science-and-evidence.html" />
+    <link rel="prev" title="How to Cite and Reuse This Material" href="cite-reuse.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../home.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/LITU_logo.png" class="logo__image only-light" alt="Life in the Universe - Home"/>
+    <script>document.write(`<img src="../_static/LITU_logo.png" class="logo__image only-dark" alt="Life in the Universe - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../home.html">
+                    Welcome to Life in the Universe
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Preamble</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="who-for.html">Who Are These Notes For?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="cite-reuse.html">How to Cite and Reuse This Material</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Mathematics and Python</a></li>
+<li class="toctree-l1"><a class="reference internal" href="science-and-evidence.html">Science and Evidence</a></li>
+<li class="toctree-l1"><a class="reference internal" href="learning-and-AI.html">Learning with AI and NotebookLM</a></li>
+<li class="toctree-l1"><a class="reference internal" href="course-faq.html">Book FAQ</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Science, History, and the Physical Universe</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter01/universe-of-life.html">1. Universe of Life</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter02/science-of-life.html">2. Science of Life</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter03/context-of-life.html">3. The Universal Context of Life</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">History of Life on Earth</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter04/habitability-of-earth.html">4. Habitability of Earth</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter05/nature-of-life.html">5. Nature of Life</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter06/evolution-life.html">6. Origin and Evolution of Life</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Habitability in the Solar System</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter08/mars.html">7. Mars</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter09/jovian-moons.html">8. Life on the Jovian Moons</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter10/nature-of-habitability.html">9. Nature of Habitability</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Search for Life in the Universe</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Chapter11/exoplanets.html">10. Exoplanets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter12/seti.html">11. SETI</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Chapter13/interstellar-fermi.html">12. Interstellar Travel and the Fermi Paradox</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-launch-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Launch interactive content">
+    <i class="fas fa-rocket"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://mybinder.org/v2/gh/saturnaxis/LifeInTheUniverse/main?urlpath=tree/Preamble/math-and-python.ipynb" target="_blank"
+   class="btn btn-sm dropdown-item"
+   title="Launch on Binder"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  
+    <img alt="Binder logo" src="../_static/images/logo_binder.svg">
+  </span>
+<span class="btn__text-container">Binder</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://colab.research.google.com/github/saturnaxis/LifeInTheUniverse/blob/main/Preamble/math-and-python.ipynb" target="_blank"
+   class="btn btn-sm dropdown-item"
+   title="Launch on Colab"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  
+    <img alt="Colab logo" src="../_static/images/logo_colab.png">
+  </span>
+<span class="btn__text-container">Colab</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="initThebeSBT()"
+  class="btn btn-sm btn-launch-thebe dropdown-item"
+  title="Launch Thebe"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-play"></i>
+  </span>
+<span class="btn__text-container">Live Code</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/saturnaxis/LifeInTheUniverse" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/saturnaxis/LifeInTheUniverse/issues/new?title=Issue%20on%20page%20%2FPreamble/math-and-python.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/Preamble/math-and-python.ipynb" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.ipynb</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Mathematics and Python</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="mathematics-and-python">
+<h1>Mathematics and Python<a class="headerlink" href="#mathematics-and-python" title="Link to this heading">#</a></h1>
+<p>Science often begins with observation, but it becomes more powerful when we can describe those observations quantitatively. Mathematics gives us a way to express relationships clearly. It helps us compare sizes, estimate timescales, test whether an idea is reasonable, and predict what should happen under different conditions.</p>
+<p>In this book, mathematics is used as a tool for reasoning. The goal is not to memorize equations or perform long calculations for their own sake. The goal is to connect an idea to a measurable quantity. A short calculation can often reveal whether a claim is plausible, whether two effects are comparable, or whether a number is too large or too small to ignore.</p>
+<p>Python is used for the same reason. A computer program can repeat a calculation quickly, change input values, make a graph, or test a pattern. This is especially useful in science because real systems often involve many numbers, repeated calculations, or relationships that are easier to see visually.</p>
+<p>The Python examples in this book are not meant to replace the mathematics. Instead, they usually follow the same reasoning as the written solution. First, we identify the physical idea. Then we write the mathematical relationship. Finally, we use Python to check the result, explore the pattern, or visualize what the calculation means.</p>
+<div class="note admonition">
+<p class="admonition-title">How to approach the math and Python</p>
+<p>When you see a calculation or Python example in this book, focus on three questions:</p>
+<ol class="arabic simple">
+<li><p>What scientific idea is being represented?</p></li>
+<li><p>What quantities are being compared or calculated?</p></li>
+<li><p>How does the result help us understand the original question?</p></li>
+</ol>
+<p>You do not need to memorize the code. You should understand what each variable represents and how the calculation connects to the scientific idea.</p>
+</div>
+<p>For example, suppose we want to estimate how long sunlight takes to reach Saturn. We can start with a known value: sunlight takes about <span class="math notranslate nohighlight">\(8.2\ {\rm min}\)</span> to travel from the Sun to Earth. Earth’s average distance from the Sun is <span class="math notranslate nohighlight">\(1\ {\rm AU}\)</span>, while Saturn’s average distance from the Sun is about <span class="math notranslate nohighlight">\(9.5\ {\rm AU}\)</span>.</p>
+<p>Because light travels at a constant speed, the travel time scales directly with distance. Saturn is about <span class="math notranslate nohighlight">\(9.5\)</span> times farther from the Sun than Earth, so the light travel time is also about <span class="math notranslate nohighlight">\(9.5\)</span> times longer.</p>
+<div class="amsmath math notranslate nohighlight">
+\[\begin{align*}
+t_{\rm Saturn} &amp;= \left(\frac{a_{\rm Saturn}}{a_{\oplus}}\right)t_{\oplus} \\
+&amp;= \left(\frac{9.5\ {\rm AU}}{1\ {\rm AU}}\right)(8.2\ {\rm min}) \\
+&amp;= 77.9\ {\rm min}.
+\end{align*}\]</div>
+<p>This means sunlight takes about <span class="math notranslate nohighlight">\(78\ {\rm min}\)</span>, or about <span class="math notranslate nohighlight">\(1.3\ {\rm hr}\)</span>, to reach Saturn. The Python version repeats the same scaling calculation.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Light travel time from the Sun to Earth in minutes</span>
+<span class="n">earth_light_time</span> <span class="o">=</span> <span class="mf">8.2</span>
+
+<span class="c1"># Average orbital distances in AU</span>
+<span class="n">earth_distance</span> <span class="o">=</span> <span class="mf">1.0</span>
+<span class="n">saturn_distance</span> <span class="o">=</span> <span class="mf">9.5</span>
+
+<span class="c1"># Scale the Earth light travel time by the distance ratio</span>
+<span class="n">saturn_light_time</span> <span class="o">=</span> <span class="p">(</span><span class="n">saturn_distance</span> <span class="o">/</span> <span class="n">earth_distance</span><span class="p">)</span> <span class="o">*</span> <span class="n">earth_light_time</span>
+
+<span class="c1"># Convert the light travel time from minutes to hours</span>
+<span class="n">saturn_light_time_hours</span> <span class="o">=</span> <span class="n">saturn_light_time</span> <span class="o">/</span> <span class="mi">60</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Sunlight takes about </span><span class="si">{</span><span class="n">saturn_light_time</span><span class="si">:</span><span class="s2">.1f</span><span class="si">}</span><span class="s2"> minutes to reach Saturn.&quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;This is about </span><span class="si">{</span><span class="n">saturn_light_time_hours</span><span class="si">:</span><span class="s2">.1f</span><span class="si">}</span><span class="s2"> hours.&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Sunlight takes about 77.9 minutes to reach Saturn.
+This is about 1.3 hours.
+</pre></div>
+</div>
+</div>
+</div>
+<p>The important idea is the scaling. Once we know the light travel time for <span class="math notranslate nohighlight">\(1\ {\rm AU}\)</span>, we can estimate the light travel time to another planet by multiplying by that planet’s distance in AU.</p>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "saturnaxis/LifeInTheUniverse",
+            ref: "main",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./Preamble"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="cite-reuse.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">How to Cite and Reuse This Material</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="science-and-evidence.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Science and Evidence</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Billy Quarles
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2026.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
