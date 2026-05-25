@@ -1,0 +1,42 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+format: jb-book
+root: home
+parts:
+- caption: Preamble
+  chapters:
+  - file: Preamble/who-for.ipynb
+  - file: Preamble/cite-reuse.ipynb
+  - file: Preamble/math-and-python.ipynb
+  - file: Preamble/science-and-evidence.ipynb
+  - file: Preamble/learning-and-AI.ipynb
+  - file: Preamble/course-faq.md
+- caption: Science, History, and the Physical Universe
+  numbered: true
+  maxdepth: 3 
+  chapters:
+  - file: Chapter01/universe-of-life.ipynb
+  - file: Chapter02/science-of-life.ipynb
+  - file: Chapter03/context-of-life.ipynb
+- caption: History of Life on Earth
+  numbered: true
+  maxdepth: 3 
+  chapters:
+  - file: Chapter04/habitability-of-earth.ipynb
+  - file: Chapter05/nature-of-life.ipynb
+  - file: Chapter06/evolution-life.ipynb
+- caption: Habitability in the Solar System
+  numbered: true
+  maxdepth: 3 
+  chapters:
+  - file: Chapter08/mars.ipynb
+  - file: Chapter09/jovian-moons.ipynb
+  - file: Chapter10/nature-of-habitability.ipynb
+- caption: Search for Life in the Universe
+  numbered: true
+  maxdepth: 3 
+  chapters:
+  - file: Chapter11/exoplanets.ipynb
+  - file: Chapter12/seti.ipynb
+  - file: Chapter13/interstellar-fermi.ipynb

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Solar System scale if the Sun were a grapefruit</title>
+<desc id="desc">A teaching infographic showing that if the Sun were a 14 centimeter grapefruit, Earth would be a 1.3 millimeter dot 15 meters away, Jupiter would be a 1.4 centimeter marble 78 meters away, Pluto's average orbit would be about 590 meters away, and the full diameter out to Pluto would be greater than 1 kilometer.</desc>
+<style>
+  .bg { fill: #ffffff; }
+  .title { font: 700 54px Arial, Helvetica, sans-serif; fill: #0033A0; }
+  .subtitle { font: 400 28px Arial, Helvetica, sans-serif; fill: #263238; }
+  .card { fill: #fbfcff; stroke: #d5deee; stroke-width: 2; filter: url(#shadow); }
+  .card-title { font: 700 32px Arial, Helvetica, sans-serif; fill: #0033A0; }
+  .label { font: 400 24px Arial, Helvetica, sans-serif; fill: #263238; }
+  .small { font: 400 20px Arial, Helvetica, sans-serif; fill: #455a64; }
+  .tiny { font: 400 18px Arial, Helvetica, sans-serif; fill: #455a64; }
+  .bold { font-weight: 700; fill: #111827; }
+  .blue { fill: #0033A0; }
+  .gold { fill: #F2A900; }
+  .line { stroke: #0033A0; stroke-width: 5; stroke-linecap: round; }
+  .dashed { stroke: #0033A0; stroke-width: 4; stroke-dasharray: 10 10; stroke-linecap: round; fill: none; }
+  .goldline { stroke: #F2A900; stroke-width: 8; stroke-linecap: round; }
+  .mutedline { stroke: #b8c6e5; stroke-width: 3; stroke-linecap: round; }
+  .tick { stroke: #0033A0; stroke-width: 4; }
+</style>
+<defs>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+    <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.12"/>
+  </filter>
+  <radialGradient id="sunGrad" cx="50%" cy="45%" r="65%">
+    <stop offset="0%" stop-color="#fff5c7"/>
+    <stop offset="55%" stop-color="#F2A900"/>
+    <stop offset="100%" stop-color="#d88600"/>
+  </radialGradient>
+  <radialGradient id="jupiterGrad" cx="50%" cy="45%" r="65%">
+    <stop offset="0%" stop-color="#f7e0b8"/>
+    <stop offset="55%" stop-color="#c58a46"/>
+    <stop offset="100%" stop-color="#84562d"/>
+  </radialGradient>
+</defs>
+
+<rect class="bg" x="0" y="0" width="1600" height="900"/>
+<text class="title" x="800" y="75" text-anchor="middle">If the Sun were a grapefruit...</text>
+<text class="subtitle" x="800" y="122" text-anchor="middle">the Solar System would still be much larger than a classroom.</text>
+
+<rect class="card" x="55" y="170" rx="28" ry="28" width="690" height="635"/>
+<text class="card-title" x="400" y="220" text-anchor="middle">Sizes shrink together</text>
+<text class="small" x="400" y="255" text-anchor="middle">Use a grapefruit-sized Sun: about 14 cm across.</text>
+
+<!-- Size comparison circles -->
+<circle cx="245" cy="420" r="85" fill="url(#sunGrad)" stroke="#0033A0" stroke-width="4"/>
+<text class="label bold" x="245" y="535" text-anchor="middle">Sun</text>
+<text class="small" x="245" y="565" text-anchor="middle">14 cm grapefruit</text>
+
+<circle cx="520" cy="420" r="18" fill="url(#jupiterGrad)" stroke="#0033A0" stroke-width="4"/>
+<text class="label bold" x="520" y="535" text-anchor="middle">Jupiter</text>
+<text class="small" x="520" y="565" text-anchor="middle">1.4 cm marble</text>
+
+<circle cx="245" cy="645" r="5.0" fill="#4aa3ff" stroke="#0033A0" stroke-width="2"/>
+<text class="label bold" x="245" y="700" text-anchor="middle">Earth</text>
+<text class="small" x="245" y="730" text-anchor="middle">1.3 mm ballpoint dot</text>
+
+<circle cx="520" cy="645" r="1.4" fill="#d9dce3" stroke="#0033A0" stroke-width="1"/>
+<text class="label bold" x="520" y="700" text-anchor="middle">Moon</text>
+<text class="small" x="520" y="730" text-anchor="middle">0.35 mm speck</text>
+
+<path class="mutedline" d="M125 610 H645"/>
+<text class="tiny" x="400" y="775" text-anchor="middle">The planets become tiny, but the distances become enormous.</text>
+
+<rect class="card" x="855" y="170" rx="28" ry="28" width="690" height="635"/>
+<text class="card-title" x="1200" y="220" text-anchor="middle">Distances stretch out</text>
+<text class="small" x="1200" y="255" text-anchor="middle">Markers below are compressed; use the numbers.</text>
+
+<!-- Distance path -->
+<line class="goldline" x1="980" y1="370" x2="1420" y2="370"/>
+<circle cx="980" cy="370" r="22" fill="url(#sunGrad)" stroke="#0033A0" stroke-width="4"/>
+<text class="label bold" x="980" y="325" text-anchor="middle">Sun</text>
+
+<line class="tick" x1="1080" y1="345" x2="1080" y2="395"/>
+<circle cx="1080" cy="370" r="6" fill="#4aa3ff" stroke="#0033A0" stroke-width="2"/>
+<text class="label bold" x="1080" y="430" text-anchor="middle">Earth</text>
+<text class="small" x="1080" y="460" text-anchor="middle">15 m away</text>
+
+<line class="tick" x1="1190" y1="345" x2="1190" y2="395"/>
+<circle cx="1190" cy="370" r="12" fill="url(#jupiterGrad)" stroke="#0033A0" stroke-width="3"/>
+<text class="label bold" x="1190" y="430" text-anchor="middle">Jupiter</text>
+<text class="small" x="1190" y="460" text-anchor="middle">78 m away</text>
+
+<line class="tick" x1="1340" y1="345" x2="1340" y2="395"/>
+<circle cx="1340" cy="370" r="7" fill="#b7c3d9" stroke="#0033A0" stroke-width="2"/>
+<text class="label bold" x="1340" y="430" text-anchor="middle">Pluto</text>
+<text class="small" x="1340" y="460" text-anchor="middle">~590 m away</text>
+
+<path class="dashed" d="M970 560 C1100 520 1300 520 1430 560"/>
+<path d="M1430 560 l-30 -15 l10 30 z" fill="#0033A0"/>
+<text class="label bold" x="1200" y="590" text-anchor="middle">full diameter out to Pluto &gt; 1 km</text>
+
+<g>
+  <rect x="930" y="625" width="540" height="105" rx="18" ry="18" fill="#fff8e5" stroke="#F2A900" stroke-width="2"/>
+  <text class="label bold" x="1200" y="665" text-anchor="middle">Astronauts have only gone to the Moon</text>
+  <text class="small" x="1200" y="700" text-anchor="middle">On this scale, the Moon is only about 4 cm from Earth.</text>
+</g>
+
+<text class="tiny" x="800" y="852" text-anchor="middle">Course-created schematic. Distances use the chapter scale model: a grapefruit Sun with Earth about 15 m away.</text>
+</svg>

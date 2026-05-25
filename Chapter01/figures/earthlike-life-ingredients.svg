@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#ffffff"/>
+  <style>
+    .card { stroke:#b9b9b9; stroke-width:2; rx:22; }
+    .title { font: 700 34px Arial, sans-serif; fill:#111; }
+    .body { font: 24px Arial, sans-serif; fill:#222; }
+    .caption { font: 700 28px Arial, sans-serif; fill:#0033A0; }
+  </style>
+  <text x="600" y="52" text-anchor="middle" class="caption">A practical starting point for Earthlike life</text>
+  <rect x="35" y="90" width="260" height="220" class="card" rx="22" fill="#f8fbff"/>
+  <text x="165" y="145" text-anchor="middle" class="title">Liquid water</text>
+  <text x="65" y="200" class="body">A medium where</text>
+  <text x="65" y="235" class="body">many reactions</text>
+  <text x="65" y="270" class="body">can occur.</text>
+  <rect x="325" y="90" width="260" height="220" class="card" rx="22" fill="#fffaf2"/>
+  <text x="455" y="145" text-anchor="middle" class="title">Chemistry</text>
+  <text x="355" y="200" class="body">Atoms and</text>
+  <text x="355" y="235" class="body">molecules that</text>
+  <text x="355" y="270" class="body">build structures.</text>
+  <rect x="615" y="90" width="260" height="220" class="card" rx="22" fill="#fff7f7"/>
+  <text x="745" y="145" text-anchor="middle" class="title">Energy</text>
+  <text x="645" y="200" class="body">Power for</text>
+  <text x="645" y="235" class="body">metabolism and</text>
+  <text x="645" y="270" class="body">organization.</text>
+  <rect x="905" y="90" width="260" height="220" class="card" rx="22" fill="#f7fff8"/>
+  <text x="1035" y="145" text-anchor="middle" class="title">Time</text>
+  <text x="935" y="200" class="body">Stable conditions</text>
+  <text x="935" y="235" class="body">long enough for</text>
+  <text x="935" y="270" class="body">life to persist.</text>
+</svg>
