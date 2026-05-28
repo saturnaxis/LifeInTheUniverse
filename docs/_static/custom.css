@@ -95,9 +95,42 @@ div.exercise > p.admonition-title{
   width: auto;
 }
 
+.bd-content figure img.custom-wide-figure {
+  width: min(100%, 900px);
+  height: auto;
+  max-height: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bd-content figure img.custom-tall-figure {
+  max-height: 650px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .pronounce {
   border-bottom: 1px dotted var(--pst-color-link);
   cursor: help;
+}
+
+.bd-content .responsive-interactive {
+  width: 100%;
+  height: min(75vh, 730px);
+  margin: 0.75rem auto 1rem auto;
+  overflow: auto;
+}
+
+.bd-content .responsive-interactive iframe {
+  width: 100%;
+  min-width: 900px;
+  height: 100%;
+  border: none;
+  display: block;
 }
 
 /* -----------------------------
