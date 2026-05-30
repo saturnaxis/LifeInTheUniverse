@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   width="690"
+   height="400"
+   id="svg2"
+   xml:space="preserve"
+   style="display:inline"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="olympus_mons_height_vs_everest.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+   id="title2988">OlympusMons MaunaKea Everest diagram-fr</title><metadata
+   id="metadata123"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>OlympusMons MaunaKea Everest diagram-fr</dc:title><dc:description>Comparison diagram between Olympus Mons (on planet Mars), the highest mountain in the solar system, and the higests moutains on Earth : Mauna Kea (Hawaii island) and Everest.</dc:description><dc:date>2009-03-30</dc:date><dc:creator><cc:Agent><dc:title>Ivan d'Hostingue (aka Sémhur)</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Ivan d'Hostingue</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Wikimedia Commons</dc:title></cc:Agent></dc:publisher><dc:identifier>http://commons.wikimedia.org/wiki/Image:OlympusMons_MaunaKea_Everest_diagram-fr.svg</dc:identifier><dc:source>Own work</dc:source><dc:language>fr-FR</dc:language><dc:subject><rdf:Bag><rdf:li>Olympus Mons</rdf:li><rdf:li>Hawaii</rdf:li><rdf:li>Everest</rdf:li><rdf:li>Comparison diagram</rdf:li><rdf:li>Mountains by height</rdf:li></rdf:Bag></dc:subject><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1440"
+   inkscape:window-height="830"
+   id="namedview121"
+   showgrid="false"
+   inkscape:zoom="0.83189033"
+   inkscape:cx="503.07112"
+   inkscape:cy="304.12663"
+   inkscape:window-x="-6"
+   inkscape:window-y="-6"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+  <defs
+   id="defs5"><rect
+     x="615.46574"
+     y="86.54987"
+     width="10.818734"
+     height="37.264527"
+     id="rect15" /><rect
+     x="602.24285"
+     y="251.23504"
+     width="2.4041631"
+     height="13.222897"
+     id="rect12" /><linearGradient
+     id="linearGradient3311">
+      <stop
+   id="stop3313"
+   style="stop-color:#e06c28;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop3319"
+   style="stop-color:#ef8753;stop-opacity:1"
+   offset="0.5" />
+      <stop
+   id="stop3315"
+   style="stop-color:#df9967;stop-opacity:1"
+   offset="1" />
+    </linearGradient><linearGradient
+     id="linearGradient3231">
+      <stop
+   id="stop3233"
+   style="stop-color:#71abd8;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop3235"
+   style="stop-color:#79b2de;stop-opacity:1"
+   offset="0.07" />
+      <stop
+   id="stop3237"
+   style="stop-color:#84b9e3;stop-opacity:1"
+   offset="0.13" />
+      <stop
+   id="stop3239"
+   style="stop-color:#8dc1ea;stop-opacity:1"
+   offset="0.2" />
+      <stop
+   id="stop3241"
+   style="stop-color:#96c9f0;stop-opacity:1"
+   offset="0.25999999" />
+      <stop
+   id="stop3243"
+   style="stop-color:#a1d2f7;stop-opacity:1"
+   offset="0.33000001" />
+      <stop
+   id="stop3245"
+   style="stop-color:#acdbfb;stop-opacity:1"
+   offset="0.38999999" />
+      <stop
+   id="stop3247"
+   style="stop-color:#b9e3ff;stop-opacity:1"
+   offset="0.46000001" />
+      <stop
+   id="stop3249"
+   style="stop-color:#c6ecff;stop-opacity:1"
+   offset="0.51999998" />
+      <stop
+   id="stop3251"
+   style="stop-color:#d8f2fe;stop-opacity:1"
+   offset="0.58999997" />
+      <stop
+   id="stop3253"
+   style="stop-color:#acd0a5;stop-opacity:1"
+   offset="0.60000002" />
+      <stop
+   id="stop3255"
+   style="stop-color:#94bf8b;stop-opacity:1"
+   offset="0.62" />
+      <stop
+   id="stop3257"
+   style="stop-color:#a8c68f;stop-opacity:1"
+   offset="0.63999999" />
+      <stop
+   id="stop3259"
+   style="stop-color:#bdcc96;stop-opacity:1"
+   offset="0.66000003" />
+      <stop
+   id="stop3261"
+   style="stop-color:#d1d7ab;stop-opacity:1"
+   offset="0.68000001" />
+      <stop
+   id="stop3263"
+   style="stop-color:#e1e4b5;stop-opacity:1"
+   offset="0.70999998" />
+      <stop
+   id="stop3265"
+   style="stop-color:#efebc0;stop-opacity:1"
+   offset="0.73000002" />
+      <stop
+   id="stop3267"
+   style="stop-color:#e8e1b6;stop-opacity:1"
+   offset="0.75" />
+      <stop
+   id="stop3269"
+   style="stop-color:#ded6a3;stop-opacity:1"
+   offset="0.76999998" />
+      <stop
+   id="stop3271"
+   style="stop-color:#d3ca9d;stop-opacity:1"
+   offset="0.79000002" />
+      <stop
+   id="stop3273"
+   style="stop-color:#cab982;stop-opacity:1"
+   offset="0.81" />
+      <stop
+   id="stop3275"
+   style="stop-color:#c3a76b;stop-opacity:1"
+   offset="0.82999998" />
+      <stop
+   id="stop3277"
+   style="stop-color:#b9985a;stop-opacity:1"
+   offset="0.85000002" />
+      <stop
+   id="stop3279"
+   style="stop-color:#aa8753;stop-opacity:1"
+   offset="0.87" />
+      <stop
+   id="stop3281"
+   style="stop-color:#ac9a7c;stop-opacity:1"
+   offset="0.88999999" />
+      <stop
+   id="stop3283"
+   style="stop-color:#baae9a;stop-opacity:1"
+   offset="0.92000002" />
+      <stop
+   id="stop3285"
+   style="stop-color:#cac3b8;stop-opacity:1"
+   offset="0.94" />
+      <stop
+   id="stop3287"
+   style="stop-color:#e0ded8;stop-opacity:1"
+   offset="0.95999998" />
+      <stop
+   id="stop3289"
+   style="stop-color:#f5f4f2;stop-opacity:1"
+   offset="0.98000002" />
+      <stop
+   id="stop3291"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="1" />
+    </linearGradient><linearGradient
+     id="linearGradient3215">
+      <stop
+   id="stop3217"
+   style="stop-color:#000000;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop3219"
+   style="stop-color:#000000;stop-opacity:1"
+   offset="1" />
+    </linearGradient><linearGradient
+     id="lg1">
+      <stop
+   id="stop1"
+   style="stop-color:#71abd8;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop2"
+   style="stop-color:#79b2de;stop-opacity:1"
+   offset="0.07" />
+      <stop
+   id="stop3"
+   style="stop-color:#84b9e3;stop-opacity:1"
+   offset="0.13" />
+      <stop
+   id="stop4"
+   style="stop-color:#8dc1ea;stop-opacity:1"
+   offset="0.2" />
+      <stop
+   id="stop5"
+   style="stop-color:#96c9f0;stop-opacity:1"
+   offset="0.25999999" />
+      <stop
+   id="stop6"
+   style="stop-color:#a1d2f7;stop-opacity:1"
+   offset="0.33000001" />
+      <stop
+   id="stop7"
+   style="stop-color:#acdbfb;stop-opacity:1"
+   offset="0.38999999" />
+      <stop
+   id="stop8"
+   style="stop-color:#b9e3ff;stop-opacity:1"
+   offset="0.46000001" />
+      <stop
+   id="stop9"
+   style="stop-color:#c6ecff;stop-opacity:1"
+   offset="0.51999998" />
+      <stop
+   id="stop10"
+   style="stop-color:#d8f2fe;stop-opacity:1"
+   offset="0.58999997" />
+      <stop
+   id="stop11"
+   style="stop-color:#acd0a5;stop-opacity:1"
+   offset="0.60000002" />
+      <stop
+   id="stop12"
+   style="stop-color:#94bf8b;stop-opacity:1"
+   offset="0.62" />
+      <stop
+   id="stop13"
+   style="stop-color:#a8c68f;stop-opacity:1"
+   offset="0.63999999" />
+      <stop
+   id="stop14"
+   style="stop-color:#bdcc96;stop-opacity:1"
+   offset="0.66000003" />
+      <stop
+   id="stop15"
+   style="stop-color:#d1d7ab;stop-opacity:1"
+   offset="0.68000001" />
+      <stop
+   id="stop16"
+   style="stop-color:#e1e4b5;stop-opacity:1"
+   offset="0.70999998" />
+      <stop
+   id="stop17"
+   style="stop-color:#efebc0;stop-opacity:1"
+   offset="0.73000002" />
+      <stop
+   id="stop18"
+   style="stop-color:#e8e1b6;stop-opacity:1"
+   offset="0.75" />
+      <stop
+   id="stop19"
+   style="stop-color:#ded6a3;stop-opacity:1"
+   offset="0.76999998" />
+      <stop
+   id="stop20"
+   style="stop-color:#d3ca9d;stop-opacity:1"
+   offset="0.79000002" />
+      <stop
+   id="stop21"
+   style="stop-color:#cab982;stop-opacity:1"
+   offset="0.81" />
+      <stop
+   id="stop22"
+   style="stop-color:#c3a76b;stop-opacity:1"
+   offset="0.82999998" />
+      <stop
+   id="stop23"
+   style="stop-color:#b9985a;stop-opacity:1"
+   offset="0.85000002" />
+      <stop
+   id="stop24"
+   style="stop-color:#aa8753;stop-opacity:1"
+   offset="0.87" />
+      <stop
+   id="stop25"
+   style="stop-color:#ac9a7c;stop-opacity:1"
+   offset="0.88999999" />
+      <stop
+   id="stop26"
+   style="stop-color:#baae9a;stop-opacity:1"
+   offset="0.92000002" />
+      <stop
+   id="stop27"
+   style="stop-color:#cac3b8;stop-opacity:1"
+   offset="0.94" />
+      <stop
+   id="stop28"
+   style="stop-color:#e0ded8;stop-opacity:1"
+   offset="0.95999998" />
+      <stop
+   id="stop29"
+   style="stop-color:#f5f4f2;stop-opacity:1"
+   offset="0.98000002" />
+      <stop
+   id="stop30"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="1" />
+    </linearGradient><linearGradient
+     x1="173.78888"
+     y1="1067.2574"
+     x2="172.17529"
+     y2="917.80267"
+     id="linearGradient3202"
+     xlink:href="#lg1"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(1.0004208,0,0,0.7995912,259.9312,210.98312)" /><linearGradient
+     x1="349.18097"
+     y1="1182.9218"
+     x2="349.18097"
+     y2="964.02002"
+     id="linearGradient3221"
+     xlink:href="#linearGradient3215"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(-120,0)" /><linearGradient
+     x1="349.18097"
+     y1="1182.9218"
+     x2="349.18097"
+     y2="964.02002"
+     id="linearGradient3229"
+     xlink:href="#linearGradient3231"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(-120,0)" /><linearGradient
+     x1="323.96701"
+     y1="1053.0096"
+     x2="323.96701"
+     y2="788.49683"
+     id="linearGradient3317"
+     xlink:href="#linearGradient3311"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient3311"
+     id="linearGradient2980"
+     gradientUnits="userSpaceOnUse"
+     x1="323.96701"
+     y1="1053.0096"
+     x2="323.96701"
+     y2="788.49683" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient3231"
+     id="linearGradient2982"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(-120,0)"
+     x1="349.18097"
+     y1="1182.9218"
+     x2="349.18097"
+     y2="964.02002" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient3215"
+     id="linearGradient2984"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(-120,0)"
+     x1="349.18097"
+     y1="1182.9218"
+     x2="349.18097"
+     y2="964.02002" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#lg1"
+     id="linearGradient2986"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(1.0004208,0,0,0.7995912,259.9312,210.98312)"
+     x1="173.78888"
+     y1="1067.2574"
+     x2="172.17529"
+     y2="917.80267" /></defs>
+  <path
+   style="fill:url(#linearGradient2980);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+   id="path2415"
+   transform="matrix(1.0001297,0,0,0.85034243,78.145991,-567.81055)"
+   d="m 0,1052.5 c 4.8304552,0.6502 20.829647,-31.9253 21.116952,-49.0826 0.585575,-35.25477 23.833811,-32.7357 34.814435,-39.3974 12.723991,-7.71936 31.868229,-17.97162 45.658273,-26.23642 43.26676,-25.9311 95.56223,-68.75976 135.26264,-99.87747 14.54498,-11.40055 32.87805,-27.91296 47.37046,-39.38026 5.82488,-4.60901 8.50293,0.0668 9.70238,2.85364 5.22791,12.14671 13.59427,21.82781 29.10715,19.40477 7.76145,-1.2123 18.00995,-0.30962 25.11205,-7.41947 3.59614,-3.60006 0.96407,-6.60591 16.55113,-7.9902 4.40131,-0.39088 9.74991,-4.74945 11.9853,-8.56093 9.21217,-15.70731 19.00942,-3.01678 24.54132,-2.28291 11.72524,1.55549 22.14633,5.78367 32.53152,21.68768 4.57079,6.99977 12.20605,13.01505 15.9804,22.82914 2.76227,7.18247 8.43239,16.07549 13.69748,21.68768 7.44197,7.93258 16.20712,19.08569 21.11695,28.53642 6.6375,12.77625 19.37484,25.23028 30.24861,33.10225 18.73599,13.56376 44.14126,31.60512 59.92648,48.51191 7.06974,7.57206 9.59202,9.29708 11.9853,29.10715 C 588.65772,1016.1246 600,1052.5 600,1052.5 l -600,0 z" /><path
+   style="fill:url(#linearGradient2982);fill-opacity:1;stroke:url(#linearGradient2984);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+   id="path2422"
+   transform="translate(78.184891,-725.36548)"
+   d="m 342.71808,997.71007 c 0,0 -9.86278,-1.95158 -14.12553,-2.56828 -5.92273,-0.85686 -13.87777,-1.54827 -19.83281,-2.14023 -5.64569,-0.5612 -13.27913,-0.5582 -18.83404,-1.71218 -4.81088,-0.99942 -11.07212,-3.11891 -15.55235,-5.13656 -3.56794,-1.60681 -7.84967,-4.66591 -11.27189,-6.56338 -2.32763,-1.29057 -5.61206,-2.69341 -7.84751,-4.13778 -3.09967,-2.00276 -6.83876,-5.23435 -9.70239,-7.56215 -1.39324,-1.13255 -2.88012,-3.25128 -4.56582,-3.86951 -1.36637,-0.50112 -4.8512,0.49939 -4.8512,0.49939 0,0 -5.87791,6.22242 -8.70361,8.79204 -1.76094,1.60136 -4.11935,3.84846 -6.27801,4.85119 -3.69287,1.71539 -9.3737,1.66907 -13.26943,2.85364 -3.87847,1.17933 -8.90577,3.23065 -12.55603,4.99388 -2.08918,1.00916 -4.68694,2.70949 -6.70606,3.85241 -4.43582,2.5109 -10.00193,6.66795 -14.83894,8.27557 -5.81943,1.93418 -14.32667,1.16434 -20.26086,2.71098 -4.27659,1.1146 -9.64583,3.6567 -13.69748,5.4219 -10.25958,4.4697 -23.79827,10.786 -33.67298,16.0517 -4.14891,2.2124 -9.63139,5.2939 -13.48346,7.9902 -3.51351,2.4593 -7.63067,6.4821 -11.05786,9.0603 -3.6767,2.7659 -8.67391,6.3503 -12.62737,8.7037 -2.43449,1.4492 -8.41824,4.2804 -8.41824,4.2804 l 283.13306,0" /><path
+   style="fill:url(#linearGradient2986);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+   id="path2420"
+   transform="translate(78.184891,-725.36548)"
+   d="m 549.04867,1052.5529 -251.10167,0 c 0,0 14.14685,-14.2061 19.35674,-20.7639 7.39302,-9.3057 12.98448,-23.8459 21.6821,-32.40085 5.63605,-5.54357 16.79541,-10.02535 22.83874,-15.28771 5.44667,-4.74281 10.99869,-12.18619 15.41616,-17.56945 2.69865,-3.28867 5.97251,-7.83755 8.56453,-11.18056 3.79678,-4.89681 8.33752,-3.68785 11.70485,0 3.93346,4.30785 6.79592,11.24226 10.56292,15.64413 3.03289,3.54403 12.04934,2.97451 13.98873,0 3.48228,-5.34091 8.10202,-15.60339 10.27743,-19.5231 0.82838,-1.49259 3.79707,2.39238 5.70969,2.96627 1.7009,0.51037 4.36235,0.0478 5.99518,0.68452 6.99528,2.72786 13.00707,10.13202 18.69921,14.37501 3.96883,2.9584 9.63562,6.58672 13.41777,9.69742 5.37532,4.42106 11.41295,11.13469 16.69102,15.62997 7.99776,6.81165 20.80666,14.29415 27.96766,21.67665 6.88631,7.0992 12.32967,18.5336 18.55647,26.0119 2.63504,3.1646 9.67247,10.0397 9.67247,10.0397 z" /><g
+   id="g5685"
+   transform="translate(78.184891,-715.36548)">
+      <path
+   style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+   id="path4636"
+   d="m 10.690447,1090.0295 -12.0184655,-4.4195 12.0184655,-4.4195 c -1.920048,2.6093 -1.9089846,6.1792 0,8.839 z" />
+      <path
+   style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+   id="path4638"
+   d="m 589.30955,1081.1553 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6093 1.90899,-6.1792 0,-8.839 z" />
+      <path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:none"
+   id="path4624"
+   d="m 0,1085.5924 600,0" />
+    </g><switch
+   style="font-size:20px;font-weight:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch1"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5690-ro"
+     transform="translate(206.01302,-723.36548)"
+     y="1112.7487"
+     x="172.06641"
+     systemLanguage="ro"><tspan
+       id="tspan5692-ro"
+       y="1112.7487"
+       x="172.06641">600 km</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5690"
+     transform="translate(206.01302,-723.36548)"
+     y="1112.7487"
+     x="172.06641"><tspan
+       id="tspan5692"
+       y="1112.7487"
+       x="172.06641">600 km</tspan></text></switch>
+
+<g
+   id="g5717"
+   transform="translate(78.184891,-725.36548)">
+      <path
+   style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+   id="path5696"
+   d="m 308.60782,1070.0295 -12.01847,-4.4195 12.01847,-4.4195 c -1.92005,2.6093 -1.90899,6.1792 0,8.839 z" />
+      <path
+   style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+   id="path5698"
+   d="m 537.5302,1061.1553 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6093 1.90899,-6.1792 0,-8.839 z" />
+      <path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:none"
+   id="path5700"
+   d="m 297.947,1065.5924 250.27365,0" />
+    </g><switch
+   style="font-size:20px;font-weight:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch2"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5705-ro"
+     transform="translate(178.76968,-723.36548)"
+     y="1082.7487"
+     x="322.37875"
+     systemLanguage="ro"><tspan
+       id="tspan5707-ro"
+       y="1082.7487"
+       x="322.37875">251 km</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5705"
+     transform="translate(178.76968,-723.36548)"
+     y="1082.7487"
+     x="322.37875"><tspan
+       id="tspan5707"
+       y="1082.7487"
+       x="322.37875"> 251 km</tspan></text></switch>
+
+<switch
+   style="font-size:20px;font-weight:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch3"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5709-ro"
+     transform="translate(109.32635,-725.36548)"
+     y="1026.1731"
+     x="207.12051"
+     systemLanguage="ro"><tspan
+       id="tspan5711-ro"
+       y="1026.1731"
+       x="207.12051">Everest</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5709"
+     transform="translate(109.32635,-725.36548)"
+     y="1026.1731"
+     x="207.12051"><tspan
+       id="tspan5711"
+       y="1026.1731"
+       x="207.12051">Everest</tspan></text></switch>
+
+<switch
+   style="font-size:20px;font-weight:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch4"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5713-ro"
+     transform="translate(122.18489,-725.36548)"
+     y="1026.1731"
+     x="372.21365"
+     systemLanguage="ro"><tspan
+       id="tspan5715-ro"
+       y="1026.1731"
+       x="372.21365">Hawaii</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5713"
+     transform="translate(122.18489,-725.36548)"
+     y="1026.1731"
+     x="372.21365"><tspan
+       id="tspan5715"
+       y="1026.1731"
+       x="372.21365">Mauna Kea</tspan></text></switch>
+
+<switch
+   style="font-size:20px;font-weight:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch5"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5732-ro"
+     transform="translate(78.184891,-685.64839)"
+     y="793.96008"
+     x="16"
+     systemLanguage="ro"><tspan
+       id="tspan5734-ro"
+       y="793.96008"
+       x="16">22 500 m</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5732"
+     y="793.96008"
+     x="16"
+     transform="translate(78.184891,-685.64839)"><tspan
+       id="tspan5734"
+       y="793.96008"
+       x="16">22,500 m</tspan></text></switch>
+
+<path
+   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+   id="path5730"
+   transform="translate(78.184891,-725.36548)"
+   d="M 17.815109,828.50037 388,828.5 M 17.815109,964.02 240,964.02 M 17.815109,950.5 l 415.614161,0"
+   sodipodi:nodetypes="cccccc" /><switch
+   style="font-size:20px;font-weight:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch6"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5738-ro"
+     transform="translate(78.184891,-726.22402)"
+     y="949.96008"
+     x="16"
+     systemLanguage="ro"><tspan
+       id="tspan5740-ro"
+       y="949.96008"
+       x="16">10 200 m</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5738"
+     transform="translate(78.184891,-726.22402)"
+     y="949.96008"
+     x="16"><tspan
+       id="tspan5740"
+       y="949.96008"
+       x="16">10,200 m</tspan></text></switch>
+
+<switch
+   style="font-size:20px;font-weight:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch7"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5744-ro"
+     transform="translate(78.184891,-727.64839)"
+     y="975.96008"
+     x="16"
+     systemLanguage="ro"><tspan
+       id="tspan5746-ro"
+       y="975.96008"
+       x="16">8 844 m</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5744"
+     transform="translate(78.184891,-727.64839)"
+     y="975.96008"
+     x="16"><tspan
+       id="tspan5746"
+       y="975.96008"
+       x="16">8,849 m</tspan></text></switch>
+
+<switch
+   style="font-size:20px;font-weight:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch8"><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5748-ro"
+     transform="translate(138.18489,-725.36548)"
+     y="906.1731"
+     x="269.12051"
+     systemLanguage="ro"><tspan
+       id="tspan5750-ro"
+       y="906.1731"
+       x="269.12051">Olympus Mons</tspan></text><text
+     style="font-weight:normal;font-size:20px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text5748"
+     transform="translate(138.18489,-725.36548)"
+     y="906.1731"
+     x="269.12051"><tspan
+       id="tspan5750"
+       y="906.1731"
+       x="269.12051">Olympus Mons</tspan></text></switch>
+
+<path
+   style="fill:none;stroke:#646464;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+   id="path5752"
+   transform="translate(78.184891,-725.36548)"
+   d="m 472,992.02 40,0" />
+
+
+<path
+   style="fill:none;stroke:#646464;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+   id="path3333"
+   transform="translate(78.184891,-691.36548)"
+   d="m 327.52339,817.67951 40,0" /><switch
+   style="font-size:14px;font-weight:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed,'"
+   id="switch9"><text
+     style="font-weight:normal;font-size:14px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text3335-ro"
+     transform="translate(78.184891,-691.36548)"
+     y="821.39337"
+     x="395.85458"
+     systemLanguage="ro"><tspan
+       id="tspan3339-ro"
+       y="821.39337"
+       x="395.85458">Caldeira</tspan></text><text
+     style="font-weight:normal;font-size:14px;line-height:0%;font-family:'DejaVu Sans Condensed';-inkscape-font-specification:'DejaVu Sans Condensed,';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#646464;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     id="text3335"
+     transform="translate(78.184891,-691.36548)"
+     y="821.39337"
+     x="395.85458"><tspan
+       id="tspan3339"
+       y="821.39337"
+       x="395.85458">Caldera</tspan></text></switch>
+
+
+
+<switch
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:22.2053px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   id="switch10"
+   transform="translate(-262.05377,10.818734)"><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="71.48864"
+     y="28.648832"
+     id="text3102-ro"
+     systemLanguage="ro"><tspan
+       sodipodi:role="line"
+       id="tspan3104-ro"
+       x="71.48864"
+       y="28.648832"
+       style="font-size:22.2053px;line-height:1.25">Dimensiunile comparative ale lui Olympus Mons,</tspan><tspan
+       sodipodi:role="line"
+       x="71.48864"
+       y="56.405457"
+       id="tspan3125-ro"
+       style="font-size:22.2053px;line-height:1.25">masivelor din Insulele Hawaii și a Everestului</tspan></text><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:24px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:674.26;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+     x="278.65857"
+     y="28.648832"
+     id="text3102"><tspan
+       x="278.65857"
+       y="28.648832"
+       id="tspan2"><tspan
+         style="line-height:1.25;text-align:center;text-anchor:middle"
+         id="tspan1">Size comparison of Olympus Mons, 
+</tspan></tspan><tspan
+       x="278.65857"
+       y="58.648833"
+       id="tspan4"><tspan
+         style="line-height:1.25;text-align:center;text-anchor:middle"
+         id="tspan3">Mauna Kea, and Mount Everest</tspan></tspan></text></switch>
+<switch
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.1215px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none"
+   id="switch11"
+   transform="translate(-14.424978,13.222897)"><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none"
+     x="573.70062"
+     y="102.47867"
+     id="text3127-ro"
+     systemLanguage="ro"><tspan
+       sodipodi:role="line"
+       id="tspan3129-ro"
+       x="573.70062"
+       y="102.47867"
+       style="font-size:13.1215px;line-height:1.25">Raportul între</tspan><tspan
+       sodipodi:role="line"
+       x="573.70062"
+       y="118.88055"
+       id="tspan3131-ro"
+       style="font-size:13.1215px;line-height:1.25">înălțime și lățime</tspan><tspan
+       sodipodi:role="line"
+       x="573.70062"
+       y="135.28242"
+       id="tspan3133-ro"
+       style="font-size:13.1215px;line-height:1.25">este 1:10</tspan></text><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:104.911;display:inline;fill:#646464;fill-opacity:1;stroke:none"
+     x="573.70062"
+     y="102.47867"
+     id="text3127"><tspan
+       x="573.70062"
+       y="102.47867"
+       id="tspan6"><tspan
+         style="font-size:13.1215px;line-height:1.25;fill:#000000"
+         id="tspan5">Vertical scale </tspan></tspan><tspan
+       x="573.70062"
+       y="118.88054"
+       id="tspan8"><tspan
+         style="font-size:13.1215px;line-height:1.25;fill:#000000"
+         id="tspan7">exaggerated 10×</tspan></tspan></text></switch>
+<switch
+   style="font-size:13.12154388px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+   id="switch12"><text
+     id="text3135-ro"
+     y="263.14349"
+     x="594.13599"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none"
+     xml:space="preserve"
+     systemLanguage="ro"><tspan
+       id="tspan3141-ro"
+       y="263.14349"
+       x="594.13599"
+       sodipodi:role="line"
+       style="font-size:13.1215px;line-height:1.25">Nivelul</tspan><tspan
+       y="279.54541"
+       x="594.13599"
+       sodipodi:role="line"
+       id="tspan3148-ro"
+       style="font-size:13.1215px;line-height:1.25">mării</tspan></text><text
+     id="text3135"
+     y="263.14349"
+     x="594.13599"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="263.14349"
+       x="594.13599"
+       sodipodi:role="line"
+       id="tspan3148"
+       style="font-size:13.1215px;line-height:1.25">Sea level</tspan></text></switch>
+<text
+   xml:space="preserve"
+   id="text12"
+   style="white-space:pre;shape-inside:url(#rect12);display:inline;fill:#000000" /><text
+   xml:space="preserve"
+   id="text15"
+   style="white-space:pre;shape-inside:url(#rect15);display:inline;fill:#000000" /></svg>
