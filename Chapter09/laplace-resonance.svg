@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#0b1020"/>
+<text x="800" y="70" text-anchor="middle" fill="#ffffff" font-size="42" font-family="DejaVu Sans">The Io-Europa-Ganymede 1:2:4 orbital resonance</text>
+<circle cx="800" cy="455" r="80" fill="#d8b46a" stroke="#f5df9c" stroke-width="5"/>
+<text x="800" y="465" text-anchor="middle" fill="#1b1305" font-size="28" font-family="DejaVu Sans" font-weight="bold">Jupiter</text>
+<circle cx="800" cy="455" r="150" fill="none" stroke="#ffcc66" stroke-width="4"/><circle cx="800" cy="455" r="265" fill="none" stroke="#7dd3fc" stroke-width="4"/><circle cx="800" cy="455" r="410" fill="none" stroke="#a7f3d0" stroke-width="4"/>
+<circle cx="950" cy="455" r="30" fill="#ffd166"/><text x="1010" y="462" fill="#ffd166" font-size="30" font-family="DejaVu Sans">Io: 4 orbits</text>
+<circle cx="800" cy="190" r="26" fill="#7dd3fc"/><text x="845" y="200" fill="#7dd3fc" font-size="30" font-family="DejaVu Sans">Europa: 2 orbits</text>
+<circle cx="390" cy="455" r="34" fill="#a7f3d0"/><text x="210" y="462" fill="#a7f3d0" font-size="30" font-family="DejaVu Sans">Ganymede: 1 orbit</text>
+<text x="800" y="805" text-anchor="middle" fill="#ffffff" font-size="32" font-family="DejaVu Sans">Repeated gravitational tugs keep Io's orbit slightly elliptical.</text>
+<text x="800" y="850" text-anchor="middle" fill="#ffffff" font-size="32" font-family="DejaVu Sans">That changing tidal flexing turns orbital energy into heat.</text>
+</svg>

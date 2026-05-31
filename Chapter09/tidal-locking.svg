@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#0b1020"/>
+<text x="800" y="70" text-anchor="middle" fill="#ffffff" font-size="42" font-family="DejaVu Sans">Tides, friction, and synchronous rotation</text>
+<circle cx="420" cy="450" r="145" fill="#caa96a" stroke="#f4d68c" stroke-width="5"/>
+<text x="420" y="455" text-anchor="middle" fill="#17100b" font-size="34" font-weight="bold" font-family="DejaVu Sans">Jupiter</text>
+<ellipse cx="965" cy="450" rx="115" ry="88" fill="#d3e9ff" stroke="#ffffff" stroke-width="4"/>
+<circle cx="920" cy="430" r="18" fill="#2d5fa7"/>
+<text x="965" y="585" text-anchor="middle" fill="#d8eeff" font-size="30" font-family="DejaVu Sans">tidal bulge stretched toward Jupiter</text>
+<path d="M565,450 L835,450" stroke="#ffffff" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M965,285 A165,165 0 1 1 850,330" fill="none" stroke="#ffbd59" stroke-width="5" marker-end="url(#arrow2)"/>
+<text x="1065" y="265" fill="#ffe0a3" font-size="28" font-family="DejaVu Sans">rotation is slowed by tidal friction</text>
+<text x="965" y="710" text-anchor="middle" fill="#ffffff" font-size="30" font-family="DejaVu Sans">After enough time, one rotation takes the same time as one orbit.</text>
+<text x="965" y="755" text-anchor="middle" fill="#ffffff" font-size="30" font-family="DejaVu Sans">The same hemisphere always faces the planet.</text>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#ffffff"/></marker><marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#ffbd59"/></marker></defs>
+</svg>

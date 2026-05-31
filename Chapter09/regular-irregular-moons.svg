@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#0b1020"/>
+<text x="800" y="70" text-anchor="middle" fill="#ffffff" font-size="42" font-family="DejaVu Sans">Regular and irregular moons around a giant planet</text>
+<circle cx="800" cy="455" r="92" fill="#d8b46a" stroke="#f5df9c" stroke-width="5"/>
+<text x="800" y="465" text-anchor="middle" fill="#1b1305" font-size="32" font-family="DejaVu Sans" font-weight="bold">giant planet</text>
+<ellipse cx="800" cy="455" rx="360" ry="120" fill="none" stroke="#5fb3ff" stroke-width="5"/>
+<ellipse cx="800" cy="455" rx="520" ry="175" fill="none" stroke="#5fb3ff" stroke-width="3" opacity="0.65"/>
+<circle cx="445" cy="455" r="35" fill="#b7d7ff"/><text x="445" y="520" text-anchor="middle" fill="#d9ecff" font-size="25" font-family="DejaVu Sans">regular moon</text>
+<circle cx="615" cy="340" r="28" fill="#d0efff"/><circle cx="1080" cy="540" r="42" fill="#c9d8ff"/><circle cx="1215" cy="455" r="33" fill="#e6f1ff"/>
+<text x="800" y="245" text-anchor="middle" fill="#d9ecff" font-size="31" font-family="DejaVu Sans">large regular moons: nearly circular, low-inclination, prograde orbits</text>
+<path d="M280,195 C650,20 1050,810 1350,675" fill="none" stroke="#ffbd59" stroke-width="4" stroke-dasharray="18 15"/>
+<path d="M1340,675 l-45,-8 l29,-35" fill="none" stroke="#ffbd59" stroke-width="4"/>
+<path d="M300,720 C560,775 690,130 1135,190" fill="none" stroke="#ff7b7b" stroke-width="4" stroke-dasharray="14 12"/>
+<path d="M1128,190 l-36,30 l-9,-48" fill="none" stroke="#ff7b7b" stroke-width="4"/>
+<ellipse cx="310" cy="195" rx="42" ry="24" fill="#9d8b77" transform="rotate(-25 310 195)"/>
+<ellipse cx="1300" cy="685" rx="52" ry="25" fill="#8c817a" transform="rotate(17 1300 685)"/>
+<ellipse cx="1135" cy="190" rx="39" ry="20" fill="#a0866c" transform="rotate(-17 1135 190)"/>
+<text x="800" y="815" text-anchor="middle" fill="#ffe0a3" font-size="31" font-family="DejaVu Sans">irregular moons: small, inclined, elliptical, often captured, sometimes retrograde</text>
+</svg>

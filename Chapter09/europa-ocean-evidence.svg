@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#0b1020"/>
+<text x="800" y="70" text-anchor="middle" fill="#ffffff" font-size="42" font-family="DejaVu Sans">Why Europa is interpreted as an ocean world</text>
+<circle cx="800" cy="425" r="210" fill="#d8f0ff" stroke="#ffffff" stroke-width="5"/>
+<path d="M610,460 C700,390 840,520 990,420" fill="none" stroke="#2463a6" stroke-width="14" opacity="0.9"/>
+<path d="M600,340 C720,300 900,370 1015,320" fill="none" stroke="#6b4e3d" stroke-width="7"/>
+<path d="M670,520 C780,505 840,580 1000,545" fill="none" stroke="#6b4e3d" stroke-width="7"/>
+<text x="800" y="430" text-anchor="middle" fill="#0b2d4d" font-size="32" font-family="DejaVu Sans" font-weight="bold">ice shell</text>
+<text x="800" y="690" text-anchor="middle" fill="#ffffff" font-size="30" font-family="DejaVu Sans">No single clue proves an ocean. The case is cumulative.</text>
+<rect x="80" y="140" width="400" height="130" rx="25" fill="#172554" stroke="#93c5fd" stroke-width="3"/><text x="280" y="190" text-anchor="middle" fill="#dbeafe" font-size="28" font-family="DejaVu Sans">few impact craters</text><text x="280" y="235" text-anchor="middle" fill="#dbeafe" font-size="24" font-family="DejaVu Sans">young/resurfaced ice</text>
+<rect x="1120" y="140" width="400" height="130" rx="25" fill="#172554" stroke="#93c5fd" stroke-width="3"/><text x="1320" y="190" text-anchor="middle" fill="#dbeafe" font-size="28" font-family="DejaVu Sans">chaos terrain</text><text x="1320" y="235" text-anchor="middle" fill="#dbeafe" font-size="24" font-family="DejaVu Sans">ice blocks moved and refroze</text>
+<rect x="80" y="610" width="400" height="130" rx="25" fill="#172554" stroke="#93c5fd" stroke-width="3"/><text x="280" y="660" text-anchor="middle" fill="#dbeafe" font-size="28" font-family="DejaVu Sans">induced magnetic field</text><text x="280" y="705" text-anchor="middle" fill="#dbeafe" font-size="24" font-family="DejaVu Sans">requires a conductor</text>
+<rect x="1120" y="610" width="400" height="130" rx="25" fill="#172554" stroke="#93c5fd" stroke-width="3"/><text x="1320" y="660" text-anchor="middle" fill="#dbeafe" font-size="28" font-family="DejaVu Sans">salts on surface</text><text x="1320" y="705" text-anchor="middle" fill="#dbeafe" font-size="24" font-family="DejaVu Sans">consistent with ocean material</text>
+</svg>
