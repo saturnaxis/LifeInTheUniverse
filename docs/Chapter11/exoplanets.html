@@ -524,7 +524,7 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="exoplanets">
 <h1><span class="section-number">10. </span>Exoplanets<a class="headerlink" href="#exoplanets" title="Link to this heading">#</a></h1>
-<p>Jun 05, 2026 | 10993 words | 55 min read</p>
+<p>Jun 05, 2026 | 11083 words | 55 min read</p>
 <div class="note admonition">
 <p class="admonition-title">How to use this chapter</p>
 <p>This chapter connects the physics of stars to the practical search for habitable worlds. Focus on three questions as you read: what kinds of stars provide useful environments, how planets around other stars are detected and measured, and why a possible biosignature is not the same as confirmed life.</p>
@@ -763,12 +763,28 @@ Radial Velocity</label><div class="sd-tab-content docutils">
 <p>Transits require a fortunate alignment. Most planets do not transit from our point of view. But if a planet does transit, the geometry is extremely valuable. The orbit must be nearly edge-on, so the inclination is close to <span class="math notranslate nohighlight">\(90^\circ\)</span>. That reduces the mass ambiguity if radial-velocity data are also available. Transits also provide the planet’s radius, which radial velocity alone cannot measure.</p>
 <p>Kepler made the transit method statistically transformative. It stared at about 150,000 stars for roughly four years and looked for repeated dips. TESS uses the same basic method but surveys bright nearby stars across the sky, providing targets that are easier to follow up. Current catalog numbers change as candidates are confirmed, so the chapter uses the NASA Exoplanet Archive rather than a static slide number when a current count is needed.</p>
 <p>Microlensing is different. It depends on gravity bending light from a background star. If a foreground star with a planet passes nearly in front of that background star, the foreground gravity can briefly magnify the background light. A planet can add a small extra feature to the brightening pattern. Microlensing is powerful because it can find planets at larger orbital distances and even free-floating planets, but each event is usually a one-time alignment. It is much harder to revisit the same planet later.</p>
+<div class="sd-tab-set docutils">
+<input checked="checked" id="sd-tab-item-6" name="sd-tab-set-3" type="radio">
+<label class="sd-tab-label" for="sd-tab-item-6">
+Transit photometry</label><div class="sd-tab-content docutils">
 <figure class="align-default" id="transit-depth-figure">
 <img alt="Diagram showing that a larger transiting planet blocks more stellar area and produces a deeper light-curve dip." src="../_images/transit-depth-figure.png" />
 <figcaption>
 <p><span class="caption-number">Fig. 10.9 </span><span class="caption-text">Transit photometry is powerful because a planet’s shadow carries geometric information. A larger planet hides more of the stellar disk and produces a deeper dip, while an Earth-sized planet around a Sun-sized star produces a much smaller signal. Image credit: Instructor-created course media.</span><a class="headerlink" href="#transit-depth-figure" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
+</div>
+<input id="sd-tab-item-7" name="sd-tab-set-3" type="radio">
+<label class="sd-tab-label" for="sd-tab-item-7">
+Microlensing</label><div class="sd-tab-content docutils">
+<figure class="align-default" id="microlensing-figure">
+<img alt="Diagram showing how a foreground lens star magnifies the light of a background source star and how a planet can create a short-lived extra brightening in the microlensing light curve." src="../_images/microlensing-figure.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 10.10 </span><span class="caption-text">Microlensing detects planets indirectly through gravity rather than through the planet’s own light or shadow. When a foreground lens star passes nearly in front of a more distant background star, the lens star’s gravity bends and amplifies the background starlight. A planet orbiting the lens star can add a brief extra brightening, or planetary blip, to the microlensing light curve. This method does not require a transit, works especially well for distant systems, and can reveal planets that are difficult to find by other methods. Image credit: Instructor-created course media.</span><a class="headerlink" href="#microlensing-figure" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</div>
+</div>
 <div class="tip admonition">
 <p class="admonition-title">Try the numbers</p>
 <p>A transit depth is approximately the area ratio between the planet and the star: <span class="math notranslate nohighlight">\(\delta \approx (R_p/R_*)^2\)</span>. The Sun is about 109 Earth radii, and Jupiter is about 11.2 Earth radii. The code cell below compares an Earth transit and a Jupiter transit across a Sun-sized star.</p>
@@ -818,7 +834,7 @@ The Jupiter transit signal is about 125 times larger than the Earth transit sign
 <figure class="align-default" id="mass-radius-composition-figure">
 <img alt="Mass-radius diagram showing how Earth, a super-Earth, and a mini-Neptune compare with theoretical composition curves for iron-rich, rocky, and water-rich planets." src="../_images/mass_radius.svg" />
 <figcaption>
-<p><span class="caption-number">Fig. 10.10 </span><span class="caption-text">Mass and radius do not uniquely determine a planet’s composition, but together they strongly narrow the possibilities. Dense planets fall closer to iron-rich or rocky composition curves, while larger radii at the same mass point toward lower-density materials such as water, volatile layers, or hydrogen-helium envelopes. The example planets show an Earth-analog, a larger rocky or water-rich super-Earth, and a lower-density mini-Neptune. Figure created by the instructor using <a class="reference external" href="https://github.com/castro-gzlz/mr-plotter"><code class="docutils literal notranslate"><span class="pre">mr-plotter</span></code></a>, with additional instructor-created course media added for visual interpretation.</span><a class="headerlink" href="#mass-radius-composition-figure" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 10.11 </span><span class="caption-text">Mass and radius do not uniquely determine a planet’s composition, but together they strongly narrow the possibilities. Dense planets fall closer to iron-rich or rocky composition curves, while larger radii at the same mass point toward lower-density materials such as water, volatile layers, or hydrogen-helium envelopes. The example planets show an Earth-analog, a larger rocky or water-rich super-Earth, and a lower-density mini-Neptune. Figure created by the instructor using <a class="reference external" href="https://github.com/castro-gzlz/mr-plotter"><code class="docutils literal notranslate"><span class="pre">mr-plotter</span></code></a>, with additional instructor-created course media added for visual interpretation.</span><a class="headerlink" href="#mass-radius-composition-figure" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <div class="tip admonition">
@@ -870,7 +886,7 @@ The same mass can imply a very different planet if the radius is different.
 <figure class="align-default" id="tess-all-sky-figure">
 <img alt="All-sky TESS mosaic with blue dots marking confirmed planets and orange dots marking candidate planets." src="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014985/TESS_both_bin4_planets-Half.jpg" />
 <figcaption>
-<p><span class="caption-number">Fig. 10.11 </span><span class="caption-text">TESS surveys the sky in sectors and searches for tiny dips in the light of bright nearby stars. This updated NASA SVS mosaic is selected over older TESS-by-the-numbers graphics because it visually connects the survey geometry to thousands of confirmed and candidate worlds. Blue dots mark confirmed planets and orange dots mark candidates as of the September 2025 mosaic. Image credit: <a class="reference external" href="https://svs.gsfc.nasa.gov/14985">NASA Scientific Visualization Studio</a>, NASA/MIT/TESS and Veselin Kostov (University of Maryland College Park); NASA media.</span><a class="headerlink" href="#tess-all-sky-figure" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 10.12 </span><span class="caption-text">TESS surveys the sky in sectors and searches for tiny dips in the light of bright nearby stars. This updated NASA SVS mosaic is selected over older TESS-by-the-numbers graphics because it visually connects the survey geometry to thousands of confirmed and candidate worlds. Blue dots mark confirmed planets and orange dots mark candidates as of the September 2025 mosaic. Image credit: <a class="reference external" href="https://svs.gsfc.nasa.gov/14985">NASA Scientific Visualization Studio</a>, NASA/MIT/TESS and Veselin Kostov (University of Maryland College Park); NASA media.</span><a class="headerlink" href="#tess-all-sky-figure" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <div class="tip margin checkpoint admonition">
@@ -954,7 +970,7 @@ A star with 0.01 times the Sun&#39;s luminosity has an Earth-equivalent distance
 <figure class="align-default" id="exomoon-habitability-challenges">
 <img alt="Infographic showing three possible exomoon formation pathways: giant impacts, regular moons around giant planets, and moons carried inward by migrating giant planets, plus a bottom panel showing that a moon can lie in the habitable zone without being habitable." src="../_images/exomoons_and_their_habitability_challenges.png" />
 <figcaption>
-<p><span class="caption-number">Fig. 10.12 </span><span class="caption-text">Large habitable exomoons are possible in principle, but each formation pathway has a bottleneck. Giant impacts can make large moons, but the impact must be just right; regular moons form naturally around giant planets, but their masses are limited by circumplanetary disk physics; and migrating giant planets could carry moons into the habitable zone, but migration can scatter moons away or strongly alter their climates. The bottom panel emphasizes a separate habitability point: being located in the star’s habitable zone is not enough by itself. Our Moon shares Earth’s distance from the Sun, but it is airless, dry, and lacks the long-term surface conditions needed for Earthlike habitability. Image credit: Instructor-created course media.</span><a class="headerlink" href="#exomoon-habitability-challenges" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 10.13 </span><span class="caption-text">Large habitable exomoons are possible in principle, but each formation pathway has a bottleneck. Giant impacts can make large moons, but the impact must be just right; regular moons form naturally around giant planets, but their masses are limited by circumplanetary disk physics; and migrating giant planets could carry moons into the habitable zone, but migration can scatter moons away or strongly alter their climates. The bottom panel emphasizes a separate habitability point: being located in the star’s habitable zone is not enough by itself. Our Moon shares Earth’s distance from the Sun, but it is airless, dry, and lacks the long-term surface conditions needed for Earthlike habitability. Image credit: Instructor-created course media.</span><a class="headerlink" href="#exomoon-habitability-challenges" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <div class="tip margin checkpoint admonition">
@@ -991,7 +1007,7 @@ A star with 0.01 times the Sun&#39;s luminosity has an Earth-equivalent distance
 <figure class="align-default" id="k218-spectrum-figure">
 <img alt="NASA Webb spectrum graphic for K2-18 b showing methane, carbon dioxide, and possible dimethyl sulfide features." src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/09/STScI-01H9RF3TQE6XA9X01KXXJ351Z6.png?crop=faces%2Cfocalpoint&amp;fit=clip&amp;h=2160&amp;w=3840" />
 <figcaption>
-<p><span class="caption-number">Fig. 10.13 </span><span class="caption-text">K2-18 b is a strong teaching example because the same spectrum can support a careful scientific statement and a misleading headline. Webb detected methane and carbon dioxide in the 2023 data, while DMS remained a candidate feature requiring further validation. Image credit: <a class="reference external" href="https://science.nasa.gov/asset/webb/atmosphere-composition-of-exoplanet-k2-18-b-niriss-and-nirspec/">NASA Science</a>, NASA, ESA, CSA, Ralf Crawford (STScI), Joseph Olmsted (STScI); science credit Nikku Madhusudhan (IoA); NASA media.</span><a class="headerlink" href="#k218-spectrum-figure" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 10.14 </span><span class="caption-text">K2-18 b is a strong teaching example because the same spectrum can support a careful scientific statement and a misleading headline. Webb detected methane and carbon dioxide in the 2023 data, while DMS remained a candidate feature requiring further validation. Image credit: <a class="reference external" href="https://science.nasa.gov/asset/webb/atmosphere-composition-of-exoplanet-k2-18-b-niriss-and-nirspec/">NASA Science</a>, NASA, ESA, CSA, Ralf Crawford (STScI), Joseph Olmsted (STScI); science credit Nikku Madhusudhan (IoA); NASA media.</span><a class="headerlink" href="#k218-spectrum-figure" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <div class="tip admonition">
@@ -1013,7 +1029,7 @@ A star with 0.01 times the Sun&#39;s luminosity has an Earth-equivalent distance
 <figure class="align-default" id="biosignature-ladder-figure">
 <img alt="Evidence ladder showing planet detection, atmosphere measurement, biosignature candidate, and false-positive testing." src="../_images/biosignature-ladder-figure.png" />
 <figcaption>
-<p><span class="caption-number">Fig. 10.14 </span><span class="caption-text">A biosignature search is an evidence ladder. Planet detection comes first, atmospheric characterization comes next, and a possible biosignature must still survive false-positive testing before it can become a strong life claim. Image credit: Instructor-created course media.</span><a class="headerlink" href="#biosignature-ladder-figure" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 10.15 </span><span class="caption-text">A biosignature search is an evidence ladder. Planet detection comes first, atmospheric characterization comes next, and a possible biosignature must still survive false-positive testing before it can become a strong life claim. Image credit: Instructor-created course media.</span><a class="headerlink" href="#biosignature-ladder-figure" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <p>The most powerful atmospheric argument would involve chemical disequilibrium: gases that should react away unless some process keeps replenishing them. On Earth, oxygen is maintained mainly by photosynthesis, while methane has biological and nonbiological sources. Oxygen alone is not perfect. Methane alone is not perfect. A combination such as oxygen plus methane in the right planetary context could be more compelling because the gases react with each other and require replenishment.</p>
@@ -1035,7 +1051,7 @@ A star with 0.01 times the Sun&#39;s luminosity has an Earth-equivalent distance
 <figure class="align-default" id="rare-earth-filters-figure">
 <img alt="Diagram showing Rare Earth arguments as filters: enough metals, stable orbit, moderate impacts, climate regulation, and possibly a large moon." src="../_images/rare-earth-filters-figure.png" />
 <figcaption>
-<p><span class="caption-number">Fig. 10.15 </span><span class="caption-text">Rare Earth arguments are best treated as proposed filters. Some may be necessary, some may only improve the odds, and some may be Earth-specific details that are not required elsewhere. Image credit: Instructor-created course media.</span><a class="headerlink" href="#rare-earth-filters-figure" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 10.16 </span><span class="caption-text">Rare Earth arguments are best treated as proposed filters. Some may be necessary, some may only improve the odds, and some may be Earth-specific details that are not required elsewhere. Image credit: Instructor-created course media.</span><a class="headerlink" href="#rare-earth-filters-figure" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <div class="tip margin checkpoint admonition">
