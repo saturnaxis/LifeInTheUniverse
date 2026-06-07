@@ -133,6 +133,14 @@ div.exercise > p.admonition-title{
   display: block;
 }
 
+/* Override justified body text inside grid cards 
+.bd-content .sd-card .sd-card-body,
+.bd-content .sd-card .sd-card-body p,
+.bd-content .sd-card .sd-card-body li {
+  text-align: left !important;
+  text-align-last: left !important;
+}*/
+
 /* -----------------------------
    etamu-dropdown styling
    ----------------------------- */
