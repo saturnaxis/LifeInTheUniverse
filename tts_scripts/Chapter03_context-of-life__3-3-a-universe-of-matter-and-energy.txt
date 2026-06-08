@@ -1,0 +1,192 @@
+A universe of matter and energy.
+
+Atoms: the building blocks of matter.
+
+The previous section explained how stars made the elements that later became planets and living organisms. Now we need to zoom in. What are those elements actually made of? To answer that, we move from galaxies and stars to atoms.
+
+Ancient thinkers often described matter using a small set of basic substances, such as earth, water, air, and fire. That idea was useful historically, but modern science gives us a different picture. Today, we identify more than one hundred chemical elements. Each element is a type of atom, and atoms are the basic building blocks of ordinary matter.
+
+An atom is made from three main subatomic particles: protons, neutrons, and electrons. Protons have positive electric charge, electrons have negative electric charge, and neutrons have no electric charge. Protons and neutrons are packed into the atom’s nucleus, while electrons occupy the surrounding region. A drawing of an atom is always simplified because the nucleus is tiny compared with the space occupied by the electrons.
+
+Hydrogen and helium are the simplest examples. A hydrogen atom has one proton and one electron. Helium has two protons, usually two neutrons, and two electrons. These two elements were also the main ingredients of the early universe, which is why they appear so often in astronomy.
+
+For a neutral atom, the number of protons equals the number of electrons. The positive charge from the protons and the negative charge from the electrons balance. If an atom gains or loses electrons, it becomes an ion. Ions matter because charged atoms behave differently in chemical reactions, in planetary atmospheres, and in space environments shaped by radiation and magnetic fields.
+
+Pause and check your understanding.
+
+What changes when a neutral atom becomes an ion?
+
+Atoms matter for the search for life because life is chemistry organized in a special way. A planet can have the right elements only if those elements exist in the first place. Hydrogen, carbon, nitrogen, oxygen, phosphorus, sulfur, and many other elements can combine into molecules, minerals, atmospheres, oceans, and eventually living systems. Understanding atoms is the first step toward understanding the chemistry that makes planets and life possible.
+
+Atomic number, mass number, and isotopes.
+
+Once we know that atoms contain protons, neutrons, and electrons, we can describe atoms more precisely. The two most important numbers are the atomic number and the mass number. These numbers tell us what element an atom is and which version of that element we are looking at.
+
+The atomic number, or proton number, is written as Z. It is the number of protons in the nucleus, and it identifies the element. Every hydrogen atom has one proton, so hydrogen has Z equals 1. Every helium atom has two protons, so helium has Z equals 2. Every carbon atom has six protons, so carbon has Z equals 6. If the number of protons changes, the element changes.
+
+The mass number is written as A. It is the total number of protons and neutrons in the nucleus. Electrons are important for chemistry, but they contribute very little to the atom’s total mass. For this reason, the mass number focuses on the particles in the nucleus.
+
+A compact way to write this information is to place the mass number above the atomic number to the left of the chemical symbol. In spoken form, we can describe the notation as A over Z, followed by the chemical symbol X.
+In this notation, X is the chemical symbol written in roman font, Z is the atomic number, and A is the mass number. For example, carbon always has Z equals 6 because every carbon atom has six protons.
+
+Isotopes are versions of the same element with different numbers of neutrons. Carbon-12 and carbon-14 are both carbon because both have six protons. In isotope notation, carbon-12 is written with 12 above 6 to the left of C, while carbon-14 is written with 14 above 6 to the left of C.
+
+Carbon-12: 6 protons plus 6 neutrons equals 12.
+Carbon-14: 6 protons plus 8 neutrons equals 14.
+
+The isotope name tells you the element and the mass number. Carbon-14 does not mean carbon has fourteen protons. It means this carbon atom has a total of fourteen protons plus neutrons. Since carbon always has six protons, the remaining eight particles in the nucleus must be neutrons.
+
+Reading isotope notation.
+
+In isotope notation, the lower-left number is Z, the atomic number. The upper-left number is A, the mass number. The chemical symbol tells you the element.
+
+Some isotopes are stable, while others are radioactive. A radioactive isotope changes over time as its nucleus decays into a different form. Carbon-14 is radioactive, which is why it can be used to estimate the ages of once-living material. That dating method is not the main point here, but it shows that isotopes are not just vocabulary. They can preserve information about time, chemistry, and physical processes.
+
+Pause and check your understanding.
+
+Why are carbon-12 and carbon-14 both carbon?
+
+Isotopes matter in astrobiology because they can act like chemical fingerprints. Scientists use isotope patterns to study meteorites, planetary atmospheres, ancient rocks, water histories, and biological materials. The basic idea is simple: atoms of the same element can come in different versions, and those versions can carry clues about where matter has been and what has happened to it.
+
+Molecules, compounds, and organic chemistry.
+
+Atoms can join together to form molecules. A molecule consists of two or more atoms bonded together. The atoms may be the same element, as in molecular oxygen, or different elements, as in water. Molecules matter because the properties of a substance depend not only on which atoms are present, but also on how those atoms are combined.
+
+A compound is a molecule made from two or more different elements. This means all compounds are molecules, but not all molecules are compounds. For example, oxygen is a molecule but not a compound because it contains only oxygen atoms. Water, water, is both a molecule and a compound because it contains hydrogen and oxygen.
+
+Chemical properties can differ strongly between atoms and molecules. Atomic oxygen behaves differently from molecular oxygen. Molecular oxygen is the gas many organisms use in respiration. Ozone contains only oxygen too, but it has different chemical and atmospheric behavior. This is why chemical formulas matter: changing the number or arrangement of atoms can change the substance.
+
+Compounds containing carbon are often called organic molecules. The term organic can be confusing because it does not always mean “produced by life.” Methane and glucose are organic molecules because they contain carbon, but organic molecules can also be made by nonliving chemical processes. Carbon is especially useful because it can form stable chains, rings, and complex backbones. That flexibility makes carbon central to Earth life and to the search for prebiotic chemistry elsewhere.
+
+Organic molecules have been found in meteorites, interstellar clouds, protoplanetary disks, and planetary atmospheres. Their presence is scientifically exciting, but it is not proof of life. Organic chemistry can be a step toward life, a product of life, or a non-biological process. Context and additional evidence are essential.
+
+Pause and check your understanding.
+
+Why does finding an organic molecule not automatically mean finding life?
+
+This distinction will matter repeatedly. A habitable environment needs useful chemistry, but habitability is not the same as being inhabited. Evidence for life must be stronger than evidence for ingredients.
+
+Phases of matter and planetary environments.
+
+A substance can behave differently in different phases. Water can be solid ice, liquid water, or water vapor, but it is still made of water molecules in each case. The difference is not the identity of the molecule. The difference is how the molecules move and how strongly they interact with one another.
+
+In a solid, molecules are held in place more tightly. In a liquid, molecules remain close together but can move past one another. In a gas, molecules are much farther apart and move freely. Temperature matters because it measures the average motion of particles in a substance. Higher temperature usually means faster molecular motion.
+
+Pressure matters too. A phase change happens when conditions allow molecules to rearrange or break free from their current phase. Melting changes a solid into a liquid. Freezing changes a liquid into a solid. Evaporation changes a liquid into a gas, while sublimation changes a solid directly into a gas. This distinction matters on low-pressure worlds such as Mars, where ice can sometimes sublime instead of melting into liquid water first.
+
+Earth’s surface pressure allows liquid water to remain stable across a familiar range of temperatures. That is one reason oceans, lakes, rain, clouds, snow, and water vapor can all participate in Earth’s water cycle. Mars is different. Its surface pressure is much lower, so liquid water is much harder to keep stable at the surface. Ice on Mars can sometimes turn directly into vapor through sublimation.
+
+This idea also matters beyond planets with surfaces like Earth’s. On icy moons such as Europa or Enceladus, the surface may be frozen, but liquid water can still exist below the ice if internal heat and pressure allow it. A world does not need a warm Earthlike surface to have liquid water somewhere.
+
+Pause and check your understanding.
+
+What is the difference between evaporation and sublimation, and why does that difference matter on worlds like Mars?
+
+For astrobiology, phases of matter are not just vocabulary. They help us decide where useful environments might exist. Liquid water is important for Earthlike life, but whether water is ice, liquid, or vapor depends on the physical conditions of the world we are studying.
+
+Energy and conservation.
+
+Matter gives planets and organisms their physical substance, but energy allows matter to move, change, react, heat up, cool down, and reorganize. In astrobiology, energy matters because life is not just a collection of atoms and molecules. Life is an organized process that must continually use energy to maintain itself.
+
+In physics, energy is the ability to do work or cause change. Work has a specific meaning: it involves a force acting over a distance. When you throw a baseball, your hand pushes the ball while the ball moves. Energy is transferred from your muscles to the ball, and the ball leaves your hand with kinetic energy.
+
+Energy comes in many forms. Kinetic energy is energy of motion, such as falling rocks, orbiting planets, and moving molecules. Radiative energy is energy carried by light, such as sunlight warming the surface of a planet. Potential energy is stored energy, such as gravitational potential energy or chemical potential energy stored in molecular bonds. Thermal energy is the collective kinetic energy of many atoms or molecules, which is why temperature matters for chemical reactions.
+
+Energy vocabulary.
+
+Do not treat these energy types as separate substances. They are different ways that energy can be stored, transferred, or observed.
+
+Energy associated with motion.
+
+Examples: moving molecules, falling rocks, orbiting planets.
+
+Energy carried by light.
+
+Examples: sunlight, infrared radiation from warm planets, ultraviolet radiation.
+
+Energy stored by position or arrangement.
+
+Examples: gravitational energy, chemical energy in bonds.
+
+Collective kinetic energy of particles.
+
+Examples: warm atmospheres, hot springs, magma, body temperature.
+
+The most important rule is conservation of energy. Energy can change form and move from one object to another, but the total amount of energy is conserved. This does not mean energy is always useful. Some energy often spreads out as thermal energy, becoming less available to do organized work.
+
+The baseball example shows the idea. Your muscles get energy from chemical reactions in your body. Your hand transfers some of that energy to the baseball. The baseball gains kinetic energy. Some energy also becomes thermal energy in your muscles, joints, the ball, and the surrounding air. Energy has not disappeared, but it has been redistributed.
+
+For life, chemical potential energy is especially important. Food stores energy in chemical bonds. Cells release and redirect that energy through chemical reactions. On Earth, much of the useful energy in ecosystems ultimately comes from sunlight, either directly through photosynthesis or indirectly through food chains. Some ecosystems also use chemical energy from rocks, water, and volcanic environments rather than relying directly on sunlight.
+
+Energy conservation is therefore central to astrobiology. A habitable environment needs matter, but it also needs usable energy. Liquid water and organic molecules are promising, but without an energy source, chemistry cannot stay active for long.
+
+Pause and check your understanding.
+
+Why is it not enough for a planet or moon to have the right ingredients for life?
+
+The search for life is partly a search for energy flow. A world may contain carbon, water, and minerals, but life also needs ways to move energy through chemical systems. That is why astrobiologists pay attention to sunlight, internal heat, volcanic activity, chemical gradients, and reactions between water and rock.
+
+Light as evidence.
+
+Light is one of the most important tools in astronomy because it is often the only information we receive from distant objects. We cannot touch a star, scoop material from a galaxy, or directly sample most exoplanet atmospheres. Instead, astronomers collect light and ask what that light can tell us.
+
+Light is a form of energy. It behaves like a wave, and it also comes in small packets called photons. These two descriptions are both useful. The wave description helps us talk about wavelength, frequency, and color. The photon description helps us talk about how light exchanges energy with atoms, molecules, surfaces, and living systems.
+
+An electromagnetic wave is a linked pattern of electric and magnetic fields that can travel through empty space. This is different from sound, which needs a material medium such as air, water, or rock. Light can cross the vacuum between stars and galaxies, which is why astronomy is possible at all.
+
+Three wave quantities are especially important. Wavelength, usually written lambda, is the distance from one crest to the next crest, or from one trough to the next trough. Frequency, usually written f, is the number of wave cycles that pass a point each second. Wave speed, written v, is the product of wavelength and frequency. For light in vacuum, the speed is c.
+
+ c equals lambda times f 
+
+The tab set below introduces the main wave properties of light and shows how visible color is related to wavelength, frequency, and photon energy.
+
+Photons can move electrons, break chemical bonds, heat surfaces, or make molecules vibrate and rotate. This makes light both useful and potentially harmful. Visible light can power photosynthesis. Infrared light can warm a planetary surface. Ultraviolet light can drive chemical reactions but can also damage biological molecules. X-rays and gamma rays can ionize atoms and alter chemistry.
+
+Try the numbers.
+
+Green visible light has a wavelength of about 550 nanometers, where 1 nanometer equals ten to the minus 9 meters. To estimate its frequency, use c equals lambda times f, so f equals c divided by lambda.
+
+f equals 3.00 times ten to the 8 meters per second divided by 550 times ten to the minus 9 meters.
+f is approximately equal to 5.45 times ten to the 14 hertz.
+
+Visible light has extremely high frequency compared with everyday mechanical waves.
+
+See the Python snippet given in the course lecture notes.
+
+Pause and check your understanding.
+
+Why does shorter-wavelength visible light also have higher frequency and higher photon energy?
+
+Light can therefore carry several kinds of information at once. Its wavelength and frequency tell us about the type of light we are observing, and its photons tell us how much energy that light can carry. The next two subsections build on that idea: first by placing visible light within the full electromagnetic spectrum, and then by showing how spectra reveal composition, temperature, and motion.
+
+The electromagnetic spectrum.
+
+The electromagnetic spectrum is the full range of possible light, from very long radio waves to very short gamma rays. Human eyes detect only a narrow part of this spectrum called visible light. Astronomy uses the whole spectrum because different wavelengths reveal different physical processes.
+
+Radio waves have the longest wavelengths. Microwaves are shorter than radio waves and are useful in studying cold gas and the cosmic microwave background. Infrared light is longer in wavelength than red visible light and often reveals warm dust, cool stars, and planetary atmospheres. Visible light is the small range our eyes detect. Ultraviolet light is shorter than violet visible light and can affect atmospheric and biological chemistry. X-rays and gamma rays have even shorter wavelengths and higher photon energies, often associated with very hot gas, compact objects, or energetic events.
+
+For life, the electromagnetic spectrum is both a resource and a hazard. Starlight can warm planets and power photosynthesis. Infrared light carries heat. Ultraviolet radiation can drive chemistry but also damage molecules. A planet’s atmosphere can block some wavelengths and allow others to reach the surface. That filtering can affect habitability and detectability.
+
+Pause and check your understanding.
+
+Why do astronomers use wavelengths that human eyes cannot see?
+
+The more wavelengths we can measure, the more complete our evidence becomes. A planet that looks ordinary in visible light may reveal atmospheric heat in infrared light or high-energy activity in ultraviolet or X-ray observations.
+
+Spectroscopy: reading light.
+
+Spectroscopy is the technique of splitting light into its individual wavelengths and studying the resulting spectrum. A prism can separate visible light into a rainbow, but modern astronomy uses diffraction gratings and detectors to measure how bright an object is at each wavelength with much greater precision. This makes light one of astronomy’s most important sources of evidence.
+
+Three basic kinds of spectra matter in this course. A continuous spectrum is smooth across a broad range of wavelengths, like a rainbow without gaps. Hot, dense objects can produce this kind of spectrum. An emission line spectrum shows bright lines at specific wavelengths on a dark background. It is produced when excited atoms or molecules emit light at particular wavelengths. An absorption line spectrum shows dark lines superimposed on a continuous spectrum. It occurs when light passes through gas that absorbs specific wavelengths.
+
+What makes spectroscopy so powerful is that atoms and molecules do not absorb or emit light randomly. Each one interacts with light at characteristic wavelengths, so the resulting pattern of lines acts like a chemical fingerprint. Hydrogen has one pattern, helium has another, and molecules such as water vapor, carbon dioxide, oxygen, methane, and ozone have their own recognizable signatures. This is why spectroscopy is central to studying stars, nebulae, planets, and exoplanet atmospheres.
+
+Hot objects also produce thermal radiation, often called blackbody radiation in the idealized case. Not all wavelengths are equally bright. Hotter objects emit more light overall and peak at shorter, bluer wavelengths, while cooler objects peak at longer, redder or infrared wavelengths. Spectroscopy therefore tells astronomers not only what something is made of, but also something about its temperature.
+
+Spectral lines can also be shifted by motion. Because of the Doppler effect, light from an object moving away from us is shifted toward longer wavelengths, a redshift, while light from an object moving toward us is shifted toward shorter wavelengths, a blueshift. This gives astronomers a way to measure motion in space, even for objects that are far too distant to visit directly.
+
+Pause and check your understanding.
+
+Why can a pattern of spectral lines tell us about chemical composition?
+
+For astrobiology, spectroscopy is one of the main bridges between life and distant evidence. We cannot scoop up the atmosphere of a distant exoplanet, but we may be able to observe how that atmosphere absorbs or emits light. That does not make interpretation easy, but it gives us a scientific path for looking for possible biosignatures and for distinguishing promising worlds from unpromising ones.

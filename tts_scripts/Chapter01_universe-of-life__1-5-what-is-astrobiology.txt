@@ -1,0 +1,49 @@
+What is Astrobiology.
+
+Astrobiology is the scientific study of life in the universe. It combines ideas from astronomy and biology, but it also depends on planetary science, chemistry, geology, physics, mathematics, and computer science. The word itself is a blend of astronomy and biology, which is why astrobiology is sometimes described as the study of life in a cosmic context.
+
+A field like this needs a name because it brings together scientists from many different backgrounds. Earlier names included exobiology and bioastronomy, but astrobiology is now widely used. The word is a portmanteau, or blend word, combining astronomy, the study of the universe, with biology, the study of life.
+
+The field is young compared with many other sciences. Scientists are still deciding which questions are most important, which methods are most reliable, and which targets are most promising. That is part of what makes astrobiology exciting. It is not a field where all the basic answers are already known. It is a field built around some of the largest unanswered questions in science.
+
+Pause and check your understanding.
+
+Why does astrobiology need more than one scientific field?
+
+Astrobiology is useful because it turns a very large question—whether life exists beyond Earth—into a set of scientific problems that can be investigated. Scientists can study how life works on Earth, what conditions make environments habitable, which planets and moons are promising targets, and what evidence would count as a real detection of life.
+
+Interdisciplinary science.
+
+Astrobiology is interdisciplinary because no single field can answer the question of life beyond Earth by itself. Astronomy can find planets and measure stars, but astronomy alone cannot explain how life works. Biology can explain life on Earth, but biology alone cannot tell us which planets and moons exist elsewhere. Chemistry can explain molecules, but chemistry alone cannot determine whether a world has the right long-term environment. Geology can reveal planetary history, but geology alone cannot decide whether a chemical pattern was produced by life.
+
+This means astrobiologists often work across boundaries. They may study ancient rocks on Earth to understand early life. They may study extreme environments to learn where life can survive. They may analyze meteorites, model planetary atmospheres, simulate planet formation, or design instruments for spacecraft missions. Astrobiology is not one narrow subject. It is a meeting place for many sciences.
+
+The NASA Astrobiology Program is one example of this interdisciplinary approach. It supports an international research community that includes astronomers, biologists, geologists, chemists, planetary scientists, and many others. The search for life beyond Earth requires that kind of collaboration because the problem is larger than any one field.
+
+This also makes astrobiology a useful course for non-STEM students. It shows how science works when the question is too large for one discipline. It requires evidence, but it also requires imagination. Scientists must be open to surprising possibilities while still demanding strong evidence.
+
+Habitable does not mean inhabited.
+
+One of the most important ideas in astrobiology is the difference between habitable and inhabited. A habitable environment has the conditions that could allow life to exist. An inhabited environment actually has life. These are not the same thing.
+
+For example, a world might have liquid water, useful chemistry, and an energy source. That would make it interesting and possibly habitable. But those conditions do not prove that life began there. Life may require additional conditions that we do not yet understand. It may also depend on chance events or long-term stability.
+
+This distinction helps prevent overstatement. When scientists say that a planet or moon may be habitable, they are not saying that life has been discovered. They are saying that the world deserves attention because it has some of the ingredients or conditions associated with life. Habitability is about possibility. Inhabitation is about evidence.
+
+This is especially important because much of Earth's own history was dominated by microbial life. If life exists elsewhere, it may be simple rather than complex. A habitable planet does not need animals, forests, oceans full of fish, or technological civilizations. It might only support microorganisms. Even that would be a profound discovery.
+
+Null results still matter.
+
+Most astrobiology focuses on three connected goals: studying the conditions that allow life to begin and persist, looking for those conditions on worlds in our Solar System and around other stars, and searching for the actual occurrence of life elsewhere. These goals are related, but they are not identical. A world can have promising conditions without being inhabited, and a world can be interesting even if it produces a null result.
+
+Astrobiology therefore teaches an important lesson about science: finding nothing can still teach us something. If scientists search a promising environment and find no evidence of life, that result is not meaningless. It helps narrow the range of possible habitats and improves our understanding of what life requires.
+
+For example, if future missions search parts of Mars and find no evidence of past or present life, that would not make Mars unimportant. It would tell us that liquid water alone may not be enough, or that life did not begin easily even when some conditions were favorable. It might also show that evidence of ancient life is difficult to preserve or detect.
+
+Pause and check your understanding.
+
+If a mission searches Mars and finds no evidence of life, why would that still be a scientifically useful result?
+
+Null results are especially important in a field where expectations can be shaped by imagination. Astrobiology has to remain scientific even when the question is emotionally powerful. We may want the universe to be full of life, but wanting something does not make it true. The goal is not to prove that life exists elsewhere. The goal is to find out whether it does.
+
+By the end of this chapter, the search for life should look less like a single question and more like a connected set of scientific problems. What is life? What environments can support it? Where should we look? What evidence would convince us? These questions form the foundation for the rest of the course.

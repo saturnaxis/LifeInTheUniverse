@@ -1,0 +1,81 @@
+Metabolism: The Chemistry of Life.
+
+What metabolism does.
+
+Metabolism is the blanket term for the chemical reactions that occur inside living cells. It includes reactions that break molecules down, reactions that build molecules up, and reactions that transfer energy from one form to another. A cell is not just a tiny bag of chemicals. It is more like a regulated chemical factory.
+
+The factory analogy helps if we use it carefully. A factory needs raw materials, energy, instructions, and machinery. A cell needs simple molecules that can be rearranged into more complex organic molecules. It needs energy to drive reactions that would not happen easily on their own. It needs inherited information to specify the proteins and R N A molecules that perform cellular jobs. It also needs catalysts, especially enzymes, to make reactions occur at useful rates.
+
+Cells are versatile because they can build a wide variety of products from a limited set of starting materials. That versatility is a product of evolution. Enzymes did not appear because a cell understood chemistry and designed a solution. They are inherited molecular tools shaped by natural selection over many generations.
+
+For the search for life, metabolism gives us a practical way to think about habitability. A possible habitat must provide usable raw materials and usable energy. It also likely needs a medium, such as liquid water on Earth, where molecules can dissolve, move, meet, and react.
+
+A T P and the energy cycle.
+
+Earth life uses adenosine triphosphate, or A T P, as a common energy-transfer molecule. A T P is not the ultimate source of all energy. Instead, it acts like a short-term energy currency inside cells. Energy from food, sunlight, or chemical reactions can be used to convert A D P plus a phosphate group into A T P. Later, A T P can break back down into A D P plus phosphate, releasing energy that can drive cellular work.
+
+The simplified cycle is
+
+ A D P plus phosphate plus energy goes to A T P,
+
+for storage, and
+
+ A T P goes to A D P plus phosphate plus usable energy,
+
+for release. The real cellular chemistry is more detailed, but this simplified picture captures the central point: A T P helps connect energy-producing reactions to energy-requiring reactions.
+
+The fact that all known Earth life uses A T P for this energy-transfer job is evidence for common ancestry. It is also not the only chemistry one could imagine. Other molecules could, in principle, have been used for short-term energy transfer. For astrobiology, the deeper principle is that life needs some way to couple energy sources to the work of maintaining and building living systems, not that every possible biosphere must use A T P specifically.
+
+Try the numbers.
+
+Suppose a small cellular process uses 125 A T P molecules to build a useful product and another process regenerates 200 A T P molecules from available energy. The net A T P change is
+
+The change in N A T P equals N made minus N used.
+This equals 200 minus 125.
+This equals 75.
+
+The positive result means the cell has more A T P available after these two simplified processes than before. This is just bookkeeping, but bookkeeping is often the first step in understanding metabolism.
+
+Microbes are not primitive failures.
+
+Students often think of microbes as “simple” life and animals as “advanced” life. That framing is misleading. Microbes are small, but they are not failed attempts at becoming animals. They are highly successful organisms adapted to their own ways of life. Bacteria and archaea have occupied Earth for billions of years, and they still dominate many environments by abundance, diversity, and metabolic variety.
+
+Large multicellular life is impressive, but it depends on microbial foundations. Microbes recycle nutrients, help regulate atmospheric chemistry, live in animal digestive systems, and form partnerships with plants and fungi. The human microbiome is one familiar example: bacteria in our intestines help break down some materials and influence nutrient processing. Life on Earth would not work as it does without microbial activity.
+
+This is why the search for life beyond Earth usually begins with microbial expectations. Microbial life requires less ecological complexity than forests, animals, or civilizations. It can live in small spaces, reproduce quickly, and exploit chemical energy sources that animals cannot use directly. If life exists elsewhere in the Solar System, it is far more likely to be microbial than animal-like.
+
+That expectation changes what evidence we should seek. We should not expect dinosaur bones on Mars or fish in every subsurface ocean. More realistic evidence might include microscopic cell-like structures, chemical products of metabolism, unusual organic patterns, or environmental disequilibrium that is hard to maintain without active chemistry. This does not make the search easy. It makes the search scientifically grounded.
+
+See the Python snippet given in the course lecture notes.
+
+Carbon sources, energy sources, and metabolic categories.
+
+Organisms need carbon because carbon forms the backbone of organic molecules. They also need energy because building and maintaining those molecules requires work. The source of carbon and the source of energy are not always the same.
+
+The word part troph means feeding or nourishment. An autotroph obtains carbon from the environment, usually from carbon dioxide or related inorganic sources. A heterotroph obtains carbon from organic compounds, which usually means consuming other organisms or their products. The prefixes describe energy source. A phototroph uses light. A chemotroph uses chemical reactions.
+
+Putting those terms together creates four broad categories. Photoautotrophs, such as plants, algae, and cyanobacteria, obtain carbon from the environment and use sunlight as an energy source. Chemoautotrophs obtain carbon from inorganic sources and use energy from chemical reactions, such as reactions involving sulfur, iron, hydrogen, or ammonia. Sulfolobus, an archaeon found in sulfur-rich hot springs, is a useful example of a chemoautotroph. Photoheterotrophs use light for energy but obtain carbon from organic compounds; Chloroflexus is an example that can use photosynthesis for energy while obtaining carbon from other bacteria in salty or hot environments. Chemoheterotrophs obtain both carbon and energy from organic compounds; humans, other animals, fungi, and many microbes are familiar examples.
+
+Pause and check your understanding.
+
+Why could a dark subsurface ocean still be interesting for astrobiology even without photosynthesis?
+
+These categories are especially useful because they are general. They are not just labels for Earth organisms. They organize the basic problem any living system must solve: where does the carbon come from, and where does the energy come from? A world without sunlight at the surface might still have chemical energy. A world with an ocean beneath ice might still have rock-water reactions that support metabolism. We should not assume photosynthesis is required for life just because it dominates much of Earth’s surface biosphere.
+
+Water as a medium for metabolism.
+
+All known life on Earth depends on liquid water. This is not just because organisms need something to drink. Water is a chemical medium. Many organic compounds dissolve in it. Dissolved molecules can move, collide, react, and be transported through cells and environments. A T P related reactions also require water.
+
+This is why the search for life often follows the water. Evidence for liquid water does not prove that life exists. A world can be habitable in one respect without being inhabited. But liquid water is a powerful habitability clue because it supports the kind of mobile chemistry that Earth metabolism requires.
+
+Water also gives organisms room to specialize. In an environment where water is abundant, different organisms can exploit different combinations of carbon sources and energy sources. Some use sunlight. Some use food. Some use chemical reactions. The more we understand that diversity on Earth, the less likely we are to search too narrowly elsewhere.
+
+Why metabolic categories matter beyond Earth.
+
+The four metabolic categories are more than a classification exercise. They help separate two questions that students often combine: What is the organism made from, and where does it get energy? A plant and a human both use carbon-based molecules, but they obtain carbon and energy differently. A deep-sea chemoautotroph can build organic molecules from inorganic carbon while using chemical energy rather than sunlight. These distinctions are exactly the kind of distinctions astrobiology needs.
+
+Consider an icy moon with a global ocean beneath its surface. Sunlight may not reach that ocean, so photosynthesis may be impossible there. But if water interacts with warm rock, chemical reactions may produce energy-rich molecules. On Earth, similar rock-water chemistry can support microbial ecosystems independent of sunlight. That does not mean an icy moon is inhabited. It means the absence of sunlight does not automatically remove it from consideration.
+
+The same logic applies to exoplanets. A planet’s surface may receive starlight, but starlight alone is not enough. Life also needs usable materials, a stable environment, and a way to sustain chemical cycling. A planet could orbit in a promising region around its star and still lack the conditions needed for metabolism. Conversely, a world outside the traditional surface-habitable-zone picture might still contain a chemically active subsurface environment.
+
+Metabolism therefore connects habitability to evidence. If organisms use energy and materials, they may alter their environment. On Earth, photosynthesis changed the atmosphere by producing oxygen. Methanogens can produce methane. Sulfur-metabolizing organisms can change sulfur chemistry. In future chapters, these ideas become part of the search for biosignatures: possible signs that life has modified a planet or moon. A biosignature candidate is not proof by itself, but metabolism tells us why certain chemical patterns are worth investigating.

@@ -1,0 +1,63 @@
+Climate Regulation and Change.
+
+The greenhouse effect as a requirement for habitability.
+
+Earth’s climate has changed many times. Volcanism, plate tectonics, changes in atmospheric composition, impacts, life, ocean circulation, and long-term variations in Earth’s orbit and spin all affect climate. Even so, Earth has avoided becoming permanently frozen or permanently overheated for most of its history. That long-term stability is one of the most important features of Earth’s habitability.
+
+Without an atmosphere, Earth would be much colder. Sunlight would still reach the surface, but heat would escape more easily back to space. Earth’s average surface temperature would be below the freezing point of water. The fact that Earth has liquid oceans tells us the atmosphere is not a minor detail. It is central to habitability.
+
+The greenhouse effect is the trapping of heat by certain gases in the atmosphere. Visible light from the Sun passes through the atmosphere relatively easily and warms the surface. The warmed surface emits infrared radiation upward. Greenhouse gases absorb some of that infrared radiation, transfer energy to surrounding air, and re-emit radiation in different directions. The result is a warmer surface than Earth would have without those gases.
+
+Greenhouse gases include water vapor, carbon dioxide, methane, and nitrous oxide. Carbon dioxide is not the strongest greenhouse gas molecule-by-molecule, but it is important because it can remain in the atmosphere long enough to influence climate and because geology can regulate it over long timescales. Water vapor is also extremely important, but its atmospheric abundance responds strongly to temperature.
+
+The greenhouse effect is not automatically bad. Without it, Earth would be too cold for the surface oceans that life depends on. The problem is not the existence of a greenhouse effect. The problem is whether the greenhouse effect is too weak, moderate, or too strong. Venus is an example of a world where greenhouse warming is extreme. Mars is an example of a world where the present greenhouse effect is too weak to maintain warm, wet surface conditions globally.
+
+The static figure gives the energy-flow picture; the animation reinforces the same idea dynamically.
+
+The carbon dioxide cycle.
+
+Earth’s long-term climate is regulated in part by the carbon dioxide cycle. This cycle moves carbon among the atmosphere, oceans, rocks, and mantle. It is not fast on human timescales, but over hundreds of thousands to millions of years it can help stabilize climate.
+
+Carbon dioxide is removed from the atmosphere through weathering and carbonate formation. Carbon dioxide dissolves in rainwater, making it weakly acidic. That rainwater reacts with rocks on land, breaking down minerals and carrying dissolved material into rivers and oceans. In the oceans, dissolved carbon combines with calcium and other ions to form carbonate minerals, which can become carbonate rocks such as limestone.
+
+Carbon dioxide is returned to the atmosphere through volcanism. Plate tectonics carries carbonate rocks and carbon-bearing material into subduction zones. As material is buried, heated, and chemically transformed, some carbon is released through volcanic outgassing. In this way, plate tectonics helps close the long-term carbon cycle.
+
+Venus provides an important comparison. Venus has a thick carbon dioxide atmosphere and lacks abundant carbonate rocks at the surface. If carbon remains in the atmosphere rather than being locked into rocks, greenhouse warming can become much stronger. Venus is not simply Earth placed closer to the Sun; it is a planet whose atmosphere, surface, water history, and geology evolved differently.
+
+The carbon dioxide cycle is a feedback system. A feedback occurs when a change in one part of a system affects the processes that either amplify or counteract the original change. A positive feedback amplifies change. A negative feedback counteracts change.
+
+On long timescales, the carbon dioxide cycle can act as a negative feedback. If Earth warms, evaporation and rainfall tend to increase. More rainfall can increase weathering, which removes more carbon dioxide from the atmosphere. Lower carbon dioxide weakens greenhouse warming and tends to cool the planet. If Earth cools, evaporation and rainfall decrease. Weathering slows, while volcanoes continue to add carbon dioxide. Carbon dioxide can build up, strengthening greenhouse warming and pushing temperatures upward.
+
+Pause and check your understanding.
+
+How can the carbon dioxide cycle act like a slow planetary thermostat?
+
+This feedback is not perfect. It is slow, and it depends on continents, weathering, oceans, volcanism, and plate tectonics. But it helps explain why Earth has remained broadly habitable despite major changes in solar brightness and atmospheric composition over billions of years.
+
+Ice ages, Milankovitch cycles, and Snowball Earth.
+
+Earth’s climate still changes even with long-term carbon regulation. Ice ages are periods when large portions of Earth’s surface are covered by ice. The most recent ice age ended about 12,000 years ago, when global climate warmed and ice sheets retreated. Ice ages are common in recent geological history, with warmer interglacial periods between colder glacial intervals.
+
+One reason ice ages occur is that Earth’s orbit and spin change slowly over time. Earth’s axial tilt is about 23.5 degrees, but it varies over a cycle of about 41,000 years. Earth’s axis also wobbles through precession over about 26,000 years. Earth’s orbital eccentricity, which measures how stretched its orbit is, varies over longer cycles, including one near 100,000 years and another near 400,000 years.
+
+These variations are called Milankovitch cycles. They do not usually change the total sunlight Earth receives by enormous amounts, but they change where and when sunlight is distributed across the planet. That matters for whether winter snow melts during summer or survives and accumulates into ice sheets. When ice expands, it reflects more sunlight, which can cool the planet further. This is an ice-albedo feedback.
+
+Pause and check your understanding.
+
+Why can Milankovitch cycles help pace ice ages without being the only cause of climate change?
+
+At several times in Earth history, evidence suggests that ice may have reached very low latitudes, possibly even producing episodes sometimes called Snowball Earth. The evidence includes glacial deposits in places that were near the equator at the time. A fully frozen Earth would be a severe challenge for surface life, but the carbon dioxide cycle offers a possible recovery mechanism. If weathering slows dramatically under ice while volcanoes continue releasing carbon dioxide, greenhouse warming can eventually become strong enough to melt the ice.
+
+This shows both the strength and imperfection of Earth’s climate regulation. Earth’s systems can recover from extreme states, but not instantly and not gently. Habitability is not a guarantee of comfort. It means conditions remain within ranges where life can persist somewhere, even if many environments become hostile.
+
+The orbital visual shows the pacing mechanism, while the climate visual shows why feedbacks can amplify modest orbital forcing into large climate shifts.
+
+Long-term habitability as a linked system.
+
+Earth’s long-term habitability depends on linked processes, not one isolated feature. Volcanic outgassing helped produce the atmosphere. Water vapor condensed to form oceans. Earth’s gravity helped retain heavier gases. The magnetic field helped reduce atmospheric loss from the solar wind. The greenhouse effect kept the planet warm enough for surface liquid water. Plate tectonics and the carbon dioxide cycle helped regulate greenhouse warming over long timescales.
+
+None of these processes is perfect. Earth has experienced ice ages, Snowball Earth episodes, mass extinctions, impacts, major volcanic events, and atmospheric transformations caused by life itself. Yet the planet has remained habitable for billions of years. That is the central fact that astrobiology tries to understand and compare.
+
+This comparison is not simply about finding “another Earth.” A world might be habitable in a different way. Mars may have had habitable environments in the past. Europa and Enceladus may have subsurface oceans beneath ice. Exoplanets may have atmospheres and climates unlike anything in our Solar System. But Earth teaches us what kinds of evidence matter: atmosphere, water, energy, chemistry, geological cycling, and preservation of history.
+
+Earth also teaches humility. The same geological activity that helped sustain habitability has erased much of the earliest record. If we struggle to reconstruct the origin and early survival of life on our own planet, we should expect the search for life elsewhere to be difficult. Evidence may be indirect, incomplete, or ambiguous. A scientifically responsible search must distinguish possible habitability from actual evidence of life.

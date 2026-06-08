@@ -1,0 +1,61 @@
+The Hadean Earth and the Dawn of Life.
+
+How Earth got an atmosphere and oceans.
+
+The Hadean eon is the earliest chapter of Earth history. The name comes from Hades and suggests hellish conditions. That label is partly understandable. Early Earth formed through impacts. It was extremely hot, at least partly molten, and exposed to frequent collisions with leftover planetesimals. It did not begin as the calm, blue planet we know today.
+
+But the Hadean should not be imagined as one unchanging inferno lasting for hundreds of millions of years. Evidence from ancient zircons suggests that Earth’s surface may have cooled enough for crust and liquid water relatively early. The early planet likely experienced alternating periods of cooling and renewed disruption, especially from impacts.
+
+Earth needed an atmosphere and oceans for life as we know it to get started. Immediately after formation, conditions were not favorable for stable oceans. Earth was too hot for liquid water to remain at the surface. It was also too small and too warm to hold onto large amounts of hydrogen and helium gas from the solar nebula. The young Sun’s solar wind would have helped remove those light gases.
+
+The material that formed Earth was also mostly dry compared with icy bodies beyond the snow line. In the early Solar System, the snow line marked the region far enough from the young Sun for water ice to condense. Earth formed inside that region, where rock and metal were easier to keep solid than ice. That means Earth’s water probably came from a mixture of sources, including water-bearing planetesimals incorporated during accretion and later impacts.
+
+As planetesimals struck the growing Earth, heat melted material and released gases and steam. This process, called outgassing, helped build a secondary atmosphere. Because Earth was massive enough, it could hold onto heavier gases better than it could hold hydrogen and helium. As Earth cooled, water vapor could condense into rain and collect in low regions, forming oceans.
+
+Volcanic outgassing continued after the first atmosphere and oceans formed. Volcanoes released water vapor, carbon dioxide, nitrogen, sulfur compounds, hydrogen sulfide, and other gases. Early Earth’s atmosphere was very different from the modern atmosphere. Today Earth’s atmosphere is mostly nitrogen and oxygen, but oxygen became abundant only after life had already been present for a long time. Early Earth was not simply a version of modern Earth with fewer continents and more volcanoes. It was chemically different.
+
+The two visuals below are complementary. The first gives a broad model-based view of Hadean Earth, while the second isolates the specific process of volcanic outgassing that helped build the early atmosphere and oceans.
+
+Together, these visuals show the basic sequence: early Earth had to cool from a hot, impact-shaped planet into a world where outgassed water vapor could condense, collect at the surface, and begin forming oceans.
+
+This matters for the search for life elsewhere because a planet’s first atmosphere may not be the atmosphere we observe later. Atmospheres evolve. They can be outgassed, stripped, chemically altered, buried in rocks, or changed by life. If we eventually study an Earth-sized exoplanet, its present atmosphere would be a snapshot in a long history, not a complete biography.
+
+Could life have existed during the Hadean?
+
+The possibility of Hadean habitability is one of the most important ideas in this chapter. If Earth had liquid water and a stable crust by about 4.4 billion years ago, then habitable environments may have appeared only about 100 to 200 million years after Earth formed. That does not prove life existed then. It means that the conditions needed for life may have been present earlier than once assumed.
+
+The problem is that early Earth was also being bombarded by leftover planetesimals. Accretion did not stop cleanly once Earth formed. The impact rate declined over time, but large impacts continued. The Moon preserves visible scars from this period in the form of impact craters. Earth must have experienced even more impacts because it is larger and has stronger gravity, but erosion, plate tectonics, and surface recycling erased much of that record.
+
+The two timelines below complement each other. The first is a research-focused figure that compares bombardment and habitability in early Mars and Earth, while the second is a public-facing summary that shows why the older picture of a simple late cataclysm is now viewed more cautiously.
+
+Together, these timelines shift the question away from whether early Earth was simply “too violent” for life and toward a more useful question: could habitable environments appear, disappear, and reappear between major impacts?
+
+Pause and check your understanding.
+
+How is evidence for early habitability different from evidence that life actually existed?
+
+A key point is that “frequent” impacts in geological language do not mean constant impacts every day across the whole planet. Large impacts could be separated by thousands, hundreds of thousands, or millions of years. They did not strike every environment at once. That means early Earth could have had habitable intervals and local refuges even during a period of elevated bombardment.
+
+The effect of an impact depends strongly on impactor size. An object between 10 and 20 kilometers across can have global consequences, as seen in the impact associated with the extinction of the non-avian dinosaurs. Larger impacts during the Hadean could have been far more severe, possibly boiling parts of the ocean or sterilizing surface environments. Whether early life could survive such impacts depends on where it lived, how deep it lived, how large the impacts were, and how often they occurred.
+
+This is where the distinction between origin and survival matters. Life might arise during a calm interval but be destroyed by a later giant impact. Or life might survive in protected environments, such as deep ocean settings, subsurface rock, or hydrothermal systems. These possibilities are not the same, and the evidence is hard to preserve. The honest conclusion is cautious: early Earth may have been habitable surprisingly early, but whether life existed and survived during the Hadean remains uncertain.
+
+The Moon as a record of early impacts.
+
+The Moon helps us study Earth’s early impact history because it preserves ancient surfaces. The lunar highlands are bright, heavily cratered regions where craters often overlap. Radiometric dating of lunar samples indicates that many highland rocks are about 4.0 to 4.4 billion years old. These regions record intense early bombardment.
+
+The lunar maria are darker, smoother plains that fill large impact basins. They formed when large impacts fractured the lunar crust and allowed lava to flood low areas. The maria have fewer craters than the highlands, which means their surfaces are younger. Many maria basalts are about 3.0 to 3.9 billion years old. When lava floods a surface and cools, it resets the radiometric clock for that rock, so the age measured is the age of the lava flow, not the age of the basin-forming impact itself.
+
+For many years, textbooks described a Late Heavy Bombardment: a spike in impacts around 3.9 billion years ago, roughly 500 to 600 million years after Solar System formation. That idea is still historically important, and some versions remain discussed, but it should not be presented as settled fact. Lunar samples are difficult to interpret because impact events can mix, melt, and reset rocks. More recent studies have weakened the simple picture of a sudden Solar System-wide cataclysm.
+
+A more cautious framing is better for this course. The early Earth and Moon experienced heavy bombardment that declined over time. There may have been variations in the impact rate, and there are still debates about timing and causes, but the old single-spike Late Heavy Bombardment model should not be treated as confirmed history. This is a useful example of how science works: a model can be helpful, widely discussed, and later revised when better evidence and better dynamical studies become available.
+
+Crater counts are one way scientists estimate the ages of surfaces when rock samples are unavailable. A surface with more craters has generally been exposed longer than a surface with fewer craters, assuming the impact rate is understood. This method is less precise than radiometric dating, but it is valuable for worlds where sample return is difficult or impossible. Orbiter missions are much cheaper than bringing rocks back to Earth, so crater counts often provide the first timeline for planetary surfaces.
+
+Pause and check your understanding.
+
+Why does the Moon preserve early impact evidence better than Earth?
+
+For astrobiology, the impact history matters because impacts can both harm and help habitability. Large impacts can devastate environments, vaporize water, and reset surfaces. Smaller impacts can deliver water and organic material, excavate subsurface rock, and create hydrothermal systems that may be temporarily habitable. Impacts are not simply “bad for life” or “good for life.” Their role depends on timing, size, frequency, and context.
+
+The Moon preserves two complementary visual records: a global view that distinguishes highlands from maria and a close view that shows how dense the crater record can be.

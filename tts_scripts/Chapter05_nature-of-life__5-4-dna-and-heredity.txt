@@ -1,0 +1,80 @@
+D N A and Heredity.
+
+D N A structure and replication.
+
+Life needs structure and metabolism, but it also needs heredity. Without heredity, there is no reliable way to pass useful information from one generation to the next. Without variation in heredity, evolution has nothing to sort. D N A is the main hereditary molecule for Earth life.
+
+ D N A has a double-helix structure, often compared to a twisted ladder or zipper. The outside edges are sugar-phosphate backbones. The rungs are pairs of bases. There are four D N A bases: adenine, thymine, cytosine, and guanine, usually abbreviated A, T, C, and G. The pairing rules are specific: A pairs with T, and C pairs with G.
+
+Those pairing rules are what make D N A copyable. When D N A replication begins, the two strands separate. Each original strand can then act as a template for a new complementary strand. If one side has an A, the new partner must be T. If one side has a C, the new partner must be G. This is the basic logic behind high-fidelity copying.
+
+The phrase “basic logic” hides enormous molecular complexity. In real cells, D N A replication requires more than a dozen specialized enzymes and helper proteins that unzip the molecule, stabilize the separated strands, copy new strands onto the exposed templates, check for errors, and help rezip or repair the final product. Complementary pairing makes high-fidelity copying possible, but replication is not perfect. Errors sometimes occur, and those errors are one source of mutation. The complexity of the modern system is also one reason many origin-of-life scenarios treat R N A or R N A like molecules as possible predecessors to modern D N A heredity.
+
+Pause and check your understanding.
+
+How does complementary base pairing make D N A easier to copy accurately?
+
+D N A as encoded information.
+
+The operating instructions in D N A come from the order of the bases. A short sequence such as A C T C A G C T T C A A G G G is not meaningful because of the letters themselves. It is meaningful because cellular machinery reads the sequence according to a genetic code. The full sequence of bases in an organism is its genome. Individual instructions or functional units are called genes, although not all important D N A is part of a protein-coding gene.
+
+The human genome also shows why “more D N A ” does not simply mean “more advanced.” The first human genome sequence took about 13 years and roughly 3 billion dollars to complete, ending in 2003. Modern sequencing can cost hundreds of dollars and can be completed far more quickly. The human genome has only about 25,000 genes, while rice has about 37,000. The number of genes alone does not tell us how complex an organism is, because gene expression, regulation, timing, and cellular context matter enormously. Some noncoding D N A was once casually called “junk” D N A because it did not code directly for proteins, but some of it has regulatory roles, some records evolutionary history, and some remains poorly understood.
+
+The code is read in three-base words called codons. With four possible bases and three positions per word, there are 4 cubed equals 64 possible codons. This is more than the 20 amino acids commonly used in proteins, so the code contains redundancy. For example, several codons can specify the same amino acid. That redundancy matters because some mutations can change a D N A word without changing the amino acid that is placed into the protein.
+
+A two-base code would produce only 4 squared equals 16 possible words, which is not enough to specify 20 amino acids without a more complicated scheme. A three-base code gives more room. This simple counting argument helps students see why the genetic code has the structure it does.
+
+Try the numbers.
+
+The number of possible D N A words depends on how many base choices exist and how many positions are in each word. With 4 bases and n positions, the number of possible words is
+
+N equals 4 to the n.
+
+For two-base words, N equals 4 squared equals 16. For three-base words, N equals 4 cubed equals 64. This is why a three-base genetic code has enough possible words to encode the usual 20 amino acids with redundancy.
+
+See the Python snippet given in the course lecture notes.
+
+ R N A carries out many of the instructions stored in D N A. R N A is similar to a single strand of D N A, but it uses uracil, abbreviated U, where D N A uses thymine, so its base alphabet is A, C, G, and U. Messenger R N A, or M R N A, carries a copied message from D N A to the ribosome. Transfer R N A, or T R N A, brings amino acids to the ribosome. Ribosomal R N A, or R R N A, is part of the ribosome itself and helps build proteins. The overall process of turning nucleic-acid information into a protein is called translation.
+
+This system is another sign of common ancestry. The genetic code is nearly universal among Earth organisms, with only minor variations. That does not mean the code was inevitable. It means that once an early coding system became established in the common ancestry of Earth life, later organisms inherited and modified it rather than starting over from scratch.
+
+From genes to proteins without treating D N A as magic.
+
+It is tempting to say “ D N A is the blueprint for life,” but that phrase can hide the process. D N A does not directly build a cell the way a blueprint directly guides a construction crew. D N A stores sequences. Cellular machinery reads those sequences. R N A molecules carry and help interpret the instructions. Ribosomes assemble amino acids into proteins. Proteins then do much of the structural and chemical work of the cell.
+
+A better analogy is an operating system plus a manufacturing system. D N A stores instructions, but the instructions only matter because the cell has machinery that can interpret them. This is one reason origin-of-life research is difficult. A modern cell depends on a tightly connected system: D N A stores information, R N A helps express that information, proteins perform many of the jobs, and enzymes are needed to copy and maintain the information. Explaining how such a system began requires understanding possible simpler predecessors.
+
+ R N A is important in this discussion because it can both store information and participate in chemical activity. Many origin-of-life scenarios therefore consider an earlier stage in which R N A like molecules played a larger role before the modern D N A, R N A, and protein system became established. This is not presented as a finished answer to the origin of life. It is an example of how scientists try to build plausible intermediate steps rather than jumping from simple chemistry to modern cells in one leap.
+
+This also helps explain why heredity is tied to evolution. A molecule that stores information but is never copied cannot support biological evolution. A molecule that is copied perfectly forever creates continuity but no variation. A molecule that is copied with some fidelity and occasional variation creates the possibility of descent with modification. Life needs enough accuracy to preserve useful information and enough imperfection to allow populations to change.
+
+Mutation and evolution.
+
+ D N A copying is accurate, but not perfect. A useful round number is that copying errors occur at roughly one error per billion bases copied. Errors can take several forms. The wrong base can be inserted. An extra base can be added. A base can be deleted. A whole sequence can be duplicated or removed. High-energy radiation, such as ultraviolet light, and some chemicals can also damage D N A.
+
+Any change in D N A is a mutation. A mutation is not automatically harmful. Some mutations are neutral because they do not change the amino acid sequence or because the change does not strongly affect the organism. Some are harmful because they disrupt a critical protein or regulatory process. A few can be beneficial in a particular environment.
+
+The effect of a mutation depends on context. Some changes have little or no effect. For example, a codon change from ACC to ACA can still specify the same amino acid, threonine. Other changes alter a protein more directly. Sickle-cell anemia can be traced to a single base change in the relevant gene, often summarized as an A-to-T substitution in the D N A sequence. Many mutations are harmful or lethal because they prevent the production of a critical protein or disrupt when and where a gene is used. A change that is harmful in one environment might be less harmful, neutral, or even helpful in another. Sickle-cell-related genetic variation is a classic example of context dependence because it can cause disease in some genetic combinations but also offers some protection against malaria in certain environments. The general lesson is that evolution depends on variation, and mutation is one major source of that variation.
+
+Mutation also helps explain why the genetic code’s lack of spaces or punctuation matters. In English, “the fat cat ate the rat” is readable because spaces mark the words. If the spaces are removed, thefatcatatetherat can still be decoded only if the reader knows where to group the letters. If a letter is inserted near the beginning, the grouping can shift: theafatcatatetherat becomes difficult to parse in the original three-letter groups. Similarly, insertions or deletions in D N A can shift how codons are read, potentially changing many amino acids downstream.
+
+Try the numbers.
+
+Suppose a simplified genome has 3.2 times ten to the 9 bases and the copying error rate is about 1 error per ten to the 9 bases. The expected number of errors per full copy is
+
+The expected number of errors equals 3.2 times ten to the 9 bases times 1 error over ten to the 9 bases.
+This equals 3.2 errors.
+
+That is a small rate per base, but a large genome contains many bases. High accuracy still leaves room for occasional variation.
+
+See the Python snippet given in the course lecture notes.
+
+If a mutation occurs in a cell lineage that contributes to offspring, it can be inherited. Once inherited variation exists, natural selection can act. Mutations provide the raw material for evolution, but they do not by themselves guarantee adaptation. Many mutations disappear. Some persist by chance. Some spread because they help organisms reproduce in a particular environment. A human trait such as red hair can become common in a population when a mutation is inherited and then amplified by population history, isolation, and reproduction.
+
+Most inheritance is vertical gene transfer, from parent to offspring. Microbes also complicate that simple parent-to-offspring picture. Bacteria can sometimes transfer genetic material sideways between organisms, a process called horizontal or lateral gene transfer. This is one way antibiotic resistance can spread. It is also one reason the microbial tree of life is more complicated than a simple branching family tree. Humans also use this capacity in biotechnology: bacteria can be given genetic instructions to produce human insulin, which can then be purified for medicine.
+
+Pause and check your understanding.
+
+Why can a very accurate D N A copying system still allow evolution to occur?
+
+For astrobiology, heredity is central because it gives us a way to think about life as a historical process. A living system is not just chemistry happening now. It is chemistry connected to past generations and capable of changing in future generations.

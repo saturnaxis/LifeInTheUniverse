@@ -1,0 +1,19 @@
+Science of Life.
+
+Astrobiology is the scientific study of life in the universe. That does not mean that scientists have already found life beyond Earth. They have not. Earth is still the only confirmed example of life we know. Instead, astrobiology asks a careful scientific question: given what we know about astronomy, biology, chemistry, geology, physics, and planetary science, where could life exist, and what evidence would convince us?
+
+That question is much older than spacecraft, telescopes, or modern biology. People have wondered about life beyond Earth for thousands of years. Sometimes that wondering appeared in mythology, religion, philosophy, or science fiction. Those forms of imagination matter because they show what people cared about, but they are not the same as scientific evidence. In this chapter, we follow the historical path from ancient skywatching to modern science so that later chapters can ask better questions about possible life elsewhere
+
+A major theme will be the difference between a habitable place and an inhabited place. A habitable world could have conditions that allow life as we understand it. An inhabited world actually has life. The difference matters. A planet with liquid water might be interesting, but water alone is not a discovery of life. A claim about extraterrestrial life needs evidence strong enough that other people can test it, challenge it, and, if necessary, reject it.
+
+Why this history belongs in a life-in-the-universe course.
+
+At first, a chapter about ancient astronomy may seem far away from the search for life. We are not yet talking about D N A, microbes, exoplanets, spacecraft, or alien signals. But this history is doing important work. Before we can evaluate claims about life beyond Earth, we need to understand how science handles big questions when the evidence is incomplete.
+
+The question "Are we alone?" is emotionally powerful. It can make people hopeful, anxious, skeptical, or deeply curious. Those reactions are human, but they are not enough to answer the question. A scientific approach requires habits that do not depend on what we want the answer to be. We need to know how to build models, how to compare predictions with observations, how to recognize uncertainty, and how to avoid turning a possibility into a conclusion.
+
+Ancient astronomy gives us a manageable case study. The planets are visible to the naked eye, and their motions can be tracked over time. Different models can be compared against the same sky. Some models explain simple patterns but struggle with details. Better measurements reveal problems that were previously hidden. That is almost exactly the situation in modern astrobiology. We have clues about habitability, planetary atmospheres, organic chemistry, and extreme life on Earth, but we do not yet have confirmed extraterrestrial life. We therefore need strong habits for reasoning under uncertainty.
+
+This chapter also prepares us to think carefully about Earth's place in the universe. If Earth is the central, unique, physically different place, then life elsewhere may seem unlikely. If Earth is one planet among many, orbiting one star among many, then life elsewhere becomes easier to consider. That shift does not prove that other life exists. It changes the question from "Could there be other worlds at all?" to "What are those worlds like, and what evidence can we gather?"
+
+A second theme is humility. Many intelligent people in the past defended ideas that later turned out to be wrong. They were not always careless. Often they were using the best tools, assumptions, and observations available to them. The lesson is not that people in the past were foolish. The lesson is that even reasonable ideas must answer to evidence.

@@ -1,0 +1,15 @@
+What is a scientific theory?
+
+In everyday language, people often use the word theory to mean a guess or speculation. Someone might say, "I have a theory about why the team lost," meaning a personal idea that may or may not be well supported. In science, a theory is much stronger. A scientific theory is a well-tested model or framework that explains a broad class of phenomena and has survived repeated testing.
+
+The theory of gravity, the theory of evolution, and the theory of relativity are not guesses. They are explanatory frameworks supported by extensive evidence. They remain open to revision, but that does not make them weak. Scientific theories are powerful precisely because they can be tested and improved.
+
+Newton's theory of gravity was successful for more than two centuries. It explained falling objects, planetary orbits, tides, comets, and the discovery of Neptune. Yet Newton's theory eventually failed in extreme cases, including a small discrepancy in Mercury's orbit. Einstein's general theory of relativity explained observations that Newton's theory could not. Newton was not simply "wrong" in the ordinary sense. His theory was an excellent approximation within a certain range and incomplete outside that range.
+
+There is currently no comparable broad scientific theory of life in the universe. We do not have enough examples. Earth is the only confirmed inhabited world. That leaves many hypotheses: life may be rare, microbial life may be common but complex life rare, technological civilizations may be short-lived, or life may be more widespread than we know. At the moment, astrobiology is not a single broad theory of life everywhere It is a scientific framework for asking better questions and designing better searches.
+
+Pause and check your understanding.
+
+How is a scientific theory different from a casual guess?
+
+The lack of a complete theory should not discourage us. It should make us careful. Science often advances before it has a complete theory. Kepler found mathematical laws before Newton explained them. Galileo identified problems in the old worldview before modern physics was complete. In astrobiology, we may find useful patterns before we have a final theory of life in the universe.

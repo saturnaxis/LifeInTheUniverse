@@ -1,0 +1,203 @@
+Our Solar System.
+
+Taking inventory of our backyard.
+
+Before we search for life elsewhere, it makes sense to take inventory of our own backyard. The Solar System is the only planetary system where we can study planets, moons, asteroids, comets, atmospheres, surfaces, interiors, and small bodies up close. It gives us the baseline for asking what other planetary systems might be like.
+
+From inside the Solar System, the planets feel familiar. We can send spacecraft to them, map their surfaces, measure their atmospheres, and compare their histories. From far away, however, even our own Solar System would be difficult to recognize. If someone near Alpha Centauri looked toward us without a powerful telescope, the Sun would dominate the view. The planets would be faint points of reflected light, hidden close to a much brighter star.
+
+That is the basic problem of exoplanet science. A planetary system may contain many worlds, but most of the light comes from the star. To find planets, astronomers often have to look for tiny motions, small dips in starlight, faint infrared dots, or subtle chemical fingerprints in light.
+
+The tab set below compares two perspectives: the Solar System as a local inventory of worlds, and HR 8799 as an example of another planetary system where planets have been directly imaged.
+
+The comparison should make the search problem clear. When we study our own Solar System, we can inspect many kinds of worlds directly. When we study other planetary systems, we often begin with indirect clues or faint points of light near a bright star. Our local inventory therefore gives us the vocabulary and comparison set we need before interpreting planets around other stars.
+
+Pause and check your understanding.
+
+Why is our Solar System useful as a comparison set, even though other planetary systems may be very different?
+
+In the next few subsections, we will use that inventory to look for patterns. The Solar System is not just a list of planets. It has orderly motions, two broad classes of planets, many leftover small bodies, and important exceptions. Those patterns are clues to how the Solar System formed, and they help us think more carefully about where life might be possible.
+
+Major feature 1: patterns of motion.
+
+The first major feature of the Solar System is that its motions are surprisingly orderly. If the planets had formed independently or been captured randomly from different directions, we might expect their orbits to point every which way. Instead, the major planets follow a shared pattern.
+
+All eight major planets orbit the Sun in nearly the same plane. This plane is close to Earth’s orbital plane, which we call the ecliptic. The planets also orbit the Sun in the same direction. If we look down on the Solar System from above Earth’s north pole, the planets move counterclockwise around the Sun.
+
+Most planets also rotate in the same general direction that they orbit. This means that their days and years follow the same broad sense of motion. There are exceptions, especially Venus and Uranus, but the overall pattern is still strong. The orbits are also nearly circular compared with many possible orbital shapes.
+
+The visuals below show the pattern from two angles. The first emphasizes the shared orbital plane. The second shows the inner planets moving around the Sun over time.
+
+This orderly motion is a clue. A nearly flat, same-direction system is not what we would expect from random capture. It suggests that the planets formed from a connected process. Later in the chapter, nebular theory will explain this pattern using a collapsing, rotating cloud of gas and dust.
+
+Pause and check your understanding.
+
+Why would same-direction, nearly coplanar orbits suggest a shared origin?
+
+The pattern is strong, but it is not perfect. Venus rotates backward, Uranus is tilted dramatically, and many small moons orbit in unusual directions. Those exceptions are not failures of the pattern. They are clues that the early Solar System was orderly overall, but also violent and messy in detail.
+
+Major feature 2: two broad types of planets.
+
+The second major feature of the Solar System is that the eight major planets fall into two broad groups. The inner planets — Mercury, Venus, Earth, and Mars — are relatively small, rocky worlds close to the Sun. The outer planets — Jupiter, Saturn, Uranus, and Neptune — are much larger worlds farther from the Sun.
+
+The inner planets are often called terrestrial planets because they are Earthlike in the sense that they are made mostly of rock and metal. That does not mean they are all habitable or even similar at the surface. Mercury is airless and heavily cratered. Venus has a thick atmosphere and an extremely hot surface. Earth has oceans and life. Mars is cold, dry, and thinly air-covered today. Still, they belong to the same broad class because they are small, dense, rocky planets with solid surfaces.
+
+The outer planets are often called giant planets or Jovian planets. Jupiter and Saturn are dominated by hydrogen and helium, while Uranus and Neptune contain larger fractions of heavier volatile materials such as water, ammonia, and methane in their interiors. For this chapter, the broad pattern matters more than the detailed subcategories: the outer planets are large, low-density worlds with deep atmospheres and no solid surface like Earth’s.
+
+The visuals below compare the two broad planetary groups. Focus on the pattern, not just the names: the inner Solar System is dominated by smaller rocky worlds, while the outer Solar System is dominated by much larger giant planets.
+
+This division is important because it gives us a clue about planet formation. The inner Solar System was warmer, so only materials such as rock and metal could condense into solid particles close to the young Sun. Farther from the Sun, colder temperatures allowed ices to condense too. With more solid material available, growing outer planet cores could become massive enough to pull in large amounts of gas from the surrounding nebula.
+
+Pause and check your understanding.
+
+Why does the split between rocky inner planets and giant outer planets suggest that temperature mattered during planet formation?
+
+For the search for life, the two-planet pattern matters because different kinds of worlds offer different kinds of environments. Rocky planets can have solid surfaces, atmospheres, oceans, volcanoes, and climates. Giant planets are not likely places for surface life, but their moons can be extremely important. Europa, Enceladus, Titan, and other outer Solar System moons remind us that habitability is not limited to planets that look like Earth.
+
+Major feature 3: asteroids and comets.
+
+The third major feature of the Solar System is that it contains many small bodies in addition to planets and moons. Asteroids and comets are not failed planets in a dismissive sense. They are leftover building blocks from Solar System formation. Because they did not become large planets, they can preserve clues about the early Solar System.
+
+Asteroids are mostly rocky or metallic bodies, although the largest asteroid-belt objects can also contain significant ice-rich or altered material. Many orbit between Mars and Jupiter in the asteroid belt, although asteroids can also be found elsewhere. Most asteroids are much smaller than planets, and many are irregularly shaped because their gravity is not strong enough to pull them into spheres. Ceres is the major exception in the asteroid belt: it is large enough to be nearly round and is now classified as a dwarf planet.
+
+Comets are also small bodies, but they contain more ice mixed with rock and dust. Many comets come from colder regions beyond Neptune, such as the Kuiper Belt and the distant Oort Cloud. When a comet remains far from the Sun, it can look like a dark frozen nucleus. When it moves closer to the Sun, heating causes ices to vaporize or sublimate, releasing gas and dust. This creates a fuzzy coma and sometimes a tail.
+
+The examples below show that small bodies are diverse. Some are irregular asteroids, some have moons, some preserve surface detail at meter scales, some are large enough for gravity to make them round, and some become active when sunlight heats their ice. 
+
+Asteroids and comets matter because they help connect planet formation to planetary habitability. They are leftover pieces of the construction process, so their locations, compositions, and orbits tell us about where different materials formed. Rocky asteroids are linked to the warmer inner Solar System, while icy comets point to colder regions farther from the Sun.
+
+They also matter because impacts were part of early planetary history. Some impacts were destructive, but small bodies may also have delivered water and carbon-rich material to growing planets. This does not mean comets or asteroids “brought life” to Earth. It means they may have helped deliver some of the raw ingredients that later chemistry could use.
+
+Pause and check your understanding.
+
+Why are asteroids and comets useful clues to Solar System formation?
+
+For the search for life, small bodies broaden the story. Habitability is not only about planets sitting quietly around stars. It also depends on the leftover material in a planetary system, the delivery of water and organic compounds, and the history of impacts that can reshape planetary surfaces and atmospheres.
+
+Major feature 4: exceptions to the trends.
+
+The Solar System shows several broad patterns, but it also includes important exceptions. These exceptions do not erase the trends. Instead, they help show that the Solar System formed through an overall organized process while still experiencing later collisions, captures, and gravitational disturbances.
+
+Most large planets orbit the Sun in the same direction and in nearly the same plane, but not every object follows that simple pattern. Some moons orbit their planets in the opposite direction from the planet’s rotation. These are called retrograde moons. Many of Jupiter’s outer irregular moons belong to this category, which suggests that they were probably captured rather than formed quietly in place with Jupiter’s regular moons.
+
+Planetary rotation also shows important exceptions. Most planets rotate in the same general sense that they orbit the Sun, but Venus rotates backward relative to most planets, and Uranus is tipped so dramatically that it essentially spins on its side. These unusual tilts and rotation directions are strong clues that later impacts or other dynamical events altered some worlds after the Solar System began forming.
+
+The two visuals below highlight two important kinds of exceptions: unusual moon orbits and unusual planetary tilts. These are not random trivia. They are evidence that later collisions, captures, and gravitational reshaping affected the Solar System after its main pattern was established.
+
+These exceptions matter because they tell us that the Solar System was not completely calm after it formed. If every object followed the same trend perfectly, we might imagine a very simple and gentle formation history. Instead, the exceptions suggest later collisions, captures, and gravitational reshaping. In other words, the Solar System is orderly overall, but not perfectly tidy.
+
+Pause and check your understanding.
+
+Why do unusual planetary tilts and retrograde moons suggest that the Solar System experienced later disruptions after its initial formation?
+
+For astrobiology, exceptions are important because they broaden our idea of what planetary systems can be like. A planet’s tilt can influence its seasons and climate, and captured moons or disrupted orbits can change the long-term history of a system. When we study exoplanets, we should expect both patterns and exceptions, just as we see in our own Solar System.
+
+Nebular theory: forming the Sun and planets.
+
+The major features of the Solar System need an explanation. Why do the planets orbit in nearly the same plane? Why do they mostly move in the same direction? Why are the inner planets small and rocky while the outer planets are large and gas-rich? Why are there leftover asteroids and comets? The best explanation is called nebular theory.
+
+A nebula is a cloud of gas and dust. The word comes from Latin and means “cloud.” According to nebular theory, the Solar System began about 4.5 billion years ago as part of a cold cloud of gas and dust. The cloud was not made only of hydrogen and helium. Earlier generations of stars had already enriched it with heavier elements, including the carbon, oxygen, silicon, iron, and other materials needed to build planets.
+
+The collapse may have been triggered or helped by a disturbance, such as a nearby supernova shock wave. Once part of the cloud became slightly denser than its surroundings, gravity pulled more material inward. That increased the density, which strengthened gravity further. The process fed on itself: collapse made the center denser, and the denser center pulled in still more material.
+
+As the cloud collapsed, three important things happened. First, it heated up because gravitational potential energy was converted into thermal energy. Second, it spun faster because shrinking rotating material tends to conserve angular momentum. Third, it flattened into a disk because particles moving in different directions collided and lost random up-and-down motion, while the overall rotation remained.
+
+The center of the disk became the young Sun. The surrounding disk became the source material for planets, moons, asteroids, and comets. Astronomers call this kind of disk a protoplanetary disk because it is a disk in which planets can form.
+
+The visuals below connect the theory to real and simulated evidence. One tab shows a simulated view of a young planet-forming disk. The other shows an observed protoplanetary disk around HL Tauri, a young star whose disk contains rings and gaps.
+
+Nebular theory is powerful because it explains several Solar System patterns with one connected story. A flattened disk naturally explains why planets orbit in nearly the same plane. A shared rotating disk naturally explains why most planets orbit in the same direction. Different temperatures at different distances from the young Sun help explain why the inner and outer planets formed from different materials.
+
+Pause and check your understanding.
+
+How does a collapsing cloud become a flattened disk instead of staying spherical?
+
+This does not mean the Solar System formed in a perfectly calm or simple way. Nebular theory gives the broad pattern, but the details were messy. Particles collided, stuck, shattered, migrated, and sometimes were thrown into new orbits. The next sections use this theory to explain why the Solar System has both order and exceptions.
+
+Condensation and the frost line.
+
+Nebular theory explains the broad shape and motion of the Solar System, but it also helps explain why different kinds of planets formed in different places. The key idea is that the young Solar System was not the same temperature everywhere. It was hotter near the young Sun and cooler farther away.
+
+As the protoplanetary disk cooled, some materials changed from gas into solid particles. This process is called condensation. The word may sound familiar from water droplets forming on a cold glass, but in the early Solar System the same basic idea applied to many materials. A substance could become solid only where the temperature was low enough for that substance to condense.
+
+Close to the young Sun, temperatures were high. Only materials with high condensation temperatures, such as metals and rocky minerals, could remain solid there. Water, ammonia, methane, and other volatile materials mostly stayed as gases. This helped make the inner Solar System poor in ice and rich in rock and metal.
+
+Farther from the young Sun, temperatures were lower. At a distance of about 2.7 astronomical units in the young Solar System, water ice could condense. This boundary is often called the frost line or snow line. Beyond the frost line, solid particles could include rock, metal, and ice. That meant there was more solid material available for building larger objects.
+
+This difference helps explain the split between the two broad types of planets. In the inner Solar System, rocky planetesimals grew into Mercury, Venus, Earth, and Mars. In the outer Solar System, icy material helped planetesimals grow larger and faster. Once some outer cores became massive enough, they could pull in hydrogen and helium gas from the surrounding nebula, helping form giant planets.
+
+Pause and check your understanding.
+
+Why did the frost line make it easier for large planets to grow in the outer Solar System?
+
+The frost line does not explain every detail by itself, but it is one of the most important links between temperature and planet formation. It shows that where a planet forms can shape what it is made of, how large it becomes, and what kinds of environments it may later offer.
+
+Accretion, fragmentation, and planetesimals.
+
+Once solid particles could condense in the disk, planet formation still had a long way to go. A dust grain is not a planet. Even a pebble is not close. The next problem is growth: small solid particles must become larger bodies without being destroyed faster than they build up.
+
+The first solid particles in the young Solar System were microscopic. Because they formed inside a rotating disk, many of them followed similar paths around the young Sun. That matters because particles moving in nearly the same direction and at nearly the same speed can collide gently. A gentle collision may allow grains to stick together, especially when tiny surface forces and irregular shapes help particles cling to one another. This sticking process is called accretion.
+
+Not every collision builds something larger. If two bodies hit each other too fast, the collision can break them apart instead. This destructive process is called fragmentation. Planet formation is therefore not a smooth assembly line where dust automatically becomes planets. It is a competition. Some collisions add material, while other collisions grind material down or scatter it into smaller fragments.
+
+The two visuals below show the basic competition. The course-created diagram separates the idea into accretion and fragmentation. The NASA visualization shows a later disk stage, where growing bodies have begun shaping the disk and clearing gaps.
+
+When accretion wins often enough, the growing objects become planetesimals. The word literally means “pieces of planets,” which is a useful way to think about them. Planetesimals are not finished planets. They are the surviving building blocks large enough to keep participating in planet formation through collisions, gravity, and orbital interactions.
+
+As some planetesimals became larger than others, gravity became more important. A larger body has more mass, so it can pull in nearby smaller bodies more effectively. This creates a feedback loop: growth makes gravity stronger, and stronger gravity makes further growth easier. In the inner Solar System, this process eventually produced many rocky protoplanets, roughly Moon-sized to Mars-sized bodies, that continued colliding and merging.
+
+This stage was not gentle in the everyday sense. A collision between growing worlds can release enormous energy. Some impacts added mass. Some stripped material away. Some changed rotation rates, tilted axes, or created debris disks. Earth’s Moon likely formed from a giant impact between early Earth and another large body, so even a world that later becomes habitable can have a violent formation history.
+
+The timescale is also important. Planet formation did not require billions of years just to begin. The main growth of solid bodies occurred within the first few million to tens of millions of years. That is short compared with the age of the Solar System, but long compared with human experience. The early Solar System changed from dust and gas into a system of growing worlds while the young Sun and its disk were still evolving.
+
+Pause and check your understanding.
+
+Why does planet formation require both sticking collisions and survival against destructive collisions?
+
+This section explains how the terrestrial planets could begin forming from condensed rock and metal. The next step is to look farther from the Sun, where ice changed the growth process. Beyond the frost line, there was more solid material available, and that helped some growing bodies become massive enough to collect gas directly from the nebula.
+
+Leftovers, chaos, and clearing the nebula.
+
+Nebular theory explains the major trends, but it does not say that every piece of the Solar System became part of a planet. Planet formation is inefficient. Some planetesimals collided and grew, some were shattered, and many simply remained as leftover material.
+
+The leftover material matters because it preserves clues about where it formed. Rocky planetesimals left over from the warmer inner Solar System are connected to asteroids. Icy planetesimals left over from colder regions are connected to comets, Kuiper Belt objects, and the distant Oort Cloud. These small bodies are not just debris in the dismissive sense. They are evidence from the construction process.
+
+The Solar System was also chaotic. Once large bodies formed, their gravity could scatter smaller bodies into new orbits. Near-miss encounters could send planetesimals inward, outward, or even out of the Solar System entirely. Some large collisions changed planets in dramatic ways. A giant impact may have helped form Earth’s Moon, and another major event may have tilted Uranus. Captured moons, retrograde orbits, unusual tilts, and leftover belts all point to a Solar System that was orderly in its broad pattern but messy in the details.
+
+The visuals below connect three parts of the story: leftovers, chaotic collisions, and the final clearing of the gas-rich nebula.
+
+The final question is what happened to the original nebula. The young Sun did not simply sit quietly at the center of the disk. It emitted light and a stream of charged particles called the Solar wind. Together, radiation and the Solar wind pushed on gas and dust. Over time, much of the remaining gas was cleared away.
+
+That clearing matters because gas cannot build giant planets forever. Once the nebular gas was gone, a growing planet could no longer collect large amounts of hydrogen and helium directly from the disk. The basic architecture of the Solar System was mostly set within the first few million to tens of millions of years, even though impacts, scattering, and orbital changes continued afterward.
+
+Pause and check your understanding.
+
+Why does nebular theory explain broad Solar System patterns without making the Solar System perfectly orderly?
+
+For astrobiology, this messy ending is important. Planet formation seems to be a natural part of star formation, which is encouraging for the search for planets elsewhere. But the details can vary. A system can form planets and still end up with different arrangements, different impact histories, different moons, and different chances for long-term habitability.
+
+Implications for life in the universe.
+
+Nebular theory gives us one of the most important pieces of good news in astrobiology: planets should be common. If planets form naturally from the same disks that form stars, then planet formation is not a rare accident. Stars are forming throughout the Galaxy, and young stars are often surrounded by disks of gas and dust. That means the raw process that made the Solar System should also happen around many other stars.
+
+The good news has a limit. Nebular theory predicts that planets should form, but it does not predict that every planetary system should look like ours. Exoplanet discoveries have shown that many systems are very different from the Solar System. Some stars have giant planets orbiting extremely close to the star. Some have compact systems of several planets packed inside orbits smaller than Earth’s. Some may have planets that formed in one region and later migrated somewhere else.
+
+This matters because the search for life is not only a search for planets. It is a search for planets with the right histories. A planet’s present location is important, but it is not the whole story. A world may have formed dry and later received water-rich material. A promising rocky planet may have been disrupted by migrating giant planets. A moon may become interesting because it formed around, or was captured by, a giant planet. Planetary systems are not static diagrams. They are histories.
+
+Planet migration is one reason those histories can become complicated. In a young system, planets can exchange angular momentum with gas, dust, planetesimals, and other planets. A growing giant planet can reshape the disk around it. It can scatter smaller bodies inward or outward. It can change the amount of material available for rocky planet formation. It can also disturb worlds that might otherwise have grown into stable terrestrial planets.
+
+Models are tools, not defaults.
+
+The Grand Tack, Nice model, and Early Instability model are not laws of nature. They are scientific models: structured attempts to explain evidence using gravity, migration, scattering, collisions, and disk evolution. A model can become widely used because it is familiar and has appeared in many papers, but that does not mean it is always the right model for a new problem. Before adopting any model, scientists should ask what evidence the model was designed to explain, what assumptions it requires, and whether newer models explain the same evidence with fewer or better-supported assumptions.
+
+The animations below show three related model ideas. The Grand Tack is useful as a historical and conceptual example of giant-planet migration, but it should not be treated as the default choice just because it is familiar. The Nice model remains important for understanding the outer Solar System. The Early Instability model is currently more compelling for this chapter’s purpose because it keeps the useful giant-planet instability idea while reducing the need for Jupiter to make a special inward-then-outward tack.
+
+A model should not be chosen because it is famous or convenient. It should be chosen because its assumptions match the question being asked and because it explains the relevant evidence better than competing models. That is a major part of how science works. Models are not just stories; they are tools for organizing evidence, making predictions, and finding out where our explanations fail.
+
+For astrobiology, these models matter because habitability depends on system history. A rocky planet may need water delivery, long-term orbital stability, a protective or persistent atmosphere, and enough time for chemistry and biology to develop. Giant planets may help deliver water-rich material in some situations, but they may also scatter material, destabilize orbits, or prevent rocky planets from forming in the first place. The same physical laws can produce many different outcomes.
+
+Pause and check your understanding.
+
+Why should scientists avoid choosing a planet-formation model only because it is familiar?
+
+The main lesson is not that any one model must be exactly correct. The deeper lesson is that planetary systems have histories. To search for life elsewhere, we need more than a list of planets. We need to understand how those planets formed, moved, collided, gained or lost water, kept or lost atmospheres, and remained stable long enough for life to become possible.

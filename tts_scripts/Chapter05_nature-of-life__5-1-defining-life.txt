@@ -1,0 +1,90 @@
+The Nature of Life on Earth.
+
+Earth is the only world where life is confirmed. That fact can make astrobiology feel backward: we want to study life in the universe, but we only have one inhabited planet to examine in detail. The way forward is not to pretend that one example is enough to prove a universal rule. Instead, we use Earth life carefully. We ask what all known organisms share, what those shared features suggest about the basic requirements for living systems, and where those requirements might also exist beyond Earth.
+
+The difficulty is that life is not one simple thing. A bacterium, a mushroom, a maple tree, a jellyfish, and a human are all alive, but they look and behave very differently. A car can move, use energy, turn, and release waste, but it is not alive. A wildfire can grow and spread, but it is not alive. A crystal can form an orderly structure, but it is not alive. This chapter builds a working definition of life by looking at several connected properties rather than searching for one magic word.
+
+That working definition matters for the rest of the course. If we search only for intelligent civilizations, then most possible life is ignored. If we search only for animals and plants, then we also miss most of Earth history, when life was microbial. If we search for life in a scientific way, we need to understand cells, metabolism, heredity, evolution, and the environmental limits of organisms. Those ideas become the bridge between biology on Earth and the search for possible life elsewhere.
+
+Defining Life.
+
+Why life is hard to define.
+
+A useful definition of life has to do two jobs at once. It has to include the things that are clearly alive, such as bacteria, plants, animals, fungi, and archaea. It also has to exclude things that merely imitate one or two properties of life. That second part is harder than it first appears.
+
+A cat and a car are a good comparison. Both require energy to function. Both can move. Both can change direction. Both can release waste products. But the similarities break down once we ask where the organization comes from. A cat is made of cells, grows by using inherited instructions, repairs itself, responds internally to changing conditions, and comes from a lineage of reproducing organisms. A car is assembled externally. It may be complex, but it does not contain its own inherited program for making more cars.
+
+Biologists therefore often describe life through a cluster of properties: order, reproduction, growth and development, energy utilization, response to the environment, and evolutionary adaptation. These properties are not independent boxes that can be checked one at a time. They work together. Order requires energy to maintain. Growth and reproduction require inherited information. Evolution requires reproduction with variation. A living organism is not just a collection of chemicals; it is a chemical system that keeps itself organized, uses energy, and belongs to a lineage that can change over generations.
+
+Pause and check your understanding.
+
+Why is movement or energy use alone not enough to classify something as alive?
+
+Order, reproduction, and development.
+
+All living organisms show some kind of order. The order is not just visible shape. It reaches down to the molecular level. In cells, molecules are arranged into membranes, proteins, chromosomes, ribosomes, and many other structures. Those structures make biological function possible. A cell membrane separates inside from outside. Proteins can act as structural supports, transporters, or catalysts. D N A stores information in a sequence of molecular building blocks. Without this kind of organization, the rest of life would not work.
+
+Order is necessary, but it is not sufficient. A book has order. A quartz crystal has order. A snowflake has a striking pattern. None of these is alive. Even a purified D N A molecule or a single protein is not alive by itself, because it does not carry out the whole organized process of living. The lesson is that order matters only as part of a larger system.
+
+Reproduction is also central to life, because evolution cannot operate unless information is passed from one generation to another. Reproduction can be sexual, involving two parents, or asexual, involving one parent. Many microbes reproduce by dividing into two daughter cells. Many plants and fungi can reproduce in multiple ways. The details vary, but reproduction connects individual organisms to a continuing lineage.
+
+Even reproduction has complications. A mule is alive even though it is usually sterile. A worker ant may never reproduce individually, but it is part of a reproducing colony. Viruses can make copies of themselves only by using living cells. Prions, which are misfolded proteins, can cause other proteins to misfold in a similar way. These edge cases are why a one-sentence definition of life is not enough. Biology is full of systems that sit near the boundary.
+
+Growth and development add another piece. Living organisms do not merely get larger. They develop patterns according to inherited instructions and environmental conditions. A seed becomes a plant by using stored information and available resources. A fertilized egg becomes an animal through a long sequence of regulated cell divisions and cell specializations. A wildfire also grows and spreads, but it does not develop according to hereditary information. Again, the property matters only when connected to the whole biological system.
+
+Boundary cases do useful work.
+
+The awkward cases near the boundary of life are not distractions. They help clarify what a definition is trying to do. Viruses are a good example. A virus can contain genetic material and can evolve over time, but it cannot reproduce by itself. It must enter a living cell and use that cell’s machinery. Outside a host cell, a virus is more like a package of biological instructions than an independently living organism.
+
+Prions push the boundary from another direction. A prion is not a cell and does not contain D N A or R N A. It is an incorrectly folded protein that can encourage other proteins to fold incorrectly. That is a kind of propagation, but it is not metabolism, cellular life, or heredity in the ordinary biological sense. Prions show why “makes more of itself” is not enough by itself.
+
+Sterile organisms also show why reproduction has to be interpreted at the level of lineages, not isolated individuals. A mule is alive even if it usually cannot produce offspring. A human who never has children is still alive. Worker insects may not reproduce individually, but they can contribute to the reproduction of a colony. Life is not defined by whether one individual successfully reproduces at a given moment. It is defined by belonging to a biological system in which inherited information can be copied, varied, and sorted across generations.
+
+These examples matter for astrobiology because a future discovery may not fit our first expectations. A chemical system on another world might show some life-like properties but not others. Scientists would then need to ask whether the system has organization, energy use, bounded chemistry, heredity, and evolution, rather than asking whether it looks familiar. A careful definition helps us avoid two opposite mistakes: rejecting unfamiliar life too quickly, or calling any interesting chemistry alive.
+
+Energy, disorder, and response.
+
+Living systems require energy because ordered systems do not maintain themselves for free. The second law of thermodynamics tells us that, when left alone, energy transformations tend to increase disorder. That does not mean life violates thermodynamics. It means life must constantly use energy from its surroundings to maintain local order.
+
+A living organism can obtain energy from food, sunlight, or chemical reactions in its environment. That energy is used to build molecules, repair damage, move materials, reproduce, and maintain internal conditions. When the energy supply stops, the organized relationships inside the organism begin to fail. Cells lose the ability to repair damage. Chemical gradients break down. The organism eventually decays.
+
+This idea is important for astrobiology because it separates the question of life from the question of sunlight. Sunlight is a powerful energy source for life at Earth’s surface, but it is not the only possible one. On Earth, some organisms use chemical reactions near deep-sea vents or hot springs. That means the search for life elsewhere should not be limited to sunny surfaces. Subsurface oceans, warm rock-water interfaces, or chemically active environments may also matter.
+
+Living organisms also respond to their surroundings. Bacteria may move toward nutrients or away from harmful chemicals. Plants grow toward light. Mammals sweat, pant, shiver, or adjust blood flow to help regulate internal temperature. These responses are not merely passive. They are part of maintaining the conditions that allow life to continue.
+
+Response by itself is still not enough. A thermostat responds to temperature changes, but it is not alive. A phone screen responds to touch, but it is not alive. The key difference is that biological response is integrated with metabolism, heredity, repair, growth, and reproduction. In a living cell, environmental response is part of the organism’s self-maintaining chemistry.
+
+Try the numbers.
+
+A typical cell is mostly made from four chemical elements: oxygen, carbon, hydrogen, and nitrogen. A useful round number is that these four elements make up about 96 percent of the mass of typical cells. For a hypothetical sample of 1,000 grams of cell material, the mass in those four elements is
+
+The mass in O C H N equals 0.96 times 1,000 grams.
+This equals 960 grams.
+
+That leaves about 40 grams for all the other elements combined. This does not mean the trace elements are unimportant. It means that most biological structure is built from a small set of abundant atoms.
+
+See the Python snippet given in the course lecture notes.
+
+Evolutionary adaptation and a practical definition of life.
+
+Evolutionary adaptation is the most important property for defining life because it explains why Earth life is so diverse. Evolution means change over time. In biology, the relevant change occurs across generations. A single organism can grow, learn, or respond during its lifetime, but biological evolution refers to changes in inherited traits in a population.
+
+Ideas about biological change long predate Darwin. Ancient Greek thinkers disagreed over whether living things could change through time, and early nineteenth-century naturalists were trying to explain fossils that did not look exactly like living species. Jean-Baptiste Lamarck argued that organisms adapt to their environments, which was an important step because it treated change through time as a natural process. The weakness was the mechanism. Lamarck is often summarized through inheritance of acquired characteristics: an organism changes during its lifetime and passes that acquired change to its offspring.
+
+Darwin’s theory of evolution by natural selection made a different claim. Darwin emphasized overproduction and competition for survival: organisms often produce more offspring than can survive in a limited environment. He also emphasized individual variation: no two individuals are exactly alike, and some inherited differences affect survival or reproduction. Darwin’s conclusion was that unequal reproductive success can sort inherited variation. If a trait helps organisms leave more offspring in a particular environment, that trait can become more common over generations. Natural selection does not require organisms to plan ahead, and it does not mean individuals evolve during their lifetimes. Populations evolve as inherited traits become more or less common.
+
+The contrast is important. Lamarck’s view puts the main change inside an individual during its lifetime. Darwin’s view puts the main change in a population across generations. Lamarck helped frame adaptation as a natural problem to explain, but Darwin supplied the mechanism that connected inherited variation, reproduction, and environmental sorting.
+
+The Galápagos finches are a classic example because different populations became adapted to different foods and environments. Ground finches and tree finches did not become different because individual birds decided to change their beaks. Populations changed because inherited beak differences affected feeding success and reproduction under different island conditions. Artificial selection makes the same logic visible in a human-controlled setting. Selective breeding of plants and animals can strongly reshape traits over many generations because humans decide which organisms reproduce. Several familiar green vegetables, including cabbage, broccoli, kale, and Brussels sprouts, come from selective breeding of wild mustard.
+
+Darwin did not know the molecular basis of heredity. Gregor Mendel’s pea-plant work later provided a way to think about inherited units, and modern genetics showed that D N A stores information that can be copied and modified. Evolution is a scientific theory because it has survived many tests, connects many lines of evidence, and has no credible alternative with comparable explanatory power. We can also watch evolution occur, as in viral variants such as alpha, delta, and omicron lineages of SARS COV 2. Those variants are not separate proof of all evolutionary history, but they are a direct example of inherited variation spreading through populations over time.
+
+Biologists also use classification terms to keep related organisms organized. A species is a specific category of organisms that are genetically distinct from other groups; for sexually reproducing organisms, the term often also involves the ability to reproduce with one another. A genus is the broader category that contains one or more closely related species. Humans are classified as Homo sapiens: Homo is the genus and sapiens is the species.
+
+A practical working definition is therefore: life is a system that can reproduce and evolve through natural selection. This definition is not perfect, but it is powerful. It emphasizes heredity, variation, and evolution rather than superficial appearance. It also helps astrobiology avoid looking only for organisms that resemble familiar plants and animals.
+
+Pause and check your understanding.
+
+Why does evolution help define life better than a visible trait such as movement or growth?
+
+Darwin’s theory does not explain how life began. Origin-of-life research asks how nonliving chemistry could have gradually developed systems capable of heredity, metabolism, and evolution. That transition may not have involved a single first organism in the way a textbook diagram might imply. It may have involved a long period of chemical evolution, where certain reactions and molecular systems became more stable, more self-maintaining, or better at copying information.

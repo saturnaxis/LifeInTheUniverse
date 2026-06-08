@@ -1,0 +1,47 @@
+The Habitability of Earth.
+
+Earth is the only world we know for certain is inhabited. That makes Earth special, but it does not mean Earth should be treated as magical or scientifically separate from other planets. Earth is a planet with a surface, an interior, an atmosphere, oceans, changing climate, impacts from space, and a long history written into rocks. Those same categories can be studied on other worlds.
+
+The central question in this chapter is not simply, “Why is Earth alive?” A better question is, “What physical conditions made Earth habitable, and how do we know those conditions existed in the past?” That second question is more useful for astrobiology because we cannot travel backward in time and watch early Earth directly. We have to reconstruct the story from surviving evidence.
+
+That reconstruction is not easy. Rocks can be melted, buried, compressed, eroded, or recycled. Fossils are rare and biased toward organisms with hard parts. Impact craters can be erased. Atmospheres can change or escape. Even so, Earth gives us the best example we have of how a rocky planet can develop oceans, an atmosphere, a long-term climate system, and a biosphere.
+
+The habitability of Earth depends on several linked processes. Volcanism helped build the atmosphere and oceans. Plate tectonics recycles rock and helps regulate climate over long timescales. Earth’s magnetic field helps limit atmospheric loss from the solar wind. The greenhouse effect keeps the planet warm enough for liquid water. The Moon may also have influenced Earth’s long-term environment, and the Moon’s rocks preserve evidence from the early Solar System that Earth itself has mostly erased.
+
+As we work through these ideas, keep a careful distinction in mind. A world can be habitable without being inhabited. Habitability means that the ingredients and conditions for life could be present. It does not prove that life exists. Earth is our strongest case study because it is both habitable and inhabited, but astrobiology often deals with worlds where only part of that statement can be tested.
+
+Geology and Life.
+
+Why geology matters for life.
+
+At first glance, geology may seem like a separate subject from the search for life. Rocks, volcanoes, earthquakes, and mountain ranges do not look much like biology. But on planetary timescales, geology and life are deeply connected. A planet’s geology helps determine whether it has an atmosphere, whether it can keep liquid water, how its climate changes, and what evidence of past environments survives.
+
+The contrast among the terrestrial worlds makes this clear. Mercury and the Moon are barren, airless worlds with heavily cratered surfaces. Venus has a thick atmosphere and a surface hot enough to destroy ordinary spacecraft in a short time. Mars is cold and dry today, even though evidence suggests it had liquid water on its surface in the past. Earth is the world where oceans cover much of the surface, the atmosphere is stable enough for life, and surface conditions have remained suitable for billions of years.
+
+The word geology literally points to Earth, but in planetary science it is used more broadly. Geology can mean the study of any world with a solid surface. It also means the processes and features that shape solid worlds: impacts, volcanism, tectonics, erosion, sedimentation, and internal heat flow. In this sense, the Moon, Mars, Venus, asteroids, and icy moons all have geology, even when they do not have Earthlike geology.
+
+For astrobiology, geology is important because life needs more than a surface to stand on. Life as we know it depends on chemical ingredients, energy sources, and a stable enough environment for biology to operate. Geological processes move chemicals through the surface and interior. They can release gases into an atmosphere, recycle carbon, expose minerals to water, bury and preserve fossils, and create environments where liquid water can persist.
+
+A single volcanic eruption may affect life locally, but the deeper importance of volcanism is long-term. Over billions of years, volcanism helps transfer material from a planet’s interior to its surface and atmosphere. This includes gases such as water vapor, carbon dioxide, nitrogen, and sulfur-bearing compounds. Those gases matter because atmospheres and oceans are not just placed on planets fully formed. They are built, lost, modified, and sometimes rebuilt through planetary processes.
+
+The comparison below helps us see why Earth’s habitability is not just a matter of being a rocky planet. Mercury, Venus, Earth, Mars, and the Moon formed in the same Solar System, but their surfaces, atmospheres, and geological histories turned out very differently.
+
+Three geological ingredients for Earth’s habitability.
+
+Three aspects of Earth’s geology are especially important in this chapter: volcanism, plate tectonics, and the magnetic field.
+
+Volcanism releases gases and minerals from Earth’s interior. Early in Earth’s history, this outgassing helped build the atmosphere and contributed water vapor that could later condense into oceans. Volcanism also continues to return gases to the atmosphere today, which matters for long-term climate regulation.
+
+Plate tectonics recycles rock. At some boundaries, old seafloor is pushed back into the mantle through subduction. At other boundaries, new seafloor forms as mantle material rises and cools. This recycling moves carbon between the atmosphere, oceans, rocks, and interior. It also rearranges continents, opens and closes oceans, builds mountains, and changes climate patterns.
+
+Earth’s magnetic field forms a protective bubble around the planet. It does not make Earth invulnerable, and it does not stop every charged particle from reaching the atmosphere. But it helps reduce the direct stripping of atmospheric gas by the solar wind. Mars shows why this matters. Mars does not have a strong global magnetic field today, and spacecraft observations show that its atmosphere continues to lose gas to space.
+
+These three pieces do not work independently. A planet’s interior heat drives volcanism and mantle convection. Mantle convection is connected to plate motion. Motion of electrically conducting fluid in the outer core helps generate the magnetic field. Climate, atmosphere, water, and surface geology are all connected to what is happening beneath the surface.
+
+Pause and check your understanding.
+
+Why is being a rocky planet at the right distance from the Sun not enough, by itself, to explain Earth’s long-term habitability?
+
+This is why studying Earth’s habitability requires more than asking how far Earth is from the Sun. Distance from the Sun matters because it helps determine how much sunlight a planet receives. But Earth’s long-term habitability also depends on what Earth is made of, how large it is, how its interior evolved, whether it kept an atmosphere, whether it developed oceans, and whether climate feedbacks prevented the planet from becoming permanently frozen or overheated.
+
+The three visuals below connect the chapter’s three geological ingredients: outgassing, plate recycling, and atmospheric protection.

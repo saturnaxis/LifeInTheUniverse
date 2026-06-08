@@ -1,0 +1,53 @@
+Galileo, Newton, and a new physical universe.
+
+After Kepler, the Sun-centered model was much stronger, but it still faced reasonable objections. These were not only religious objections. They were also physical and observational objections that made sense within the older worldview.
+
+One objection concerned motion on Earth. If Earth is moving rapidly through space, why are birds, clouds, and falling stones not left behind? Galileo addressed this problem through experiments and reasoning about motion. A moving object does not need a continuous push to keep moving. It continues moving unless something acts to stop or change its motion. This idea, later called the principle of inertia, helped explain why objects near Earth's surface continue to share Earth's motion.
+
+Another objection came from the old belief that the heavens were perfect and unchanging. In the Aristotelian picture, Earth was the changing, imperfect realm, while the heavens were physically different. Kepler had already challenged perfect circular motion by showing that planets move in ellipses. Galileo pushed the challenge further with his telescope. His observations of the Moon showed ridges, shadows, and rough terrain rather than a perfectly smooth heavenly sphere. The heavens were not as separate from Earth as Aristotle had imagined.
+
+A third objection was the lack of observed stellar parallax. If Earth orbits the Sun, nearby stars should appear to shift slightly against more distant stars over the course of a year. No one in Galileo's time could measure that shift. Galileo did not solve this problem completely; the parallax angle was too small for the instruments available. What he did do was weaken the objection by showing that the Milky Way contained many more stars than previously recognized. If the stars were much farther away than earlier astronomers had assumed, then their parallax shifts would be too small to detect without better instruments.
+
+Galileo's strongest telescopic evidence came from Venus and Jupiter. Venus goes through phases like the Moon, which fits naturally if Venus orbits the Sun. Jupiter has four large moons orbiting it, which showed that not everything in the sky orbits Earth. These observations did not measure stellar parallax, but they made the old Earth-centered worldview much harder to defend.
+
+The three tabs below summarize the observations that made Galileo's case powerful.
+
+Pause and check your understanding.
+
+How did Galileo's observations weaken the old Earth-centered worldview without directly measuring stellar parallax?
+
+Galileo helped show that the old worldview had serious problems, but he did not yet provide a complete physical explanation for planetary motion. Newton put the heliocentric model on stronger footing because he supplied the physical explanation that Kepler and Galileo did not yet have. Kepler's laws described how planets move, but Newton explained why those motions occur. The same law of gravity that makes objects fall on Earth also keeps the Moon and planets in orbit. This erased the old separation between earthly motion and heavenly motion. The Solar System was no longer just a geometric arrangement of paths; it became a physical system governed by the same laws of motion and gravity that operate on Earth.
+
+The Copernican Revolution changed the debate about extraterrestrial life. Aristotle's universe had placed Earth at the center and treated the heavens as fundamentally different. Copernicus, Kepler, Galileo, and Newton helped remove that special physical status. Earth became one planet orbiting one star. The Moon became a world with terrain. Jupiter became a center of motion for its own moons. The same gravity that pulls a stone downward also helps govern planetary orbits.
+
+This did not prove that life exists elsewhere That point is essential. The Copernican Revolution made extraterrestrial life easier to imagine scientifically because it made Earth less physically unique. But easier to imagine is not the same as demonstrated. A scientific claim still needs evidence.
+
+Speculation after Copernicus.
+
+The Copernican Revolution also changed how people speculated about life beyond Earth. If Earth is not the center of the universe, then perhaps it is not the only world. Some later thinkers pushed this idea much further than Copernicus himself had done.
+
+One important example is Giordano Bruno, an Italian philosopher who used Copernicus's Sun-centered system as a starting point for a much more radical idea. Bruno argued for an infinite universe filled with stars that were themselves suns. If stars were like the Sun, then they might have their own worlds, and those worlds might even be inhabited. This was not modern exoplanet science. Bruno did not have telescopic evidence for planets around other stars. His argument was philosophical and theological as much as astronomical. Still, it shows how quickly the Copernican shift reopened the ancient question of many worlds.
+
+The Church's response to these ideas was complicated. Copernicus was not simply attacked by Church authorities when his work appeared. His book was dedicated to Pope Paul III, and Copernicus wrote that Cardinal Nicolaus Schönberg and Bishop Tiedemann Giese had urged him to publish. Bruno's case was different. He was condemned by the Roman Inquisition in 1600, but not simply because he supported a moving Earth. His trial involved a wider set of theological claims, including his views about Christianity, the soul, and the plurality of worlds.
+
+This contrast is useful because it prevents a cartoon version of history. The conflict was not simply "science versus religion" in a modern sense. It was also a conflict over authority, interpretation, doctrine, and what kinds of speculation were acceptable without decisive evidence. For this course, Bruno matters because he connected the Copernican universe to the possibility of countless inhabited worlds. But he also reminds us that a bold idea is not the same thing as scientific evidence.
+
+After the Copernican Revolution, many thinkers took the many-worlds idea further. Kepler speculated that the Moon might have an atmosphere and inhabitants, and he even wrote a work of science fiction imagining a journey to the Moon. William Herschel later assumed that all the planets were inhabited. Percival Lowell famously interpreted markings on Mars as canals, which he believed suggested intelligent construction.
+
+These examples show both the power and danger of imagination. Kepler, Herschel, and Lowell were not foolish people. They were working within the questions and evidence available to them. But the history also shows how easy it is to jump from "this world is interesting" to "this world must be inhabited." Modern astrobiology has to resist that jump.
+
+Pause and check your understanding.
+
+Why did the Copernican Revolution make life beyond Earth easier to discuss scientifically without proving it exists?
+
+This course will use imagination as a starting point, not as a conclusion. We can ask where life could exist. We can identify possible habitats. We can build instruments to search for biosignatures. But we should not treat possibility as confirmation.
+
+Science, values, and correction.
+
+Saying that science seeks natural explanations does not mean science answers every kind of human question. Science can tell us how planets move, how stars produce energy, how life changes over time, and what evidence would support a biosignature. It cannot by itself tell us what a discovery should mean spiritually, culturally, or personally. Those questions may matter deeply, but they are not answered by the same methods.
+
+This distinction helps reduce a common tension. Scientific explanations do not need to be treated as attacks on meaning. Explaining eclipses through orbital geometry does not make them less impressive. Explaining the Moon's phases does not make the Moon less beautiful. Explaining life through chemistry and evolution does not make life less valuable. Science changes the type of explanation, not the importance of the phenomenon.
+
+At the same time, science must be allowed to correct cherished ideas. If a claim about nature is presented as a scientific claim, then it has to face evidence. That is what happened to the idea of perfect heavenly circles, the unique central Earth, and Aristotle's falling objects. It is also what must happen to modern claims about alien visitation, biosignatures, or habitable worlds. The more important the claim, the more important the evidence.
+
+The scientific community is not automatically fair or perfectly rational. Biases can affect which questions are asked, which researchers are trusted, and which results are noticed. Scientists are people, and people bring assumptions, ambitions, and blind spots into their work. The strength of science is not that individual scientists are free from bias. The strength is that scientific claims are exposed to tools that can reveal mistakes: reproducibility, public criticism, mathematical consistency, independent observations, and competition among models. These tools do not work instantly, and they do not prevent every error. Over time, however, they make science more reliable than unsupported personal judgment.

@@ -1,0 +1,78 @@
+The Copernican Revolution.
+
+The Copernican Revolution did not begin from nowhere Greek ideas spread through the ancient world, partly through the influence of Alexander the Great, who had Aristotle as a tutor. The Library of Alexandria became a major center of research, collecting hundreds of thousands of papyrus scrolls. Many ancient works were lost after the fall of Rome, but some survived through translation, preservation, and expansion in other intellectual centers.
+
+During Europe's so-called dark ages, scholarship continued in other cultures. Early Islamic scholars translated Greek works, studied them, criticized them, and built on them. The word algebra comes from Arabic al-jabr. Chinese, Indian, and Muslim scholars preserved and developed scientific and mathematical knowledge while much of western Europe lost direct access to parts of the ancient tradition. Those preserved works later helped set the stage for the European Renaissance.
+
+Nicolaus Copernicus revived the heliocentric idea in 1543. Heliocentric means Sun-centered. Aristarchus had suggested something similar around 260 BC, but his idea had not convinced most ancient thinkers. Copernicus returned to the idea partly because planetary tables based on the Ptolemaic model had become noticeably inaccurate. A Sun-centered model gave a more natural ordering of the planets and revealed geometric relationships among their orbits.
+
+Copernicus was not a modern scientist in every way. He still assumed that heavenly motion must be based on perfect circles. Because of that assumption, his model was not dramatically better than Ptolemy's model at predicting planetary positions. It was simpler in some ways and more physically suggestive, but it did not immediately win the argument by overwhelming predictive success.
+
+The main objection to heliocentrism was not silly. If Earth orbits the Sun, then nearby stars should appear to shift slightly over the year as Earth moves from one side of its orbit to the other. This effect is called stellar parallax. Ancient observers did not detect such shifts. There were two possible interpretations: either Earth did not move, or the stars were so far away that the shift was too small to see without better instruments. Many people found the second option unreasonable because it required the universe to be much larger than they imagined.
+
+Pause and check your understanding.
+
+Why was the lack of observed stellar parallax a serious objection to heliocentrism?
+
+This is a recurring pattern in science. A model may imply something that seems extreme. The right response is not to reject it immediately because it feels strange, and not to accept it immediately because it is exciting. The right response is to ask what observations would decide the issue. Stellar parallax would eventually be measured, but not until long after Copernicus, because the effect is tiny.
+
+Better data: Tycho Brahe.
+
+The next major step came from better observations. Tycho Brahe, often pronounced "TIE-koe BRAH," was a Danish nobleman and astronomer whose personality was as memorable as his data. He lost part of his nose in a duel over who was the better mathematician, enjoyed royal support from the Danish king, and built a major observatory on the island of Hven. His instruments worked like enormous protractors for measuring angles in the sky.
+
+Tycho did not use a telescope. His achievement was precision with the best pre-telescopic instruments available. Earlier planetary positions were often accurate only to about a degree, roughly the width of a finger held at arm's length. Tycho improved the precision of planetary observations by roughly a factor of 60. That mattered because the differences between competing models were small. Poor data could hide the problem; better data exposed it.
+
+Tycho's story is useful for understanding modern astrobiology. The search for life elsewhere is not only about big ideas. It is also about measurement precision. Whether scientists are measuring a planet's atmosphere, a tiny brightness dip during a transit, or the motion of a star caused by an orbiting planet, better data can turn speculation into a testable claim.
+
+Kepler and the eight arcminutes.
+
+In 1600, Tycho hired Johannes Kepler as an assistant. Kepler was very different from Tycho: more mathematical, deeply religious, and intensely committed to finding order in the heavens. Tycho assigned Kepler the problem of Mars, probably because Mars was difficult. Its observed path did not fit simple circular models well.
+
+Kepler tried to fit circular orbits to Tycho's data. The model came close, but not close enough. The predicted positions were off by about eight arcminutes, or about  1/7  of a degree. That is a small angle, but Tycho's data were good enough to make the discrepancy real. Kepler later wrote that if he had believed those eight minutes could be ignored, he would have patched his theory. But because they could not be ignored, they pointed the way to a complete reform of astronomy.
+
+Pause and check your understanding.
+
+What did Kepler do when the data disagreed with perfect circles?
+
+That is one of the best examples in the history of science of choosing evidence over preference. Kepler wanted perfect circles. The data refused. Rather than protect the old assumption, he abandoned it.
+
+Kepler's three laws.
+
+Kepler's first law says that each planet orbits the Sun in an ellipse, with the Sun at one focus. An ellipse is like a stretched circle. The planet's distance from the Sun changes during the orbit. The closest point is called perihelion, and the farthest point is called aphelion. The semimajor axis is half the longest width of the ellipse. For planets, it is often a useful way to describe the average size of the orbit.
+
+Kepler's second law says that a planet sweeps out equal areas in equal times. In plain language, the planet moves faster when it is closer to the Sun and slower when it is farther away. This law replaced the old expectation of perfectly uniform circular motion with a rule that matched the data.
+
+Kepler's third law gives a precise relationship between the time a planet takes to orbit the Sun and the size of its orbit. When the orbital period  P  is measured in years and the semimajor axis  a  is measured in astronomical units, Kepler's third law can be written as
+
+ P squared  equals  a cubed. 
+
+An astronomical unit, or astronomical units, is approximately Earth's average distance from the Sun. This unit keeps the equation simple. Earth has  P equals 1 yr   and  a equals 1 astronomical unit, so Earth's orbit naturally fits the relationship.
+
+Try the numbers.
+
+Kepler's third law is a clean example of mathematical modeling. If a planet's orbital period is known, we can estimate the size of its orbit around the Sun using simple arithmetic.
+
+Suppose a planet takes  P equals 8 yr   to orbit the Sun. Kepler's third law says  P squared equals a cubed. To solve for  a, take the cube root of both sides:
+
+a  equals   sqrt[3]P squared  
+ equals   sqrt[3](8 yr ) squared  
+ equals   sqrt[3]64 astronomical units   
+ equals  4 astronomical units.
+
+A planet with an eight-year orbit would have a semimajor axis of about  4 astronomical units, meaning its average orbital size is about four times Earth's distance from the Sun.
+
+See the Python snippet given in the course lecture notes.
+
+A short bridge to computation.
+
+This course will occasionally use Python, but the goal is not to turn this astronomy course into a programming course. The goal is to use computation as a form of careful arithmetic. A computer is useful because it can repeat simple steps reliably, keep track of variables, and help us check whether a numerical claim makes sense.
+
+A helpful analogy is a soda machine. You provide an input: money, a card tap, and a button choice. The machine follows a process: it checks the payment, reads the selection, and activates the correct mechanism. Then it gives an output: the drink. A mathematical function works in a similar input-process-output way. You provide an input such as  x, the equation applies a rule, and the output is  y.
+
+Scientific models often work the same way. For Newton's law of gravity, the inputs are two masses and the distance between them. The process is the equation   F sub g   equals  G m sub 1m _2/r squared. The output is the gravitational force. For Kepler's third law, the input might be orbital period, the process is  P squared equals a cubed, and the output is orbital size.
+
+The Python examples in this chapter are meant to make that structure visible. The code stores the inputs with clear names, applies one or two arithmetic steps, and prints the output as a sentence. There is no hidden magic. Python is acting like a transparent calculator.
+
+This matters for scientific reasoning because many modern questions cannot be answered by one calculation done once. Astronomers often repeat simple calculations many times: for many stars, many planets, many possible orbits, or many model atmospheres. That repeated calculation is sometimes called a brute-force approach. In this course, brute force simply means many small steps carried out systematically. The computer does not replace understanding; it helps apply the same reasoning consistently.
+
+The calculation is intentionally simple. The power of the result comes from the model. Once the relationship is known, one observable quantity, the orbital period, tells us another quantity, the orbital size.

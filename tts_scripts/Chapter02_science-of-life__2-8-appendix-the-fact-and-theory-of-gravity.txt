@@ -1,0 +1,48 @@
+Appendix: The fact and theory of gravity.
+
+Gravity is central to life in the universe. Without gravity, Earth would not hold us to its surface. Stars and planets would not form. Atmospheres and oceans would not be held to worlds. Orbits, tides, planetary interiors, and the long-term stability of planetary systems all depend on gravity.
+
+Gravity is clearly a fact in the everyday sense: unsupported objects fall, planets orbit, and tides rise and fall. But the theory of gravity is our explanation for why those things happen. This distinction between fact and theory is important. A fact is an observed pattern or event. A theory is the explanatory framework that connects many facts.
+
+Aristotle imagined falling as a natural motion of heavy objects toward their natural place. He also claimed that heavier objects fall faster than lighter objects. Galileo challenged that claim by arguing that objects fall at the same rate when air resistance is negligible. The famous story places this test at the Leaning Tower of Pisa, though historians debate the exact details. What matters scientifically is the principle: falling motion should be tested, not simply assumed.
+
+Galileo knew Aristotle's claim was wrong, but he did not yet have Newton's theory of gravity. Newton supplied a deeper explanation. His universal law of gravitation says that every mass attracts every other mass. The strength of the gravitational force is directly proportional to the product of the two masses and inversely proportional to the square of the distance between their centers:
+
+Pause and check your understanding.
+
+What is the difference between gravity as a fact and a theory of gravity?
+
+  F sub g   equals  G  m sub 1m _2 over r squared. 
+
+Here   F sub g   is the gravitational force,   m sub 1   and   m sub 2   are the two masses,  r  is the distance between their centers, and  G  is the universal gravitational constant. The equation says that gravity is stronger for larger masses and weaker at larger distances.
+
+Try the numbers.
+
+Newton's law of gravity has an inverse-square dependence on distance. That means doubling the distance does not cut gravity in half; it cuts gravity to one-fourth of its original strength.
+
+If the distance between two objects changes from  r  to  2r, while the masses stay the same, the gravitational force changes by
+
+  F sub 2r  over  F sub r    equals   G m sub 1m 2/(2r) squared over G m sub 1m 2/r squared   equals   G m sub 1m 2 over (2r) squared   times   r squared over G m sub 1m 2, 
+ equals   1 over 4.
+
+So at twice the distance, gravity is  1/4  as strong. At three times the distance, it is  1/9  as strong.
+
+See the Python snippet given in the course lecture notes.
+
+This inverse-square behavior helps explain why gravity can organize large systems while becoming weaker with distance. Gravity holds planets to stars, moons to planets, and stars together in galaxies. It also allows astronomers to infer unseen objects from the motion of visible ones.
+
+Newton's theory was accepted quickly because it explained many facts that had already been discovered. It explained why Kepler's laws worked. It erased the old distinction between earthly motion and heavenly motion. It predicted the return of Halley's comet in 1758. It also helped explain the existence of Neptune, whose position was predicted from the gravitational effects it had on Uranus before Neptune was observed directly.
+
+Newton, Mercury, and Einstein.
+
+Newton's theory eventually faced a problem it could not solve: the orbit of Mercury. Mercury's orbit shifts slowly over time. Most of that shift can be explained by gravitational tugs from other planets, but a small discrepancy remained. Urbain Le Verrier, who had helped predict Neptune, suggested that another planet inside Mercury's orbit might be responsible. That hypothetical planet was called Vulcan. It was never found.
+
+Einstein's general theory of relativity solved the Mercury problem in a new way. Instead of treating gravity as an invisible force acting instantly across empty space, general relativity describes gravity as the curvature of spacetime caused by mass and energy. Objects move through curved spacetime somewhat like marbles following the shape of a curved surface, though that analogy is only a simplified picture.
+
+Does this mean Newton was wrong? Not in the simple sense. Newton's theory works extremely well for many everyday and Solar System situations. It is still used constantly because it is accurate enough and much simpler than general relativity in those cases. Einstein's theory is more complete. At large enough distances from strong gravity and at speeds much slower than the speed of light, general relativity reduces approximately to Newton's theory.
+
+Pause and check your understanding.
+
+Why is Newton's theory still useful if Einstein's theory is more complete?
+
+This is a healthy view of science. A theory can be powerful, useful, and incomplete. Better theories do not always erase earlier ones; sometimes they explain why the earlier theory worked so well in the first place.

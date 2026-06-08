@@ -1,0 +1,71 @@
+Cells: The Basic Units of Life.
+
+Cells as boundaries and chemical systems.
+
+A cell is a microscopic unit in which living matter is separated from the outside world by a membrane. That boundary is essential. Without a boundary, useful molecules would drift away, harmful materials could enter freely, and the chemical reactions needed for life would not be organized in one place.
+
+Cells can live alone, as many bacteria and archaea do, or they can cooperate in multicellular organisms. In a multicellular organism, different cells specialize for different jobs. Muscle cells, nerve cells, leaf cells, and fungal cells do not look or behave the same way, but they all share the basic logic of cellular life: a controlled internal environment, inherited information, and metabolism.
+
+ D N A is housed inside cells. In many organisms, D N A sits inside a nucleus; in bacteria and archaea, it is not enclosed in the same kind of nucleus. Either way, heredity is not an abstract idea. It is stored in molecules inside cells and expressed through cellular chemistry.
+
+Astrobiology has to be careful here. We should not assume that life elsewhere must use exactly the same cell structures or biochemistry as Earth life. But the cell teaches a general lesson that may be broader than Earth. Life probably needs some way to concentrate chemical reactions, protect useful molecules, and separate an internal system from the surrounding environment. A membrane-like boundary is one practical solution.
+
+Carbon chemistry and the possibility of alternatives.
+
+Life on Earth is built mostly from a small group of elements. Oxygen, carbon, hydrogen, and nitrogen make up most of the mass of typical cells. Oxygen is often bound with hydrogen in water. Carbon forms the backbone of organic molecules. Hydrogen and nitrogen are common in many biological molecules. Other elements, such as phosphorus, sulfur, calcium, sodium, potassium, magnesium, and iron, are also important even when they are present in smaller amounts.
+
+Carbon is especially important because it can form four bonds. That lets carbon atoms build chains, rings, and branching structures. Carbon can also form double bonds, which expands the range of possible molecular shapes and reactions. This versatility helps explain why Earth life is carbon-based.
+
+Science fiction often imagines silicon-based life, and the idea is not random. Silicon sits below carbon in the periodic table and can also form four bonds. But silicon has serious disadvantages in Earthlike chemistry. Comparable silicon bonds are generally weaker than carbon bonds. Silicon does not naturally form double bonds as easily as carbon. Silicon dioxide is a solid, while carbon dioxide is a gas, which makes waste removal and atmospheric cycling very different. These problems do not prove that silicon-based life is impossible under all conditions, but they explain why carbon is a more practical backbone for the only life we know.
+
+Pause and check your understanding.
+
+Why is “silicon is similar to carbon” not enough to show that silicon-based life is likely?
+
+Common ancestry and why Earth life looks chemically unified.
+
+One of the most important facts about Earth life is that it is not a random collection of unrelated living systems. All known organisms share deep biochemical similarities. They use D N A and R N A. They use related genetic codes. They use proteins built from amino acids. They use A T P as a major energy-transfer molecule. They use cells as the basic unit of life. These shared features are best explained by common ancestry.
+
+Common ancestry does not mean every organism is similar in size, shape, behavior, or environment. It means that living organisms inherited core molecular machinery from earlier life. Over billions of years, evolution produced enormous diversity, but it modified inherited systems rather than inventing every molecular process from scratch. This is why bacteria, oak trees, mushrooms, and humans can be so different while still sharing deep chemical patterns.
+
+This point is important when thinking about extraterrestrial life. Earth’s biochemical unity is not proof that D N A, A T P, and proteins are universal requirements. They may be historical outcomes of life’s early evolution on Earth. A second origin of life elsewhere might use different molecules. At the same time, common ancestry teaches us that once a life system establishes a workable solution, later evolution tends to build on it. Biology is historical. It carries old solutions forward, sometimes long after those solutions first appeared.
+
+That historical character also affects evidence. When scientists compare D N A or R N A sequences among organisms, they are not only classifying life. They are reconstructing relationships. Molecular comparison turns heredity into a record of history, much as rocks and fossils do in geology. For this course, that connection matters: astrobiology often asks how present-day evidence can reveal a past process that we cannot watch directly.
+
+The molecular components of cells.
+
+Cells are built from complex organic molecules. Four groups are especially important: carbohydrates, lipids, proteins, and nucleic acids. These are not vocabulary words to memorize in isolation. They are functional categories that help explain what cells do.
+
+Carbohydrates include sugars and starches. They can provide energy, and some carbohydrates help build structure. Cellulose, for example, helps support plant cell walls. Lipids include fats and membrane-forming molecules. They can store energy, but their role in membranes is just as important for astrobiology because membranes make cellular boundaries possible.
+
+Proteins are working molecules. Some provide structure, while others act as enzymes. An enzyme is a catalyst, meaning it speeds up a chemical reaction without being used up by the reaction. Enzymes make life’s chemistry fast and specific enough to work under ordinary biological conditions. Proteins are built from amino acids. Many amino acids exist chemically, but Earth life uses a common set of about 20 most often. Another interesting feature is handedness: amino acids in living cells are overwhelmingly left-handed, while non-biological production usually creates mixtures of left- and right-handed forms.
+
+Pause and check your understanding.
+
+Why would a boundary such as a membrane be useful for any chemical system trying to stay organized?
+
+Nucleic acids, including D N A and R N A, store and use information. D N A is the long-term information molecule for most Earth life. R N A plays several roles in using that information. This division of labor becomes important later when we discuss heredity and the possibility that R N A may have played a larger role early in life’s history.
+
+The major groupings of life on Earth.
+
+For much of history, people classified life by outward appearance. Plants and animals were the obvious categories because they were large enough to see. Microscopes changed that picture. In 1674, Antonie van Leeuwenhoek observed microscopic life, including bacteria-like organisms. Later classifications added groups such as Protista and Monera for microorganisms, and fungi were separated from plants because fungi feed and reproduce differently, often by spores. Microscopic life is also not just a curiosity. Most microbes are harmless to humans, and many are crucial to our survival. Bacteria in our intestines help break down and regulate nutrients as part of the microbiome; fermented foods such as yogurt are familiar everyday reminders that microbes can be useful.
+
+The deeper revolution came from comparing organisms at the molecular level. Today, life is often organized into three domains: Bacteria, Archaea, and Eukarya. Bacteria and Archaea are entirely microbial. Eukarya includes many microbes as well as plants, animals, and fungi. Eukaryotic cells generally have nuclei, but appearance alone is not the main reason for separating the domains. Their membrane chemistry, protein-making machinery, and genetic details differ in important ways. Archaea can look like bacteria under a microscope, but in several molecular features Eukarya are more similar to Archaea than to Bacteria.
+
+This matters for astrobiology because our intuition is biased toward large multicellular life. Trees, mushrooms, insects, fish, birds, and mammals are easy to notice. But on the tree of life, large multicellular organisms occupy only a few branches within Eukarya. Much of life’s diversity is microbial. If another world has life, microbes may be more likely than forests or animals, and they may also be harder to detect.
+
+Pause and check your understanding.
+
+How does the tree of life challenge the everyday idea that animals and plants are the main forms of life?
+
+The tree of life is built by comparing molecular information, especially ribosomal R N A and D N A. Branches represent patterns of relatedness and genetic difference. In many tree diagrams, longer branch lengths indicate more genetic difference, not greater importance or higher advancement. Tracing branches back toward the base suggests a common root for all known life. The tree is still a work in progress, because life’s history includes complications such as horizontal gene transfer, especially among microbes. Still, the tree gives us one of the strongest pieces of evidence that all Earth life shares common ancestry.
+
+Chirality and chemical clues.
+
+The handedness of biological molecules is a subtle but important clue. Some molecules come in left-handed and right-handed forms, much like your left and right hands have the same parts but cannot be perfectly placed on top of each other. Non-biological chemistry often produces mixtures of both handed forms. Earth life, however, strongly favors particular handedness in important molecules. Amino acids used in proteins are overwhelmingly left-handed, while sugars in nucleic acids have a consistent handedness of their own.
+
+This matters because a strong handedness imbalance can be a possible clue of biological processing. It is not a simple proof of life, because non-biological processes can sometimes create imbalances. But if scientists found organic molecules in an extraterrestrial sample and those molecules showed a strong, organized handedness pattern, that would be more interesting than a random mixture. It would be a reason to ask what process selected one form over the other.
+
+The broader lesson is that life can leave chemical patterns. A fossil bone is an obvious biological clue, but microscopic or chemical evidence may be more realistic for many astrobiology targets. If life ever existed on Mars, Europa, Enceladus, or another world, the evidence might be subtle: molecular distributions, isotope ratios, cell-like textures, or chemical disequilibria. Chapter 5 gives us the biological background needed to understand why those clues might matter.
+
+The same caution from earlier chapters still applies. Organic molecules alone do not prove life. Amino acids have been found in meteorites, and organic chemistry can occur in space and on planetary surfaces without biology. A scientific search must distinguish ingredients from activity, and activity from confirmed life. The strongest case would come from multiple independent lines of evidence pointing in the same direction.

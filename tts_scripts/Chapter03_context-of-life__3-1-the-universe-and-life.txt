@@ -1,0 +1,39 @@
+The Universal Context of Life.
+
+When we ask whether life exists elsewhere, we are really asking a set of connected scientific questions. What kinds of places exist in the universe? What raw materials are available there? How old are those places? What physical laws shape them? What evidence could tell us whether a distant world is merely habitable, meaning that it could support life, or actually inhabited, meaning that life is present there?
+
+Modern astronomy gives astrobiology its stage. Astrobiology is the scientific study of life in the universe, and it depends on astronomy, biology, chemistry, geology, planetary science, physics, mathematics, and computer science. Earth remains the only confirmed example of life, so we begin with what Earth teaches us. But the setting for Earth is much larger than Earth. Earth is one planet around one star, in one galaxy, in a universe that contains many galaxies and many generations of stars.
+
+This chapter develops that context in three steps. First, we build a cosmic address and a sense of astronomical scale. Second, we review the matter, energy, and light that make astronomical evidence possible. Third, we examine the Solar System as our local laboratory for understanding planet formation and the conditions that may lead to life.
+
+The universe and life.
+
+Astronomy as an old science with a modern purpose.
+
+Astronomy is often called one of the oldest sciences because people needed the sky long before they had telescopes, spacecraft, or modern physics. The regular motions of the Sun, Moon, planets, and stars helped people track time, anticipate seasons, navigate, and build calendars. These practical needs encouraged careful sky watching. Even when ancient explanations were not scientific in the modern sense, the habit of looking for patterns in nature was already taking shape.
+
+Early astronomy focused mostly on visible objects: the Sun, the Moon, the bright planets, and the stars. That was enough to meet many immediate needs, but the sky also raised deeper questions. Why do planets wander against the background stars? Why do their motions repeat? Why do some models predict those motions better than others? Greek thinkers helped move astronomy toward these kinds of model-building questions. They were not only recording what appeared in the sky; they were trying to explain the architecture of the cosmos.
+
+The history of astronomy also shows why science depends on changing models when evidence demands it. Johannes Kepler described how planets move by finding mathematical patterns in planetary orbits. Isaac Newton later supplied a deeper physical explanation: the same gravitational force that makes objects fall on Earth also helps keep planets in orbit around the Sun. Kepler gave astronomy a better description of planetary motion. Newton helped explain why that motion happens.
+
+Pause and check your understanding.
+
+Why was it important to connect falling objects on Earth with planets orbiting the Sun?
+
+That connection matters for astrobiology because it shows one of the central assumptions of modern science: Earth is not governed by special local rules. If the same physical laws operate on Earth and in the heavens, then we can study distant places using evidence from light, motion, chemistry, and energy. We cannot visit most worlds directly, but we can still ask scientific questions about them.
+
+Major lessons from modern astronomy.
+
+Modern astronomy changes the search for life in several important ways. One lesson is that the universe is vast and old. A vast universe provides many possible worlds. An old universe provides time for stars and planets to form, for chemistry to become complex, and, at least on Earth, for biological evolution to operate across billions of years. This does not prove that life is common, but it changes the scale of the question. We are not asking whether there could be one other possible place. We are asking how many possible places exist, which ones are promising, and what evidence would be convincing.
+
+A second lesson is that the elements of life are widespread. The atoms that make up Earth and living organisms are not unique to Earth. Hydrogen, carbon, nitrogen, oxygen, phosphorus, sulfur, iron, silicon, and many other elements occur beyond our planet. Some elements formed very early in cosmic history, while many heavier elements were made inside stars or during violent stellar deaths. The raw materials for rocky planets, oceans, atmospheres, and organic chemistry are cosmic materials.
+
+A third lesson is that the same physical laws appear to operate throughout the observable universe. Gravity helps explain falling objects, planetary orbits, stars, and galaxies. Atomic physics explains spectra measured in laboratories and spectra observed from stars and nebulae. Chemistry explains molecules on Earth and molecules found in interstellar space. This unity of physical law is what allows astronomy to become evidence-based even when the objects are far away.
+
+A fourth lesson comes from the Copernican Revolution. Copernicus moved Earth away from the center of the universe in our scientific picture. Later astronomy extended this idea into the Copernican principle: the working assumption that Earth is not in a special central location. This does not mean Earth is unimportant. Earth is obviously important to us, and it remains the only confirmed inhabited world. The point is narrower and more scientific: we should not assume Earth is physically privileged unless the evidence requires it.
+
+Pause and check your understanding.
+
+What is the difference between saying Earth is important to us and saying Earth is physically central?
+
+For the search for life, these lessons are powerful but not decisive. They tell us that the universe contains many worlds, that the ingredients of life are not unique to Earth, and that we can use the same physical laws to interpret distant evidence. They do not tell us that life has actually begun elsewhere. That distinction between possible conditions and confirmed evidence will matter throughout the course.

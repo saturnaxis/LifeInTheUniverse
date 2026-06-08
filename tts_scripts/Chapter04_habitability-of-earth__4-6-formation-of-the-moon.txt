@@ -1,0 +1,39 @@
+Formation of the Moon.
+
+The problem of the Moon’s origin.
+
+The Moon is not just a bright object in the night sky. It is part of Earth’s history. Understanding the Moon’s origin helps us understand early Earth, giant impacts, planetary formation, and the evidence preserved outside Earth’s active surface environment.
+
+Before the Apollo missions, scientists considered several models for the Moon’s formation. One idea was co-formation: Earth and the Moon formed together from the same region of the solar nebula. Another idea was capture: the Moon formed elsewhere and was later captured by Earth’s gravity. A third idea was fission: a fast-spinning early Earth threw off material that became the Moon.
+
+Each model had problems. Co-formation struggles to explain why the Moon has a much smaller iron core than Earth. Capture requires a very specific and unlikely set of conditions, because an object passing Earth would normally either miss, collide, or be scattered rather than settle into a stable orbit. Fission requires an early Earth spinning so fast that it could shed material, but the details do not work well physically.
+
+The Apollo missions changed the debate by bringing back lunar rocks. Those samples gave scientists ground truth: direct material from the Moon that could be analyzed chemically and isotopically. Moon rocks showed that the Moon is depleted in volatile elements, meaning easily vaporized substances are less abundant. The Moon’s lower average density indicates it has proportionally less iron than Earth. At the same time, lunar rocks appeared chemically similar in important ways to Earth’s mantle.
+
+This combination of evidence did not fit the older models well. It suggested that the Moon formed from material related to Earth’s outer layers, heated strongly enough to lose volatiles, and assembled after a major energetic event.
+
+The giant impact model.
+
+The leading explanation is the giant impact model. In this model, a Mars-sized impactor collided with the proto-Earth within roughly the first 60 to 100 million years after the first Solar System solids formed. The impact ejected hot material into orbit around Earth. Some of that material later accreted to form the Moon.
+
+This model explains several key observations. The Moon’s smaller iron core makes sense if much of the Moon formed from mantle-like material rather than from Earth’s metallic core. The chemical similarity between Moon rocks and Earth’s mantle also fits. The depletion of volatile elements fits a hot, energetic formation process.
+
+At first, the giant impact model can sound like a just-so story: an invented event that conveniently explains the Moon. But in science, a model is not judged only by whether it tells a plausible story. It must be compared with evidence and with alternative models. The giant impact model invokes a natural cause, explains several observations at once, and makes testable predictions about lunar composition, angular momentum, and the aftermath of a large collision.
+
+Pause and check your understanding.
+
+Why can the giant impact model count as science even though no one observed the Moon forming?
+
+The model has also changed over time. Modern simulations explore different impact angles, speeds, impactor compositions, and post-impact mixing. The details are still studied actively. That is normal. A scientific model can be broadly successful while still being revised in its details.
+
+The Moon’s formation also connects back to habitability. A giant impact would have strongly affected early Earth’s surface, atmosphere, rotation, and thermal state. The Moon later influenced Earth’s tides and helps stabilize Earth’s axial tilt compared with what it might have been otherwise. The Moon is therefore not a side topic. It is part of the story of how Earth became the planet we are trying to understand.
+
+The first visual is a clean model sequence, while the second connects the model to modern simulation work.
+
+What the Moon teaches about scientific evidence.
+
+The Moon’s origin is a useful example of how planetary science works. Scientists cannot rerun the early Solar System. They cannot watch the Moon form. Instead, they compare models against surviving evidence: lunar rocks, Earth rocks, isotope ratios, orbital properties, computer simulations, and the physics of collisions.
+
+This is the same kind of reasoning used throughout astrobiology. We often study events we cannot repeat directly: planet formation, atmospheric escape, the origin of life, early bombardment, and climate evolution. That does not make the science weak. It means the evidence must be handled carefully, and models must remain open to revision.
+
+The giant impact model also reinforces a broader lesson from Chapter 2. A scientific explanation should rely on natural causes, explain observations as simply as possible, and make predictions that can be tested. The giant impact model survives not because it is dramatic, but because it explains evidence better than the earlier alternatives.

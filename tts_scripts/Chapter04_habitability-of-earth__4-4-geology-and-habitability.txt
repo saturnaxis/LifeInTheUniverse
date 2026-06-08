@@ -1,0 +1,89 @@
+Geology and Habitability.
+
+Looking inside Earth.
+
+We cannot simply look inside Earth. The deepest boreholes reach only a tiny fraction of Earth’s radius. The Kola Superdeep Borehole reached a little over 12 kilometers in depth, while Earth’s radius is about 6,371 kilometers. Direct drilling barely scratches the surface.
+
+Most of what we know about Earth’s interior comes from seismic waves. These waves travel through Earth after earthquakes or other energetic events. They behave somewhat like sound waves, but their speed and direction change depending on the composition, density, pressure, temperature, and phase of the material they pass through. Some waves travel through solids and liquids differently. By studying when waves arrive at different locations and how they change, geologists infer Earth’s internal structure.
+
+Earth’s interior can be described by composition. The core is the densest region and contains mostly iron and nickel. It includes a liquid outer core and a solid inner core. The mantle surrounds the core and is made mostly of silicate rock. The crust is the low-density outer layer where we live, including basaltic oceanic crust and granitic continental crust.
+
+It is easy to imagine Earth’s interior as mostly molten because lava comes out of volcanoes. That picture is misleading. Most of the mantle is solid rock, but rock can behave slowly and plastically under high temperature and pressure. It can flow over long timescales even while remaining solid. The pitch drop experiment is a useful analogy: a material can look solid over short times but flow over long times if it is viscous enough.
+
+Earth can also be described by mechanical behavior. The lithosphere is the cool, rigid outer shell, including the crust and uppermost mantle. It is broken into plates. Beneath it lies the asthenosphere, a warmer, softer part of the upper mantle that can flow slowly. The plates of the lithosphere move over this softer material.
+
+Mantle motion is driven by heat. Hot material rises, loses heat, and eventually sinks again. This process is convection, similar in basic idea to a pot of boiling water, though mantle convection is much slower and involves solid rock flowing over geological time. Convection helps move heat from Earth’s interior toward the surface.
+
+Differentiation and planetary cooling.
+
+Earth’s layered structure formed through differentiation, the process by which materials separate by density. Dense materials such as iron sank toward the center, while less dense silicate material remained above. Differentiation required early Earth to be very hot, probably molten or nearly molten over large regions.
+
+Several heat sources contributed to this early melting. Impacts during accretion converted kinetic energy into heat. As dense material sank inward, gravitational potential energy was converted into thermal energy. Radioactive decay also added heat. Together, these processes allowed Earth to separate into core, mantle, and crust.
+
+Differentiation happened early. Isotopic evidence suggests that Earth’s core formed within the first few tens of millions of years after the first Solar System solids. The giant impact that formed the Moon occurred after substantial differentiation, which is part of why the Moon’s composition provides important clues about Earth’s early interior.
+
+Other rocky worlds also differentiated, but they did not all remain geologically active in the same way. Cooling rate depends strongly on size. Larger worlds retain internal heat longer because heat takes longer to escape from the interior and because their outer layers act like insulation. Smaller worlds such as the Moon and Mercury cooled more quickly and now have little internal geological activity.
+
+Ongoing heat production also matters. Radioactive elements inside Earth continue to produce heat. This does not mean Earth is powered only by radioactivity, but radioactive decay helps keep the interior warm enough for long-term mantle convection. A planet that cools too quickly may lose volcanism, tectonics, and magnetic field generation. That can affect habitability by changing atmosphere, climate, and surface renewal.
+
+Plate tectonics and Earth’s changing surface.
+
+Earth is unusual among the terrestrial worlds because it has active plate tectonics. The Moon and Mercury have little or no current internal geological activity. Mars had major volcanism in the past, but its interior has cooled enough that surface activity is limited today. Venus is more complicated. Its thick atmosphere hides the surface from ordinary visible-light imaging, but radar maps show volcanic plains and relatively few impact craters. That suggests much of Venus’s surface is geologically young, perhaps less than a billion years old, though Venus does not show Earthlike plate tectonics.
+
+Tectonics refers to deformation of the lithosphere by stretching, compression, or other forces. A plate is a large fractured piece of the lithosphere. In plate tectonics, plates move gradually over, under, and past one another. The motion is slow, typically only a few centimeters per year, but over millions of years that is enough to rearrange oceans and continents.
+
+Plate motion is measured today using precise GPS observations. Over a human lifetime, the motion is subtle. Over 100 million years, a plate moving 2 centimeters per year travels about 2,000 kilometers. That is enough to move continents across climate zones, close oceans, build mountains, and split supercontinents apart.
+
+The theory of plate tectonics explains several types of evidence. Continents fit together in puzzle-like ways, most famously South America and Africa. Similar fossils and rock types appear on now-separated continents. Seafloor rocks show symmetrical patterns of magnetic reversals on both sides of mid-ocean ridges. Oceanic crust is young compared with continental crust. Together, these clues show that Earth’s surface is continually being created, moved, and recycled.
+
+From continental drift to seafloor spreading.
+
+Alfred Wegener proposed continental drift in 1912. He argued that continents gradually move across Earth’s surface. His evidence included the fit of continents and the matching of rocks and fossils across ocean basins. Wegener’s idea was bold and partly correct, but it was rejected by many geologists because he lacked a convincing mechanism. He suggested forces such as Earth’s rotation or solar and lunar tides, but those were too weak to push continents through solid rock.
+
+The missing evidence came later from the ocean floor. During World War II, magnetometers were used to search for submarines. Those instruments also mapped magnetic anomalies along the seafloor. Scientists discovered that rocks on the seafloor recorded Earth’s magnetic polarity at the time they cooled. Since Earth’s magnetic field reverses over time, newly formed seafloor preserves a striped pattern of magnetic reversals.
+
+This led to the discovery of seafloor spreading. At mid-ocean ridges, mantle material rises, melts partially, erupts, and cools to form new oceanic crust. As new material is added, older seafloor is pushed outward. On the other side of an ocean basin, seafloor can be recycled into the mantle through subduction at trenches.
+
+This mechanism solved Wegener’s problem. Continents do not plow through solid oceanic rock like ships through water. Instead, continents are embedded in moving plates. Some plates carry continents. Others are mostly oceanic. Plates move because of mantle convection, slab pull, ridge push, and related processes. The full system is complex, but the central idea is that Earth’s outer shell is mobile.
+
+The two visuals below show why plate tectonics became convincing only after several independent lines of evidence came together. The continental evidence suggested that the continents had once been joined, while the seafloor evidence eventually revealed a mechanism that could move them.
+
+Oceanic crust, continental crust, and recycling.
+
+Earth has two main kinds of crust. Oceanic crust is mostly basalt. It is relatively dense, thin, and young, typically only about 5 to 10 kilometers thick and less than about 200 million years old. Continental crust is mostly granitic in broad composition. It is less dense, much thicker, and can be much older.
+
+This difference matters because dense oceanic crust can sink back into the mantle at subduction zones. Continental crust is more buoyant and harder to subduct deeply. As a result, oceanic crust is constantly produced and destroyed, while continental crust can preserve much older rocks.
+
+Subduction is central to Earth’s long-term habitability. When oceanic crust sinks into the mantle, it carries water, minerals, and carbon-bearing rocks downward. Some of that material melts or triggers melting, producing volcanoes above subduction zones. Volcanism then returns gases, including carbon dioxide, to the atmosphere.
+
+Plate boundaries create many familiar geological features. Where plates move apart, rift valleys or mid-ocean ridges can form. Where plates slide past one another, faults form. Where plates collide, mountain ranges can rise, such as the Himalayas. Where oceanic plates subduct, trenches and volcanic arcs can form.
+
+Because plates move, continents change position over time. About 200 million years ago, the continents were joined in the supercontinent Pangaea. Pangaea later broke apart, and the continents drifted toward their present locations. This rearrangement changes ocean circulation, climate, habitats, and the interpretation of fossils. If central Africa was once near the South Pole, then fossils or glacial deposits found there must be interpreted in terms of past geography, not modern geography.
+
+For astrobiology, plate tectonics matters because it is one possible way for a rocky planet to regulate climate over very long timescales. It also continually creates new environments and destroys old ones. This is helpful for habitability but frustrating for preserving ancient evidence. Earth’s activity is part of why it stayed habitable, and part of why its earliest history is so hard to read.
+
+Atmospheres do not last automatically.
+
+A planet’s atmosphere is not guaranteed to survive. Gas can escape to space in several ways. Light gas particles high in the atmosphere can be heated enough to reach escape velocity, especially on small planets with weak gravity. This is called thermal escape. Impacts can also heat atmospheric gas suddenly and drive some of it into space.
+
+The solar wind provides another loss mechanism. The Sun constantly emits a stream of charged particles. If those particles interact directly with the upper atmosphere, they can transfer energy to atmospheric atoms and molecules, helping them escape. This process is especially important for worlds without strong global magnetic fields.
+
+Gravity matters. A more massive planet holds atmospheric gas more strongly. Temperature matters too because hotter gas particles move faster. The type of gas matters because light molecules escape more easily than heavy molecules. This is why hydrogen and helium are difficult for small rocky planets to retain over billions of years.
+
+Atmospheric escape helps explain differences among terrestrial planets. Mars is smaller than Earth and lacks a strong global magnetic field today. Its atmosphere is thin, and spacecraft observations show that solar wind interactions continue to remove atmospheric material. Venus also interacts with the solar wind, but it has a very thick atmosphere, so the proportional effect is different. Earth’s atmosphere has survived because Earth is massive enough, cool enough at the upper atmosphere, geologically active, and protected in part by a magnetic field.
+
+Earth’s magnetic field.
+
+Magnetic fields are produced by moving electric charge. A planet-scale magnetic field requires a dynamo: motion of electrically conducting fluid inside the planet. For a rocky planet, the basic ingredients are an electrically conducting fluid region, convection in that fluid, and rotation fast enough to organize the motion.
+
+Earth has a liquid outer core made mostly of iron and nickel. That fluid conducts electricity. Heat escaping from the core drives convection. Earth also rotates once per day, which helps organize the moving fluid into a global magnetic field. The result is Earth’s magnetosphere, a magnetic bubble that deflects much of the solar wind.
+
+Other worlds help test this idea. Venus rotates very slowly and does not have a strong Earthlike global magnetic field. Mars likely had a magnetic field early in its history, but its smaller size allowed its core to cool enough that the global dynamo shut down. Mercury is small and rotates slowly, yet it has a weak magnetic field, which makes it an interesting case: its core must still be at least partially molten or otherwise able to sustain a dynamo. Giant planets produce magnetic fields differently, using electrically conducting layers such as metallic hydrogen.
+
+Earth’s magnetic field does not block every particle. Some charged particles still enter near the poles, where they collide with gases in the upper atmosphere and produce auroras. This is why auroras are beautiful evidence of both protection and leakage. The magnetosphere shapes how the solar wind interacts with Earth; it does not isolate Earth completely from space.
+
+Pause and check your understanding.
+
+How can a magnetic field help protect an atmosphere without completely isolating a planet from the solar wind?
+
+For habitability, the magnetic field is part of a larger atmospheric story. A magnetic field is not the only factor that determines whether a planet keeps an atmosphere. Gravity, atmospheric composition, volcanic replenishment, stellar activity, and distance from the star all matter. But Earth’s magnetic field is one reason its atmosphere has been more protected from direct solar wind stripping than Mars’s atmosphere.

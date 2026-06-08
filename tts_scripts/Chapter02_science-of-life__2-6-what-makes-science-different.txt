@@ -1,0 +1,67 @@
+What makes science different?
+
+Science is difficult to define in one sentence. The word comes from the Latin scientia, meaning knowledge, but not all knowledge is science. You may know your friend's favorite food, the route home, or the lyrics to a song. That knowledge can be real without being scientific. Science is a particular way of explaining natural phenomena through evidence, testing, and correction.
+
+Textbooks often introduce the scientific method as a sequence: ask a question, form a hypothesis, make a prediction, test it, and revise the idea if necessary. A hypothesis is a tentative explanation, sometimes called an educated guess, that leads to a prediction. If the prediction fails, the hypothesis must be changed or rejected.
+
+That idealized method is useful, but real science is rarely that tidy. Galileo did not build a telescope because he knew he was starting a revolution. Scientists often explore, notice surprises, argue, revise, and return to older questions with new tools. Sometimes they study evidence left behind by events that cannot be repeated. For example, scientists cannot rerun the asteroid impact associated with the extinction of non-avian dinosaurs, but they can examine geological evidence, such as an iridium-rich layer, and test whether the impact hypothesis explains the observations.
+
+Science also involves people, and people have biases. Copernicus held onto perfect circles even though that assumption limited his model. Kepler wanted circular harmony but eventually gave it up because the data demanded it. Science is objective not because individual scientists are perfectly objective, but because scientific claims are supposed to be testable, reproducible, and open to criticism by others.
+
+For this course, the key issue is not whether an idea is exciting, ancient, popular, or personally meaningful. The key issue is whether it behaves like a scientific claim. Does it explain natural phenomena? Does it make predictions? Can evidence force us to revise or abandon it? Those questions will matter whenever we evaluate claims about life beyond Earth.
+
+Three hallmarks of science.
+
+These hallmarks do not provide a perfect definition of science, but they are very useful practical tests.
+
+First, modern science seeks explanations for observed phenomena that rely on natural causes. This does not require a person to hold any particular religious or philosophical belief outside science. It means that scientific explanations must work through causes that can be investigated in nature. In astronomy, a scientific explanation for planetary motion cannot depend on a planet choosing to move or on a deity pushing it by hand. It must use natural causes such as motion and gravity.
+
+Second, science progresses through the creation and testing of models that explain observations as simply as possible. A model can be verbal, visual, physical, or mathematical. The Ptolemaic model, Copernican model, and Kepler's model were all scientific models in the broad sense because they organized observations and made predictions. They differed in assumptions, simplicity, and accuracy.
+
+Third, a scientific model must make testable predictions that could force us to revise or abandon it. This point is crucial. A claim that can explain every possible outcome after the fact is not scientifically useful. A scientific model must risk failure. If a model predicts that a planet should appear in one location and the planet appears somewhere else, then the model has a problem.
+
+Pause and check your understanding.
+
+Why is a testable prediction more useful than an explanation made after the fact?
+
+The Copernican Revolution illustrates all three hallmarks. Natural explanations replaced appeals to perfect heavenly essences. Competing models were compared rather than merely admired. Tycho's observations created a high-quality test, Kepler's model made better predictions than circular models, Galileo's telescopic observations challenged older ideas about the heavens, and Newton later explained why Kepler's laws worked.
+
+Simplicity and Occam's razor.
+
+Scientists often prefer simpler models, but "simple" does not mean easy, obvious, or emotionally satisfying. It means that the model explains the evidence with fewer unnecessary assumptions or adjustable pieces. This idea is often called Occam's razor: when two models explain the evidence equally well, scientists usually prefer the one with fewer basic assumptions.
+
+This principle does not mean that the simplest idea is automatically true. Nature is not required to be simple. Occam's razor is a guide for choosing among competing explanations, not a proof that one must be correct.
+
+The earlier figures in this chapter show why Occam's razor matters in model building. The Ptolemaic epicycle model in   could be improved by adding more circles. If a planet's predicted position was off, another adjustment could be added. In principle, a model with enough adjustable pieces can be made to fit almost anything. But a model that becomes more complicated every time new data arrive may not be giving us deeper understanding.
+
+The Copernican diagram in   shows a simpler geometric ordering: the planets are arranged around the Sun rather than around Earth. That was an important simplification, but it was not enough by itself because Copernicus kept perfect circles and therefore did not greatly improve prediction. Kepler's laws, summarized in, did better. Elliptical orbits removed the need for many circle-on-circle adjustments while also improving agreement with observations. Simplicity became scientifically meaningful when it came with better predictive success.
+
+Occam's razor is most useful when it can be applied beyond the example given in class. Suppose a telescope image shows a streak of light. A first explanation might be a satellite, aircraft, or meteor because those are known objects that commonly leave streaks in images. A more complicated explanation, such as an alien spacecraft, would require additional evidence because it adds a much larger assumption. Simpler explanations are not automatically correct, but they are better starting points when they already fit the evidence.
+
+Pause and check your understanding.
+
+Why is Kepler's model a better example of Occam's razor than the claim "the simplest explanation is always true"?
+
+This point also matters for claims about life in the universe. A claim like "aliens did it" may sound like an explanation, but it usually adds an unspecified cause without making a clear, testable prediction. A good scientific model should tell us what we should expect to observe if the model is correct and what evidence would count against it.
+
+Observation, eyewitness claims, and U F O's.
+
+One of the hardest questions in science is what counts as good evidence. Eyewitness accounts are observations in an everyday sense, and science does sometimes begin with human observation. Galileo looked through a telescope and described what he saw. Tycho measured planetary positions by sighting along instruments. Modern scientists may visually inspect images or spectra before doing more detailed analysis.
+
+But not all observations are equally useful. A key difference is whether the observation can be independently checked. Galileo's claim that Jupiter has moons could be tested by other people with telescopes. Einstein's theory of relativity can be tested by people who did not know Einstein and do not share his preferences. By contrast, many U F O encounter stories cannot be repeated, measured, or independently verified. They may be sincere reports, but sincerity is not enough.
+
+This does not mean every unusual sky sighting is fake. People can see real things and still misidentify them: aircraft, satellites, balloons, meteors, planets near the horizon, atmospheric effects, camera artifacts, or military technology. The scientific question is not "Did someone see something?" The better question is "What evidence would allow independent investigators to identify what was seen?"
+
+Pause and check your understanding.
+
+Why is an eyewitness report usually not enough to confirm an extraordinary scientific claim?
+
+A useful standard is the same one we use throughout astrobiology: extraordinary claims require strong, testable evidence. A blurry image, a memory, or a story may motivate investigation, but it should not be treated as confirmation of extraterrestrial life.
+
+Pseudoscience and confirmation bias.
+
+Pseudoscience is not always nonsense from beginning to end. Often it is based on something that looks like evidence but is not handled scientifically. A psychic who claims to predict the future appears to make a testable claim. If the predictions are no better than chance, the claim fails. A pseudoscientific response is to keep the successful predictions, ignore the failures, and invent excuses such as "psychic interference" whenever the test does not work.
+
+This pattern is called confirmation bias: the tendency to notice and remember evidence that supports what we already believe while discounting evidence that challenges it. Everyone is vulnerable to confirmation bias, including scientists. The difference is that science builds procedures to fight it: controlled tests, repeated measurements, peer review, public data, alternative models, and competition among explanations.
+
+A paradigm is a general pattern of thought that shapes what questions people ask and what answers seem plausible. Aristotle's worldview was a paradigm. The Copernican Revolution was a paradigm shift because it changed the basic framework. Paradigm shifts do not happen just because someone has a bold idea. They happen when evidence accumulates and the old framework can no longer handle it as well as a new one.

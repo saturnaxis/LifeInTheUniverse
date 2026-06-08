@@ -1,0 +1,99 @@
+Reconstructing the History of Earth and Life.
+
+Deep time and the problem of evidence.
+
+Human history is short compared with Earth history. Written records and archaeological evidence preserve only a tiny fraction of the time life has existed. Life on Earth extends back billions of years, while human civilization occupies only the most recent sliver of that history. To understand early Earth, we need records that last far longer than written language.
+
+Those records are physical. Rocks, fossils, minerals, isotope ratios, and craters preserve clues about past environments. They do not preserve everything. They are more like surviving pages from a book than a complete movie of the past. The job of geology is to read those surviving pages carefully and reconstruct the most likely story.
+
+Fossils are relics or traces of past life. They are not always bones that have turned into stone. A fossil can be a preserved shell, a mineral replacement of once-living tissue, a footprint, a burrow, a leaf imprint, or even petrified excrement. Plant fossils matter enough that there is a whole field, paleobotany, focused on ancient plant life and plant traces.
+
+Rocks also preserve environmental history even when no fossil is present. A sedimentary rock may tell us that material was transported by water, wind, ice, or gravity. A volcanic rock may tell us that molten material reached the surface. A mineral’s isotope ratios may tell us when a rock cooled, whether water interacted with it, or how its source changed over time. In astrobiology, these clues matter because a world does not need to preserve a fossil to preserve evidence that it was once habitable.
+
+The Grand Canyon gives us three connected ways to think about deep time. A real outcrop shows the visible layers, a stratigraphic column organizes those layers by age and rock unit, and fossils help correlate layers because different organisms appear in a recognizable order through geologic time.
+
+Rocks as historical records.
+
+Solid materials can lock in information in a way that liquids and gases usually cannot. A gas mixes and moves. A liquid flows. A solid can preserve structure, composition, and timing after it cools, crystallizes, or is buried. This is why rocks are so important for reconstructing the past.
+
+There are different kinds of records. Archaeological artifacts tell us where humans have been and what they were doing. The geological record includes rocks and structures that tell us about Earth’s physical history. The fossil record is the part of the geological record that preserves evidence of life. These records overlap, but they are not the same.
+
+Rocks are commonly grouped into three major types. Igneous rocks form when molten rock cools and solidifies. Basalt, granite, and pumice are examples. Metamorphic rocks form when older rocks are changed by heat, pressure, or chemical reactions without fully melting. Marble, gneiss, and slate are examples. Sedimentary rocks form when sediments such as sand, silt, clay, minerals, or remains of living organisms accumulate and are pressed together. Sandstone, shale, and chalk are examples.
+
+These categories are not permanent labels that a rock keeps forever. Rocks can change through the rock cycle. Igneous rock exposed at the surface can be broken down by erosion, transported, and deposited as sediment. Sediment can be buried and compressed into sedimentary rock. Sedimentary or igneous rock can be heated and squeezed into metamorphic rock. If rock melts, it can later cool into new igneous rock. This cycle is part of why Earth’s oldest evidence is difficult to preserve: Earth keeps reworking its own surface.
+
+Rocks are made of minerals, which are naturally occurring crystalline materials with particular chemical compositions and structures. A single rock usually contains a mixture of different mineral crystals in contact with one another. Many common minerals are silicates, built mainly from silicon and oxygen combined with other elements. Quartz and feldspar are familiar examples.
+
+Rock type tells us how a rock formed. Mineral composition tells us what it is made of. Both kinds of information matter. Basalt is a dark, dense igneous rock common on the seafloor and in volcanic regions. It is rich in iron- and magnesium-bearing silicate minerals. Granite is lighter and less dense, rich in quartz and feldspar, and common in continental crust and mountain ranges. The contrast between basalt and granite will matter later when we discuss why seafloor and continental crust behave differently.
+
+Sedimentary layers and relative time.
+
+Sedimentary rocks are especially useful for reconstructing surface environments. Sediments are often deposited in layers. In an undisturbed sequence, the youngest layers are usually near the top and the oldest layers are near the bottom. This simple ordering allows geologists to determine relative age: which rocks are older and which are younger, even before assigning exact numerical ages.
+
+Sediments form through erosion and transport. Wind, water, and ice break surface material into smaller pieces. Rivers carry material toward lakes, floodplains, deltas, and oceans. Wind can bury sand or dust. Organisms can contribute shells, skeletons, or other hard parts. Over time, buried sediments are compressed and cemented into rock.
+
+The distinct layers in sedimentary rocks are called strata. A single layer is a stratum. Strata often differ in color, texture, grain size, or composition because the environment changed as the sediment was deposited. The Grand Canyon is a familiar example of exposed strata. The canyon itself was carved by the Colorado River over millions of years, but the exposed rocks record much older environments that existed at different times.
+
+Relative dating using strata does not by itself tell us that a rock is, for example, 500 million years old. It tells us that one layer is older or younger than another. This still matters. If the same distinctive layer can be matched in different places, fossils and rocks in those layers can be compared. Relative dating gives the order of events. Radiometric dating can then help assign numerical ages to some of those events.
+
+Pause and check your understanding.
+
+How can sedimentary layers show relative age even when no numerical date has been measured?
+
+Geologists analyze rocks in several ways. Mineralogical analysis identifies the minerals present and can reveal the temperature, pressure, or chemical environment in which the rock formed. Chemical analysis measures which elements are present. Isotopic analysis measures ratios of isotopes, which are atoms of the same element with different numbers of neutrons. Some isotope ratios act like natural clocks because radioactive isotopes decay into daughter products at measurable rates.
+
+Radiometric dating and half-life.
+
+Radiometric dating is one of the most powerful tools for measuring geological time. The basic idea is that some isotopes are radioactive, meaning their nuclei can spontaneously change into different nuclei. This decay happens at random for any single atom, but in a large sample the average decay rate is stable and measurable.
+
+Carbon provides a familiar example. Carbon-12 and carbon-13 are stable isotopes. Carbon-14 is radioactive and decays into nitrogen-14. Carbon-14 dating is extremely useful for relatively recent organic material because living things exchange carbon with their environment while alive. After death, that exchange stops, and the amount of carbon-14 decreases over time. However, carbon-14 is not useful for dating ancient rocks that are millions or billions of years old. Its half-life is too short for that purpose.
+
+A half-life is the time required for half of a radioactive substance to decay. After one half-life, half of the original parent isotope remains. After two half-lives, one fourth remains. After three, one eighth remains. After many half-lives, so little parent material remains that the clock becomes difficult or impossible to read reliably.
+
+That is why different clocks are used for different timescales. Carbon-14 is useful for young organic materials, with an effective range of roughly tens of thousands of years. To date rocks that are billions of years old, geologists use longer-lived radioactive systems, such as uranium-lead, potassium-argon, or related methods. Uranium-238, uranium-235, and potassium-40 are useful because their half-lives are long enough to preserve measurable parent and daughter isotopes over deep time.
+
+Radiometric dating does not usually date when a rock first appeared on a planet’s surface in every possible sense. It commonly dates the time since a mineral or rock cooled enough to become a closed system. If the rock later melts or is strongly altered, the clock can be reset or disturbed. This is not a flaw in the method. It is part of what the method is telling us: the rock records the last event that locked in the isotopic system being measured.
+
+Scientists check radiometric ages in several ways. They compare numerical ages with the relative order of sedimentary strata. They compare different isotope systems when possible. For young archaeological materials, they compare radiocarbon ages with historical records and tree-ring data. No dating method is magic, but the agreement among independent checks is why radiometric dating is so central to modern geology.
+
+Pause and check your understanding.
+
+Why does a short-lived radioactive isotope work well for recent material but fail for billion-year-old rocks?
+
+For astrobiology, radiometric dating matters because habitability is a historical question. We want to know when Earth formed, when oceans appeared, when the surface became stable enough for life, when major impacts occurred, and when evidence of life appears. Without clocks, we would have a pile of clues but no reliable timeline.
+
+The first visual below emphasizes the simple half-life idea; the second shows why radiometric dating becomes powerful when many grains or phases are compared rather than relying on a single isolated measurement.
+
+Fossils, preservation, and bias.
+
+Fossils are powerful evidence, but the fossil record is incomplete. Most organisms do not become fossils at all. Soft tissues decay. Small organisms are hard to preserve and harder to identify. Rocks that once contained fossils can be eroded, buried too deeply, heated, or destroyed by tectonic recycling.
+
+The easiest fossils to find are often relatively young and come from organisms with hard parts, such as shells, bones, or teeth. That creates a major bias. For most of Earth’s history, life was microscopic. Microbes do not usually leave obvious bones or shells. Their evidence may appear as microscopic structures, chemical signatures, mineral patterns, or layered microbial communities such as stromatolites. These can be difficult to interpret because the key question is often, “Was this made by life, or could geology alone have made something similar?”
+
+This problem is not limited to Earth. If we search Mars, Europa, Enceladus, or ancient rocks from another world, we should not expect evidence of life to be obvious. A possible fossil, chemical pattern, or mineral texture would need to be tested against non-biological explanations. The older and more altered the evidence is, the more careful that comparison becomes.
+
+Pause and check your understanding.
+
+Why can a planet or time period be inhabited without preserving obvious fossil evidence?
+
+Fossil formation can happen in several ways. Mineral-rich parts of organisms, such as bones, teeth, and shells, may survive long enough to be buried. Minerals can replace parts of the organism, producing petrified remains. A decaying organism can leave a mold that later fills with minerals. In rare cases, organic matter can be preserved more directly, such as in ice or tree resin. Even coprolites, which are fossilized waste, can preserve information about ancient diets and ecosystems.
+
+The important lesson is not that fossils are useless because they are incomplete. The lesson is that absence of a fossil is not automatically absence of life. A planet or time period may have been inhabited without preserving evidence that survives to the present. This is one of the hardest problems in astrobiology: life may be fragile, local, microscopic, or poorly preserved.
+
+Geological time and the age of Earth.
+
+Earth history is organized using the geological time scale. The largest divisions are eons. From oldest to youngest, Earth’s eons are the Hadean, Archean, Proterozoic, and Phanerozoic. Eons are subdivided into eras, periods, epochs, and ages. The Phanerozoic eon, for example, includes the Paleozoic, Mesozoic, and Cenozoic eras.
+
+These divisions are not arbitrary calendar labels. They are based on changes in the rock and fossil records. Boundaries often mark major transitions in Earth’s environment or life. The most important point here is that most of Earth history happened before the familiar animals of the Phanerozoic. Dinosaurs may dominate popular images of ancient life, but they belong to a relatively recent part of the story.
+
+We do not determine Earth’s age by finding a single piece of Earth that formed at the exact beginning and survived untouched. Earth is active. Plate tectonics, erosion, metamorphism, and melting have destroyed or altered many of the oldest rocks. The oldest known rocks are a little over 4 billion years old, but individual mineral grains called zircons are older. Some zircons from Western Australia are about 4.4 billion years old.
+
+Zircons are valuable because they are tough minerals that can survive erosion and recycling. A zircon grain can be older than the sedimentary rock in which it is later found. Uranium-lead dating of zircons provides evidence that parts of Earth’s crust existed very early. Some zircon evidence also suggests that liquid water may have interacted with Earth’s surface by about 4.4 billion years ago, which pushes possible habitability much earlier than the old picture of a long-lasting molten hellscape.
+
+Moon rocks also help constrain Earth’s history. Earth and the Moon formed in the same early Solar System, and the Moon preserves ancient surfaces better than Earth because it lacks plate tectonics, flowing water, and an atmosphere. The oldest Moon rocks are about 4.4 billion years old, giving a minimum age for the Earth-Moon system.
+
+Meteorites provide another constraint. Some meteorites are fragments of asteroids, but primitive meteorites contain some of the earliest solids that condensed in the Solar System. Calcium-aluminum-rich inclusions, often abbreviated C A I's, are especially important because they are among the oldest dated solids. Their ages are about 4.567 billion years, which is commonly used as a reference point for the beginning of Solar System solid formation.
+
+Earth did not form instantly at that moment. It grew by accreting smaller bodies. Current evidence indicates that most of Earth’s mass accumulated within the first few tens of millions of years after the first solids formed, and the Earth-Moon system formed within the first roughly 60 to 100 million years. The exact details remain an active research area, but the broad picture is clear: Earth is about 4.54 billion years old, and the earliest evidence for crust and perhaps water appears surprisingly soon afterward.
+
+The two visuals below combine the large-scale time structure with one concrete reason early Earth evidence is difficult: the oldest directly dated minerals are tiny surviving grains, not complete untouched rocks from Earth’s formation.

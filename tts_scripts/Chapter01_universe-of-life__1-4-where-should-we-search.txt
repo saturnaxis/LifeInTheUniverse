@@ -1,0 +1,126 @@
+Where Should We Search?
+
+The search for life beyond Earth begins with nearby worlds and then extends outward to planets around other stars. The Solar System is the easiest place to investigate directly because spacecraft can visit planets, moons, dwarf planets, asteroids, and comets. Even so, "nearby" is relative. These worlds are still far away, difficult to reach, and expensive to explore.
+
+Try the numbers: light travel time to Mars.
+
+Even nearby worlds are far away. Astronomers often measure distances within the Solar System using the astronomical unit, or astronomical units. One astronomical units is the average distance between Earth and the Sun.
+
+Light takes about  8.2 min   to travel  1 astronomical unit. When Mars is relatively close to Earth, it can be about  0.52 astronomical units   away. We can estimate the light travel time using a simple proportional relationship:
+
+t  equals  (0.52 astronomical units ) ( 8.2 min  over 1 astronomical unit   )  
+   equals  4.3 min.
+
+So even when Mars is relatively close, light takes a few minutes to travel between Mars and Earth. This is why spacecraft communication is not instantaneous.
+
+See the Python snippet given in the course lecture notes.
+
+The Solar System gives us plenty of real estate to search, but Earth is still very different from the other planets. Earth has long-lasting surface liquid water in its oceans, and water is crucial to all terrestrial life. Because every known living thing depends on water, worlds with water become especially important targets.
+
+Beyond the Solar System, the number of possible worlds becomes much larger. Many stars have planets, and some of those planets may be rocky worlds in environments where liquid water could exist. The difficulty is distance. Exoplanets are so far away that we usually cannot study them directly as places. Instead, we study them through indirect evidence such as their effects on starlight.
+
+Mars, Europa, and Titan show three different ways a world can be interesting for astrobiology: ancient surface water, hidden subsurface water, and complex organic chemistry.
+
+Mars.
+
+Mars is one of the most important targets in the search for life because it is nearby, rocky, and shows strong evidence of a wetter past. Today, Mars is cold and dry at the surface. Its atmosphere is thin, and liquid water is not stable across most of the planet's surface. However, spacecraft observations show dried river valleys, minerals that form in water, ancient lakebeds, and water ice. Mars also still has subsurface ice.
+
+This makes Mars a natural place to search for evidence of past life. If Mars once had flowing water at the surface, then it may once have had environments that were more favorable for microbial life. The main question is not whether Mars had cities or forests. It almost certainly did not. The more realistic question is whether simple life ever appeared there, and whether traces of that life could still be preserved in rocks or underground environments.
+
+Pause and check your understanding.
+
+Why is Mars mainly a search for possible past microbial life rather than cities or civilizations?
+
+Mars is also important because it teaches us how habitability can change. A planet may have conditions suitable for life during one part of its history and lose those conditions later. Understanding Mars helps scientists understand the difference between a planet that is habitable now and a planet that may have been habitable in the past.
+
+Europa, Ganymede, Callisto.
+
+Some of the most interesting places to search for life are not planets at all. Europa, Ganymede, and Callisto are moons of Jupiter, and each may have liquid water beneath an icy outer layer. Europa is especially important because evidence suggests that it hides a deep ocean of liquid water beneath its ice crust.
+
+At first, an icy moon far from the Sun might seem like a poor place to search for life. The surface is cold, and sunlight is weak. However, habitability is not only about sunlight. If liquid water exists beneath the surface, and if there are chemical nutrients and sources of energy, then such an ocean could be a possible habitat for microbial life.
+
+Europa is often treated as one of the strongest candidates for life in the Solar System because it may combine water, chemistry, and internal energy. Ganymede and Callisto are also interesting, although the evidence for habitable oceans is weaker and less direct. These moons show why planetary science is so important: a world can be cold and icy on the outside but still potentially interesting beneath the surface.
+
+Europa and the idea of hidden habitability.
+
+Europa is important because it changes how we think about habitable environments. At first, we might expect the best places to search for life to be planets like Earth: rocky worlds at the right distance from a star for liquid water to exist on the surface. Europa does not fit that simple picture. It is far from the Sun, covered in ice, and exposed to Jupiter’s harsh radiation environment. Yet beneath that ice, it may have one of the most interesting oceans in the Solar System.
+
+Pause and check your understanding.
+
+Why can Europa be interesting for life even though it is cold, icy, and far from the Sun?
+
+The important lesson is that a world can be hostile on the surface and still interesting below the surface. Europa’s ice may protect a deep ocean, while tidal heating may provide energy that does not come directly from sunlight. That expands the search for life. Instead of asking only whether a planet sits in the right orbital zone around a star, astrobiologists also ask whether a world has liquid water, chemistry, and energy in any environment where life could persist.
+
+Titan.
+
+Titan, Saturn's largest moon, is interesting for a different reason. It has a thick atmosphere and lakes on its surface, but those lakes are not made of water. They are made mostly of liquid methane and ethane. This makes Titan very different from Earth and from the icy ocean worlds like Europa.
+
+Titan is probably not the most Earthlike place to search for life, but it is one of the best places to study complex organic chemistry. Its atmosphere and surface contain carbon-rich molecules, and its environment shows that chemistry can become complicated even in very cold conditions.
+
+Pause and check your understanding.
+
+Why is Titan interesting even though its surface lakes are not made of liquid water?
+
+Titan helps scientists think more broadly. If life requires liquid water, then Titan's surface may not be a likely habitat. However, if there are subsurface water environments or if life can use chemistry very different from Earth life, then Titan becomes even more interesting. At minimum, Titan is a natural laboratory for studying the kinds of chemistry that may be related to the origin of life.
+
+Exoplanets.
+
+Exoplanets are planets that orbit stars beyond the Sun. They are central to the search for life because they greatly expand the number of possible worlds. The Solar System contains only a small number of planets and large moons, but the Galaxy contains enormous numbers of stars. If many of those stars have planets, then the possible locations for life increase dramatically.
+
+The challenge is that exoplanets are extremely far away. Sending spacecraft to them is not practical with current technology. A spacecraft journey to even a nearby star would take more than  100,000  years using ordinary spacecraft speeds. Because of this, the search for life on exoplanets is mostly indirect.
+
+Try the numbers: travel time to a nearby star.
+
+The nearest star system, Alpha Centauri, is about  4.24 light years   away. One light-year is about  63,241 astronomical unit, so the distance to Alpha Centauri is
+
+d  equals  (4.24)(63,241 astronomical unit )  
+   equals  2.68 times ten to the 5 astronomical units.
+
+A fast spacecraft traveling at about  12 kilometers per second   covers roughly  2.5 astronomical units   per year. Using  t  equals  d/v, the travel time is
+
+t  equals   2.68 times ten to the 5 astronomical units  over 2.5 astronomical units/yr    
+   equals  1.1 times ten to the 5 yr.
+
+So a spacecraft traveling at ordinary spacecraft speeds would take about  1.1 times ten to the 5  years to reach even one of the nearest star systems. This is why the search for life on exoplanets depends mostly on telescopes rather than spacecraft visits.
+
+See the Python snippet given in the course lecture notes.
+
+Scientists can detect some exoplanets by watching how they affect their stars. A planet may cause a star to wobble slightly because of gravity, or it may block a tiny amount of starlight when it passes in front of the star. In some cases, scientists can study the atmosphere of an exoplanet by analyzing starlight that passes through or reflects from that atmosphere.
+
+Pause and check your understanding.
+
+Why do scientists usually search for life on exoplanets indirectly instead of sending spacecraft to them?
+
+Atmospheres are especially important because life can change a planet's atmosphere. On Earth, life has strongly affected the amount of oxygen and other gases in the air. However, interpreting exoplanet atmospheres is difficult. A gas that looks promising as a possible sign of life might also be produced by geology or atmospheric chemistry. The hard question is not only whether we can find interesting gases, but whether we can tell the difference between life and nonliving processes. Our current technology is improving, but it still limits what we can confidently conclude.
+
+Try the numbers: the transit method.
+
+When a planet passes in front of its star, it blocks a small fraction of the star's light. The fraction of light blocked is approximately
+
+ fraction blocked   equals   ( R planet  over R star   ) squared.
+
+For an Earth-sized planet crossing in front of a Sun-sized star, use  R sub  oplus   equals  6371 km   and  R sub  odot   equals  696,340 km:
+
+ fraction blocked   equals   ( 6371 kilometers over 696,340 kilometers ) squared  
+ equals  8.4 times ten to the minus 5.
+
+As a percentage, this is
+
+ percent blocked   equals  (8.4 times ten to the minus 5)(100  percent)  
+ equals  8.4 times ten to the minus 3  percent.
+
+So an Earth-sized planet crossing a Sun-sized star blocks less than one hundredth of one percent of the star's light. This is why exoplanet detection requires careful measurements.
+
+See the Python snippet given in the course lecture notes.
+
+set-ee.
+
+The Search for Extraterrestrial Intelligence, or set-ee, asks a different kind of question. Instead of looking for simple life, set-ee looks for evidence of technological civilizations. If life is common, then it is possible that another civilization could also be searching the sky. In that case, they might be searching for us just as we are searching for them.
+
+Most set-ee searches focus on electromagnetic signals, especially radio waves, because radio waves can travel long distances through space. The hope is that another civilization might intentionally send a signal, or that we might detect signals leaking from their technology. In that sense, set-ee can be imagined as listening for alien broadcasts or eavesdropping on another civilization's communications. The real process is more careful than that. Scientists look for patterns that seem artificial rather than natural.
+
+Pause and check your understanding.
+
+Why is set-ee considered high risk and high reward?
+
+set-ee is high risk and high reward. It is high risk because there is no guarantee that technological civilizations are common, that they use detectable signals, or that they are transmitting at the time we are listening. It is high reward because a clear artificial signal would be one of the most important discoveries in human history. Unlike ambiguous chemical evidence, a confirmed intelligent signal could directly show that we are not the only technological species in the universe.

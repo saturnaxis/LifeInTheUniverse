@@ -1,0 +1,223 @@
+The structure, scale, and history of the universe.
+
+Our cosmic address.
+
+A useful way to begin is with our cosmic address. You are on Earth. Earth is a planet in the Solar System. The Solar System contains the Sun, planets, dwarf planets, moons, asteroids, comets, dust, gas, and distant icy bodies such as those in the Kuiper Belt and Oort Cloud. The Sun is one star among the many stars of the Milky Way Galaxy. The Milky Way belongs to a collection of nearby galaxies called the Local Group. The Local Group is part of still larger patterns of galaxies and galaxy clusters, including the Laniakea Supercluster. The universe is the sum total of all matter and energy.
+
+This address is not just a list of bigger and bigger containers. Each level changes the kind of question we can ask. On Earth, we can study living organisms directly. In the Solar System, we can ask whether nearby planets or moons have water, energy, and useful chemistry. In the Milky Way, we can ask how common planets are around other stars. Across the universe, we can ask whether the raw materials and physical conditions needed for life are rare or widespread.
+
+The images below show four levels of this address. They are not shown on the same scale. Instead, use them to notice how the kind of object changes as we zoom outward.
+
+The Milky Way contains roughly hundreds of billions of stars, including the Sun. Our Sun orbits the center of the Galaxy, taking about 230 million years to complete one orbit. That number is so large that it is hard to feel. The dinosaurs appeared, diversified, and disappeared while the Sun completed only a fraction of one galactic orbit.
+
+A galaxy is a large system of stars, gas, dust, stellar remnants, planets, and dark matter held together by gravity. The Milky Way and Andromeda are the largest galaxies in the Local Group. Collections of galaxies can form galaxy groups and galaxy clusters, and these can be part of still larger supercluster-scale patterns. Our Local Group lies within Laniakea, a much larger cosmic structure whose name means “immense heaven” or “open skies.”
+
+Pause and check your understanding.
+
+How does your cosmic address change as you zoom outward from Earth?
+
+The search for life depends on this nested structure. Nearby worlds in the Solar System can sometimes be visited by spacecraft, while planets around other stars must usually be studied indirectly. The larger the scale, the more we depend on light, gravity, chemistry, and careful inference.
+
+From the Solar System to galaxies.
+
+The Solar System is large, but it is still only our local neighborhood. The Sun is not unusual because it is the only star of its kind. It is important because it is the star we orbit and the star that powers life on Earth. When we look into the night sky, many of the stars we see are distant suns, and some of those stars have planetary systems of their own.
+
+The next major level in our cosmic address is the Milky Way Galaxy. A galaxy is a large system of stars, gas, dust, stellar remnants, planets, and dark matter held together by gravity. The Milky Way contains roughly 100 billion stars, including the Sun. It is so large that even light needs about 100,000 years to cross it.
+
+The Sun also moves through the Galaxy. It orbits the center of the Milky Way at a distance of roughly 27,000 light-years from the center. One complete orbit takes about 230 million years. Astronomers sometimes call this time a Galactic year. A Galactic year is not a new kind of year based on Earth’s seasons; it is the time required for the Sun to complete one orbit around the center of the Milky Way.
+
+A timescale of 230 million years is difficult to imagine. The Sun has completed only a small number of Galactic orbits during Earth’s entire history, and a human lifetime is far too short to notice this motion directly. This is why astronomy often requires models and long-term inference. We cannot watch the Sun complete a Galactic orbit, but we can measure motions, distances, and gravitational structure well enough to understand that the orbit is happening.
+
+The images below compare three galaxy-scale views. The first is a model-based outside view of the Milky Way, which we cannot photograph directly because we live inside it. The second shows Andromeda, the nearest major spiral galaxy, which gives us a useful comparison object. The third shows the Local Group, the neighborhood of galaxies that includes the Milky Way and Andromeda.
+
+The Local Group contains dozens of galaxies, with the Milky Way and Andromeda as its two largest members. Larger collections of galaxies are called galaxy clusters, and clusters and groups can be part of even larger supercluster-scale patterns. Our Local Group lies within Laniakea (lah-nee-ah-KAY-ah), a much larger cosmic structure whose name is often translated as “immense heaven” or “open skies.”
+
+Pause and check your understanding.
+
+Why is a galaxy more than just a large collection of stars?
+
+This scale matters for the search for life because every step outward changes our tools. In the Solar System, we can sometimes send spacecraft. Around nearby stars, we usually infer planets from light and motion. Across galaxies, we mostly study populations, structure, chemistry, and cosmic history. The question “Where could life exist?” depends on knowing which scale we are talking about.
+
+The scale of the Solar System.
+
+The Solar System is much larger than most pictures make it seem. Textbook diagrams usually have to make a choice: they can show the planets large enough to recognize, or they can show the distances between them accurately. They usually cannot do both on the same page. If the distances are shown honestly, the planets become too small to see. If the planets are shown clearly, the distances must be compressed.
+
+That distortion is not a minor detail. It can quietly change how we imagine space. The Solar System is not a crowded set of planets sitting close together. It is mostly empty space, with small worlds separated by enormous distances. This matters for exploration because distance controls travel time, communication time, spacecraft design, and what kind of search is realistic.
+
+The figure below shows why Solar System scale is hard to draw honestly: the planets become tiny, while the distances between them become enormous.
+
+Suppose the Sun were reduced to about the size of a grapefruit. On that scale, Jupiter would be about the size of a marble, and Earth would be about the size of the ballpoint in a pen. Earth would not sit just beside the Sun. It would be about 15 meters away. The Moon would be only a few centimeters from Earth, which is a good reminder that human space travel has barely left Earth’s immediate neighborhood.
+
+The outer Solar System stretches the model even farther. Pluto’s average distance from the Sun is about 39 times Earth’s distance from the Sun. So, if Earth is 15 meters from the grapefruit Sun, Pluto would be roughly 39 times 15 meters from it. The full width of the Solar System out to Pluto’s orbit would be more than 1 kilometer across.
+
+Try the numbers.
+
+Using the grapefruit model, let Earth be 15 meters from the Sun. Pluto is about 39.5 times farther from the Sun than Earth is, so its scaled distance is
+
+d sub Pluto equals 39.5 times 15 meters.
+d sub Pluto equals 592.5 meters.
+
+That is the distance from the grapefruit Sun to Pluto. A full diameter across Pluto's orbit is twice that distance:
+
+Two times d sub Pluto equals 2 times 592.5 meters.
+Two times d sub Pluto equals 1,185 meters.
+
+So, even with a grapefruit-sized Sun, the Solar System out to Pluto would be more than 1 kilometer across.
+
+See the Python snippet given in the course lecture notes.
+
+Pause and check your understanding.
+
+Why can a Solar System diagram show sizes accurately or distances accurately, but usually not both?
+
+For the search for life, this scale has a practical meaning. Mars, Europa, Enceladus, Titan, and other Solar System targets are nearby in astronomical terms, but they are still difficult places to reach. The Solar System is our own backyard, but it is a very large backyard.
+
+Light-years and looking into the past.
+
+Distances inside the Solar System are large, but we can still describe many of them using astronomical units. An astronomical unit is roughly Earth’s average distance from the Sun. That unit works well for planets, asteroids, and comets, but it quickly becomes awkward when we talk about stars. The closest star system, Alpha Centauri, is about 265,000 astronomical units away. That is a one-way distance. Even the nearest stars are far beyond the scale of ordinary Solar System travel.
+
+For interstellar distances, astronomers usually use the light-year. A light-year is the distance light travels through space in one year. It is a unit of distance, not a unit of time. Alpha Centauri is about 4.25 light-years away, which means its light takes about 4.25 years to reach us. If you look at Alpha Centauri tonight, you do not see it as it is at this exact moment. You see it as it was a little more than four years ago.
+
+The reason is simple but important: light has a very high speed, but it does not travel instantly. Light travels about 9.46 trillion kilometers in one year. That distance is one light-year. The number is so large that writing stellar distances in kilometers quickly becomes less helpful than using a unit based on light travel.
+
+Try the numbers.
+
+A useful approximation is that 1 light-year is approximately equal to 62,000 astronomical units. Alpha Centauri is about 4.25 light-years away, so its distance in astronomical units is approximately
+
+d sub Alpha Centauri is approximately equal to 4.25 times 62,000 astronomical units.
+d sub Alpha Centauri is approximately equal to 260,000 astronomical units.
+
+This is close to the more detailed value of about 265,000 astronomical units. The exact number depends on the precise distance used, but the main lesson is unchanged: even the nearest star system is hundreds of thousands of astronomical units away.
+
+See the Python snippet given in the course lecture notes.
+
+The same idea applies across larger distances. The Milky Way is about 100,000 light-years in diameter, so light takes about 100,000 years to travel across the Galaxy. The Sun is about 27,000 light-years from the center of the Milky Way, so light from the Galactic center takes tens of thousands of years to reach our region of the Galaxy. When we look across the Milky Way, we are not seeing every part of the Galaxy at the same moment in time.
+
+This can feel strange, but we use a similar idea in everyday language. If someone asks how far Dallas is from Commerce, a person might answer “about an hour.” That is not really a distance. It is a travel time that assumes a typical speed. In astronomy, light gives us the travel speed. When we say the Orion Nebula is about 1,350 light-years away, we are saying that its light has been traveling for about 1,350 years before reaching us.
+
+The tab set below gives three examples of distance as lookback time, moving from the nearest star system to a star-forming region inside the Milky Way and then to a neighboring galaxy.
+
+Pause and check your understanding.
+
+Why does looking farther away usually mean looking farther into the past?
+
+For astrobiology, light travel time is a reminder that distant evidence is delayed evidence. If we someday detect a possible biosignature in the atmosphere of a planet around another star, we will be learning about that world as it was when the light left, not necessarily as it is right now.
+
+Counting stars and thinking about searches.
+
+The Milky Way contains roughly 100 billion stars. That number is easy to say but hard to imagine. A useful way to make it more concrete is to turn it into an activity: suppose you could count one star every second. How long would it take to count all the stars in the Milky Way? 
+
+Listening cue.
+
+In class, Counting Stars by OneRepublic is a useful mnemonic for this idea: counting stars sounds simple until you realize how many stars a galaxy contains. You can listen to the short audio sample on the Wikipedia file page. The song is not evidence for anything scientific; it is just a memory hook for the scale problem.
+
+The arithmetic is simple. If the Milky Way contains about 100 billion stars, then counting one star each second would require 100 billion seconds. To convert seconds into years, divide by the number of seconds in one year.
+
+Try the numbers.
+
+A rough estimate treats the Milky Way as having 100 billion stars. If you count one star each second, the time in seconds equals the number of stars.
+
+t equals 100,000,000,000 seconds divided by 365.25 times 24 times 60 times 60 seconds per year.
+t is approximately equal to 3,169 years.
+
+Even an impossibly steady count would take more than 3,000 years.
+
+See the Python snippet given in the course lecture notes.
+
+This estimate explains why the search for life cannot simply mean “look everywhere.” A systematic search for life in the Galaxy would be like trying to point a telescope at each star and ask whether any planet there might be inhabited. The number of possible targets is encouraging, but it is also overwhelming.
+
+Scientists therefore need search strategies. They ask which stars are nearby enough to study well, which stars are stable enough to host long-lived planets, which stars have planets, and which planets might have surfaces, atmospheres, water, or useful chemistry. The search is not only about hope; it is about prioritizing limited observing time and limited spacecraft resources.
+
+Pause and check your understanding.
+
+Why does the size of the Milky Way force scientists to choose search priorities?
+
+Good scientific searches use scale to make strategy possible. The large number of stars gives us many possible places to investigate, but it also means that searching wisely is just as important as searching hopefully.
+
+Dark matter and dark energy.
+
+The word dark can be misleading. In everyday language, dark usually means something is black or dim. In astronomy, dark often means something different: we infer that something is there because of its effects, even though it does not shine in a way we can directly see.
+
+Dark matter is matter that appears to have gravity but does not emit, absorb, or reflect light in the ordinary way. Astronomers infer dark matter from the motions of stars and galaxies, the behavior of galaxy clusters, and the bending of light by gravity. The key point is not that scientists looked into space and saw a black substance. The key point is that visible matter alone does not explain the gravitational behavior we observe.
+
+Dark energy is different. It is not another kind of hidden matter inside galaxies. It is the name scientists give to whatever is causing the expansion of the universe to accelerate. Observations of distant galaxies and exploding stars show that the expansion of the universe has not simply been slowing down under gravity. Instead, the expansion appears to be speeding up.
+
+The examples below show the same scientific habit in two different contexts: scientists infer unseen causes from measurable effects.
+
+Dark matter and dark energy are not the same thing. Dark matter helps explain why galaxies and galaxy clusters have more gravitational mass than visible matter alone can provide. Dark energy helps explain why the expansion of the universe is accelerating. Both are major open questions in astronomy, but they are scientific ideas because they are tied to observations that can be measured, tested, and compared with competing models.
+
+Pause and check your understanding.
+
+What makes dark matter and dark energy scientific ideas rather than simple guesses?
+
+For the search for life, dark matter and dark energy are not usually the main actors. They do not tell us whether a moon has an ocean or whether an exoplanet has oxygen. They matter here because they show how astronomy often works: scientists use visible evidence to infer hidden causes. That same style of reasoning will return when we study exoplanets, atmospheres, and possible biosignatures.
+
+The expanding universe and the Big Bang.
+
+One of the most important discoveries of modern astronomy is that the universe is expanding. When astronomers observe distant galaxies, they usually find that those galaxies are moving away from us. Even more importantly, galaxies that are farther away tend to recede faster. This pattern tells us that the universe is not static. The distances between widely separated galaxies are increasing over time.
+
+That does not mean Earth is at the center of an explosion. A person in almost any distant galaxy would also see other distant galaxies moving away. The expansion is a property of space itself. On large enough scales, the space between galaxies grows, so the galaxies become farther apart even though there is no single center that everything is fleeing from.
+
+If the universe is expanding now, then the observable universe must have been denser and hotter in the past. Running the expansion backward does not simply mean rewinding galaxies through space like movie objects flying back to a central point. It means that the space between distant regions was smaller, the average density was higher, and the early universe was much hotter. The Big Bang model describes this early hot, dense state and the expansion that followed.
+
+The Big Bang happened about 13.8 billion years ago. The phrase can be misleading because it sounds like an explosion inside space. A better way to think about it is that the observable universe expanded from an earlier state that was much hotter, denser, and more compact than it is today. Science can describe much of the history after that early stage, but the very earliest moments still involve open questions.
+
+A common classroom analogy is raisin bread. Imagine raisins evenly spaced inside dough. Before baking, two nearby raisins might be 1 cm apart, while two more distant raisins might be 3 cm apart. As the bread expands, both separations grow. From the point of view of any one raisin, the other raisins appear to move away. The more distant raisins appear to move away faster because there is more expanding dough between them.
+
+The analogy is useful, but it has limits. Raisin bread expands into the space of your kitchen, while the universe is not expanding into a larger kitchen-like space that we can stand outside of and observe. The analogy is meant to help with one idea: when the space between objects expands, every observer can see distant objects moving away without needing to be at the center.
+
+There are several major lines of evidence for the Big Bang model. The expansion of galaxies tells us that the universe has changed over time. The cosmic microwave background is leftover radiation from an early hot stage of the universe. The observed abundance of the lightest elements, especially hydrogen and helium, also agrees with models of the early universe.
+
+The early universe was chemically simple compared with the universe today. Models of the early universe predict that it should have produced mostly hydrogen and helium, with only small amounts of other light elements. Observations agree with this broad picture: the universe began with simple ingredients, not with rocky planets, oceans, atmospheres, or life already in place.
+
+Pause and check your understanding.
+
+Why is the Big Bang better understood as expansion of space rather than an explosion from one place?
+
+This leaves an important astrobiology question. If the early universe was mostly hydrogen and helium, where did the carbon, oxygen, nitrogen, silicon, iron, and other ingredients of rocky planets and living organisms come from? The answer takes us from cosmology to stars.
+
+From hydrogen and helium to “star stuff”.
+
+The early universe was chemically simple. It contained mostly hydrogen and helium, with only small amounts of other light elements. That means the universe did not begin with rocky planets, oceans, atmospheres, or living organisms already available. The ingredients for those things had to be made later.
+
+Stars are the main engines of that chemical transformation. A star forms when gravity pulls gas inward until the central temperature and pressure become high enough for nuclear fusion. In the Sun, the main fusion process converts hydrogen into helium. Fusion releases energy, and some of that energy eventually leaves the star as the light and heat that can warm planets.
+
+The cosmos is within us. We are made of star stuff.
+
+--Carl Sagan
+
+Massive stars can continue building heavier elements through later stages of fusion. Carbon, oxygen, silicon, and iron are made inside stars. Fusion up to iron can release energy, but building elements heavier than iron usually requires more extreme environments, such as supernova explosions or neutron-star mergers. The details are complicated, but the basic story is clear: the universe became chemically richer through the lives and deaths of stars.
+
+Sagan’s phrase is memorable because it is chemically literal: many atoms in bodies and planets were made by earlier stars. The visual evidence for this idea comes from astronomy. Telescopes can detect different elements in stars, nebulae, and supernova remnants. A supernova remnant is the expanding debris left after a massive star explodes. These remnants are not just beautiful clouds; they are part of the recycling process that returns newly made elements to space.
+
+The phrase “we are star stuff” therefore has a physical meaning. The hydrogen in your body is ancient and traces back to the early universe. Much of the carbon and oxygen in your body was made inside stars. Other elements were produced or dispersed through violent stellar events. Long before Earth formed, earlier generations of stars had already enriched space with the ingredients that would later become planets and living organisms.
+
+For astrobiology, this is encouraging. If stars commonly make and distribute the elements needed for chemistry, then Earth is not the only place where the raw materials for life can exist. Similar heavy elements occur throughout the Solar System and in many other star systems. That makes Earthlike planets and complex chemistry plausible elsewhere.
+
+Pause and check your understanding.
+
+Why does “we are star stuff” refer to chemistry, not poetry alone?
+
+Still, raw materials are not the same as life. A planet can have carbon, oxygen, water, and energy without being inhabited. The scientific search for life asks what happens after the ingredients exist: whether they collect in the right environments, whether chemistry becomes biological, and what evidence would let us tell the difference.
+
+How big is the universe we can see?
+
+The universe is enormous, but there is a limit to what we can observe. That limit is not mainly caused by weak telescopes. Better telescopes help us see fainter objects and collect more detailed information, but they do not remove the basic limit set by the speed of light.
+
+Light takes time to travel. When we look at the Andromeda Galaxy, about 2.5 million light-years away, we see it as it was about 2.5 million years ago. When astronomers look at much more distant galaxies, they see them as they were billions of years ago. Looking far away is also looking back in time.
+
+The universe is about 13.8 billion years old. That means there are regions whose light has not had enough time to reach us. Those regions may exist, but they are not part of our observable universe. The observable universe is the region of space from which light, or any other signal, has had time to reach us.
+
+There is one important subtlety. Since the universe has been expanding while light has been traveling, the observable universe is not simply 13.8 billion light-years in radius. The farthest matter we can observe today is now much farther away than it was when its light began traveling toward us. A commonly rounded value for the radius of the observable universe is about 46 billion light-years, giving a diameter of about 93 billion light-years.
+
+Common misconception.
+
+The observable universe is not the same thing as the whole universe. It is the part of the universe that can affect our observations because light or other signals have had enough time to reach us.
+
+The observable boundary changes with time, but not in a way that matters much for a human lifetime. If we wait, new light can reach us from slightly farther away. But major changes require cosmic timescales. A human life is far too short to notice the observable universe growing in any practical way.
+
+Pause and check your understanding.
+
+Why does a better telescope not let us see beyond the observable universe?
+
+For astrobiology, this limit matters because science depends on available evidence. We can ask whether life could exist across the universe, but we can only test ideas using information that can reach us. The observable universe is already vast enough to contain an enormous number of galaxies, stars, and planets. The challenge is not that there are too few places to search; the challenge is deciding what evidence we can actually obtain.
