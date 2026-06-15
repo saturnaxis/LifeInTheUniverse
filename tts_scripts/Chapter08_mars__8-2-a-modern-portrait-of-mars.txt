@@ -1,0 +1,161 @@
+A modern portrait of Mars.
+
+Spacecraft changed Mars from a world of stories into a world of measurements. The change was not immediate. It took decades of missions, failures, landings, orbiters, rovers, and laboratory-style experiments to build the modern picture.
+
+Spacecraft replaced canals with craters, rocks, and atmosphere.
+
+NASA's Mariner 4 flew by Mars in 1965 and returned the first close-up images of the surface. The images were low-resolution by modern standards, but they were decisive in one respect: Mars showed craters, not canals. The measured surface conditions were also harsh. Mars had low pressure and cold temperatures, not the comfortable Earthlike environment that canal advocates had imagined. This was a painful but productive kind of scientific progress: a beautiful idea was replaced by a colder, more complicated reality.
+
+The Viking 1 and Viking 2 missions reached Mars in 1976. Each mission included an orbiter and a lander. The landers showed a desolate, rocky landscape under a thin atmosphere. The orbiters mapped the planet and also gave the public one of the most famous examples of Martian pareidolia: the so-called Face on Mars. Later, higher-resolution images showed it was an eroded landform, not a monument.
+
+Mars exploration then slowed. Mission failures, budget limits, and political shifts created a gap of roughly two decades. Pathfinder landed in 1997 with the small Sojourner rover and helped restart sustained Mars exploration. Since then, orbiters, landers, and rovers have built a much richer picture. Perseverance landed in Jezero Crater in 2021 and carried Ingenuity, the first aircraft to fly on another planet.
+
+Each mission added a different kind of evidence. Orbiters are like global surveyors: they map the planet, identify minerals, and watch weather over large areas. Landers and rovers are more like field geologists: they touch the ground, inspect rocks, and connect close-up textures to the broader landscape. Mars science needs both views, because a single rock is hard to interpret without a map, and a map is hard to interpret without ground truth.
+
+Pause and check your understanding.
+
+How did spacecraft exploration narrow the search from “civilization on Mars” to “possible past or subsurface microbial life”?
+
+That shift connects directly to earlier chapters. Chapter 1 introduced the idea that extraterrestrial life does not have to mean intelligent aliens. Chapter 2 emphasized that scientific claims require testable evidence. Mars forces us to apply both ideas at once. It also shows why null results matter. Mariner 4 and Viking did not find canals, cities, or obvious biology, but those negative results redirected the science toward better questions.
+
+What Mars is like today.
+
+At first glance, modern Mars can look like some deserts on Earth. Spacecraft images show dusty plains, dunes, layered rocks, buttes, dried channels, and crater walls. The resemblance is helpful, but it can also mislead. Mars is not simply a colder Arizona. Its atmosphere is far thinner than Earth's, its air is mostly carbon dioxide, and its surface has no breathable oxygen. The visual similarity is a reminder that habitability is not judged from scenery alone. A place can look familiar while the pressure, temperature, radiation, and chemistry are completely wrong for unprotected life.
+
+The average surface pressure on Mars is only about 0.006 times Earth's sea-level pressure. That low pressure explains why there are no stable lakes, rivers, or puddles on the surface today. Exposed liquid water tends to boil or evaporate at such low pressure. At the same time, Mars is cold enough that water also freezes quickly. Liquid water is therefore unstable on the modern surface: it cannot remain liquid for long under ordinary present-day conditions. The situation is similar to trying to keep a snow cone intact in a freezer that is also connected to a vacuum pump: cold favors ice, low pressure favors vapor, and ordinary liquid water has almost no comfortable middle ground.
+
+Mars also has no ozone layer like Earth's. Ultraviolet light from the Sun reaches the surface more directly, breaking chemical bonds and making the uppermost soil chemically harsh. Mars does have more gravity than the Moon, about 0.38 times Earth's gravity compared with the Moon's 0.17 times Earth's gravity, and its day-night cycle is close to Earth's, but those similarities do not make the surface habitable.
+
+The communication delay is another reminder that Mars is nearby only in astronomical terms. At closest approach, Mars is still far enough away that a radio command cannot produce an instant response.
+
+Try the numbers: light-time to Mars.
+
+At close approach, Mars can be about 0.5 astronomical units from Earth. Light takes about 8.2 minutes to travel 1 astronomical unit. The one-way communication time is therefore
+
+t equals 0.5 astronomical units times 8.2 minutes per astronomical unit, which equals 4.1 minutes.
+
+A command sent from Earth would take about four minutes to reach Mars at this favorable distance, and the reply would take about four minutes to come back. A rover cannot be driven like a remote-control car.
+
+See the Python snippet given in the course lecture notes.
+
+Seasons, dust, and the color of the Martian sky.
+
+Mars has seasons for two separate reasons. The first is the familiar Earthlike reason: Mars' spin axis is tilted, so each hemisphere alternately leans toward or away from the Sun during the Martian year. When the northern hemisphere is tilted toward the Sun, it has summer while the southern hemisphere has winter. Half a Martian year later, the pattern reverses. This is the same basic geometry that gives Earth hemispherical seasons, but Mars stretches the schedule: one Martian year is about 1.87 Earth years, so each season lasts much longer.
+
+The second seasonal effect comes from Mars' orbit. Mars has a more elliptical orbit than Earth, so its distance from the Sun changes noticeably during the year. When Mars is near perihelion, the whole planet receives more sunlight. When Mars is near aphelion, the whole planet receives less sunlight. This is different from the tilt-driven seasons because it affects both hemispheres at the same time, even though each hemisphere still has its own summer or winter.
+
+Kepler's second law connects these two ideas. A planet moves faster when it is closer to the Sun and slower when it is farther away. Mars is currently near perihelion during southern summer, so southern summer is both warmer and shorter. Southern winter happens closer to aphelion, so it is colder and longer. The northern hemisphere gets the opposite pattern: northern summer occurs farther from the Sun, making it longer and milder, while northern winter occurs closer to the Sun, making it shorter and less extreme.
+
+A useful analogy is a runner on an oval track who speeds up on one side and slows down on the other. The runner still completes one lap, but equal time intervals do not cover equal distances around the track. For Mars, this means equal slices of calendar time do not correspond to equal orbital arcs. The season near perihelion is compressed, while the season near aphelion is stretched out. The clock keeps ticking evenly, but the planet does not move evenly.
+
+Pause and check your understanding.
+
+Why does Mars have both tilt-driven seasons and distance-driven seasonal changes?
+
+The result is that Mars does not simply have “Earthlike seasons, but longer.” It has hemispherical seasons caused by axial tilt, layered on top of a planet-wide distance-from-the-Sun effect caused by orbital eccentricity. That combination helps explain why the southern hemisphere experiences more extreme seasonal changes than the northern hemisphere.
+
+Martian dust also helps explain the sky. Fine dust scatters sunlight and gives the sky a yellow-brown or butterscotch color. Without dust, the daytime sky would look much darker because the thin atmosphere would scatter much less light. Spacecraft images are not always calibrated to match human vision. Mission teams sometimes use filters or color processing to emphasize mineral differences, surface textures, or engineering details. A blue-looking sky in a Mars image does not necessarily mean a human standing there would see a blue sky.
+
+Dust also connects small particles to planet-scale climate. Individual grains are tiny, but when enough of them are lifted by wind, they absorb and scatter sunlight, warm parts of the atmosphere, cool parts of the surface, and change how much sunlight reaches solar panels. In that sense, Martian dust behaves less like household dust and more like a moving atmospheric ingredient.
+
+Pause and check your understanding.
+
+Why are Mars seasons not simply “Earth seasons, but colder”?
+
+The old seasonal-vegetation idea was therefore a misreading. Dark and bright patches can change, but dust movement and viewing geometry explain much of that behavior without requiring plant life.
+
+Major geological features of Mars.
+
+Mars has several large-scale features that organize nearly every discussion of its geology: the polar caps, the Tharsis Bulge, Valles Marineris, and the Hellas Basin. Mars has only about one quarter of Earth's surface area, roughly comparable to Earth's land area, so these features dominate a planet-sized landscape.
+
+One of the biggest mysteries is the difference between the northern and southern hemispheres. The northern lowlands are lower in elevation, less heavily cratered, and appear to have thinner crust. The southern highlands are higher, thicker, and much more cratered. This north-south dichotomy is not fully explained. One hypothesis is that a giant impact removed or thinned crust in the north. Other models connect the dichotomy to internal dynamics or early crust formation. The important point is not that we already know the answer, but that the surface pattern gives us a question to test.
+
+The dichotomy is like finding one side of an old building heavily scarred and the other side smoother and lower. You would immediately ask whether the two sides were built differently, damaged differently, resurfaced at different times, or altered by some later event. Planetary geologists ask the same style of question, only the “building” is an entire world.
+
+Cratering helps scientists estimate relative surface ages. Older surfaces usually have more impact craters because they have been exposed longer. Younger surfaces have fewer craters because lava, erosion, sediment, or other processes have erased older impacts. Crater counts are not as precise as radiometric dating, but they allow scientists to map broad eras in Martian history: the Noachian, Hesperian, and Amazonian. The logic is similar to comparing two sidewalks after years of hailstorms. The more dented sidewalk is probably older or less recently repaired, but you still need caution because resurfacing can erase the dents.
+
+The northern plains contain features that look like lava flows, suggesting that volcanism may have buried older craters. Some faint “ghost craters” remain, partly visible below the younger surface. Why the northern plains were resurfaced more than the southern highlands is still debated. Differences in crust thickness, volcanism, sediment transport, water, or impact history may all matter.
+
+Pause and check your understanding.
+
+Why does a heavily cratered surface usually indicate an older surface, and why is that still only an estimate?
+
+The surface of Mars is therefore a record, but not a simple one. As in Chapter 4, geology is useful because rocks, craters, minerals, and layers preserve traces of processes that are no longer active in the same way.
+
+Tharsis, Olympus Mons, and Valles Marineris.
+
+The Tharsis Bulge is an enormous volcanic province about 4,000 kilometers across. It sits mostly above the average Martian surface level and includes some of the largest volcanoes in the Solar System. Olympus Mons rises about 26 kilometers above the surrounding surface, roughly three times the height of Mount Everest above sea level. Its base is about 600 kilometers across, and its rim cliff is several kilometers high.
+
+Mars could build such huge volcanoes partly because it lacks Earthlike plate tectonics. On Earth, plates move over hot spots, so volcanic activity tends to form chains like the Hawaiian Islands. On Mars, a hot spot could remain under the same region for a long time. Lower surface gravity also helps volcanoes grow taller before their slopes fail. A kitchen analogy is holding a pancake batter dispenser over one spot instead of moving it across the pan: material piles up in one place rather than forming a trail.
+
+Olympus Mons is often introduced by its height because that is the easiest comparison to recognize. But height alone can be misleading, because it can make the volcano seem like a sharper or steeper version of a terrestrial mountain.
+
+The width comparison is important because you might otherwise imagine Olympus Mons as a giant version of Mount Everest. In reality, it is so broad that someone standing on its slopes might not easily recognize the entire structure as a single volcano.
+
+Valles Marineris is a vast system of canyons stretching thousands of kilometers, roughly across the width of the continental United States. It is several times deeper than the Grand Canyon. Its origin is still debated. It may be connected to tectonic stresses and uplift around Tharsis, but water, landslides, collapse, and erosion also shaped parts of the canyon system. Calling it the “Grand Canyon of Mars” is useful for scale, but it can be misleading if you imagine the same formation process. Similar-looking landforms can have different histories.
+
+Spectra and images from orbit show that some valleys and canyon walls contain layered rocks and minerals that formed in the presence of water. Those layers could have been produced by sedimentary processes, volcanic deposits, groundwater alteration, or combinations of these. If Tharsis uplift exposed rocks that were once underground, those layers may preserve environments where liquid water once interacted with crustal minerals. That makes them astrobiologically interesting even if they are not evidence for life by themselves.
+
+Pause and check your understanding.
+
+Why would layered rocks inside a canyon be more useful for astrobiology than a smooth, wind-blown plain?
+
+Surface features help scientists ask better questions: what process made this landform, when did it operate, and what environment did it require? Volcanic surfaces on Mars show that eruptions became less frequent over time as the smaller planet cooled. Some crater counts on volcanic slopes suggest geologically young surfaces, perhaps tens to hundreds of millions of years old. Martian meteorites found on Earth also show that pieces of Mars have been blasted into space and delivered to our planet.
+
+This is why Mars geology matters for astrobiology. A volcano, canyon, or crater is not only scenery; it is a clue to heat, water, crustal stress, burial, exposure, and preservation. Life detection depends on those conditions because even if life once existed, evidence would only survive in the right geologic settings.
+
+Evidence that water once flowed on Mars.
+
+The strongest reason Mars remains central to astrobiology is not Lowell's canals. It is the much better evidence that real liquid water once existed there. Orbital images from Mariner 9 and the Viking orbiters revealed features that looked like dry riverbeds and outflow channels. Later orbiters found many more channels, deltas, layered deposits, and minerals that strengthened the case. The shift is important: the old canal story depended on interpreting blurry lines as engineering, while the modern water story depends on many independent geological and chemical clues.
+
+Some channels appear to have been carved by rainfall or runoff. Others look like debris flows or catastrophic floods from underground sources. Crater counts suggest many valley networks formed roughly three billion years ago, when Mars likely had a warmer and thicker atmosphere. Impact craters also preserve clues: small craters are missing in some ancient terrains, and larger crater rims look softened or eroded, consistent with rainfall, flowing water, or water-rich sediment movement.
+
+Minerals provide an independent line of evidence. Spectra from orbit and measurements from rovers show hydrated minerals, meaning minerals that contain water or hydroxide in their structure. Clay minerals, hydrated sulfates, and hydrated silica all point to chemical interaction with water. Opaline silica is especially interesting because it can form in hot springs or hydrothermal environments, which are useful analogs for possible habitats.
+
+Minerals matter because they are not just colored rocks. They are chemical records of the conditions under which they formed or changed. A clay mineral is a little like a receipt left behind by water-rock chemistry: it does not show the water flowing, but it records that water helped rewrite the rock's chemistry.
+
+Pause and check your understanding.
+
+Why is the evidence for ancient water stronger when landforms, minerals, and rover measurements all point in the same direction?
+
+This is the same kind of reasoning used in geology on Earth. In Chapter 4, rocks and minerals were treated as records of past environments. On Mars, they play the same role, but the record is harder to read because we have fewer samples and cannot yet walk through the field site with a full laboratory.
+
+Rovers and the changing history of Martian water.
+
+Rovers strengthened the water story because they could examine rocks at the surface. Spirit, Opportunity, Curiosity, and Perseverance all found mineral evidence that liquid water once altered Martian rocks. Opportunity famously found tiny hematite-rich spheres nicknamed “blueberries” embedded in jarosite-bearing rocks. Hematite and jarosite can form in salty, acidic water, suggesting that Opportunity's site recorded a chemically harsh watery environment.
+
+Curiosity found a different story in Gale Crater. It explored clay-bearing sedimentary rocks, rounded pebbles, and mineral assemblages consistent with a former lake environment. Some of the oldest layers suggested relatively fresh, drinkable water by Earth standards, while younger layers higher on Mount Sharp recorded saltier and more acidic conditions. That difference matters. Mars did not simply go from wet to dry everywhere at once. Its water environments changed over time and from place to place.
+
+That layered history is similar to reading pages in a damaged book. The oldest pages are not always complete, and some pages may have been torn out or overwritten, but the order and texture of the remaining layers still carry information. Curiosity's climb through Gale Crater is powerful because it samples a sequence, not just a single point.
+
+Perseverance is adding a different kind of field site. Jezero Crater once held a lake fed by a river. The rover has examined delta deposits where river sediments accumulated in alternating layers. Some boulders suggest occasional flash floods strong enough to move large rocks. A delta is not automatically a biosignature, but it is an excellent place to preserve fine-grained sediments, organic molecules, and environmental context. On Earth, deltas are natural sorting machines: flowing water drops heavier material first and finer material later, building layered archives of changing conditions.
+
+Pause and check your understanding.
+
+Why might Curiosity and Opportunity find evidence for water but still describe very different ancient environments?
+
+The changing chemistry of Martian water is central to the search for life. A planet can be habitable in some places, at some times, and not others. The useful question is not simply “Was there water?” It is “What kind of water, for how long, with what chemistry, and in what geologic setting?” For life, water is not magic by itself. A brief, acidic, salty pulse is very different from a stable lake with usable chemical energy and gentle conditions. The word “water” hides many environmental possibilities.
+
+Floods, ice, and water that remains today.
+
+Some Martian channels look too large to be ordinary rivers. They appear to have been carved by catastrophic floods, sometimes with no obvious lake or reservoir upstream. One interpretation is that water or ice was stored underground and released suddenly. Impacts or volcanic heating could have melted subsurface ice, producing short-lived floods. These events may have been brief, but they still matter because temporary liquid water can create local habitats or preserve evidence of past environments.
+
+The distinction between long-lived rivers and sudden floods matters for habitability. A brief flood can carve a dramatic channel without providing a stable ecosystem for long. It is like a fire hose sprayed across dry ground: the water can reshape the surface quickly, but that does not mean the ground stayed wet for years.
+
+Mars still contains water today, mostly as ice. The polar caps are largely water ice, with seasonal carbon dioxide ice layered on top. The Phoenix lander found shallow subsurface ice hundreds of kilometers from the north pole. Orbital observations also show widespread ground ice. The amount of known ice would be enough to cover the planet in a global layer tens of meters deep, not enough to recreate a deep ocean by itself, but enough to show that water has not simply vanished. Some of it is stored in places that are cold, buried, or chemically protected, rather than exposed as liquid at the surface.
+
+The deuterium-to-hydrogen ratio, usually written deuterium to hydrogen, gives another clue. Ordinary hydrogen escapes to space more easily than heavier deuterium. If Mars lost a large amount of water, the remaining water should become enriched in deuterium. That is what scientists observe. The isotope evidence suggests that ancient Mars had substantially more water than modern Mars.
+
+Try the numbers: global equivalent layer.
+
+Planetary scientists often describe water inventory using a global equivalent layer: the depth of water you would get if the same volume were spread evenly over the whole planet. Suppose the known water ice could make a 25 meters global layer. If ancient Mars once had enough water for a 100 meters global layer, then the known ice would represent
+
+25 meters divided by 100 meters equals 0.25,
+
+or about25 percentof that simple ancient-water estimate.
+
+See the Python snippet given in the course lecture notes.
+
+Claims of liquid water on Mars today are more uncertain. Some dark streaks and gullies once looked like possible flows, but later studies suggest many are better explained by dry granular movement, dust, frost, or salts. A more plausible place for present-day liquid water is below the surface, where pressure is higher, temperatures can be less extreme, and salts can lower the freezing point. Even if brines exist today, the total amount of liquid water would be small compared with the ancient water record.
+
+This is why the chapter keeps separating water evidence into ancient surface water, modern ice, and possible modern brines. They are not interchangeable. Ancient rivers speak to past climates and possible surface habitats. Modern ice tells us where water is stored now. Possible brines would matter for present habitability, but they would be local, chemically challenging, and difficult to confirm.

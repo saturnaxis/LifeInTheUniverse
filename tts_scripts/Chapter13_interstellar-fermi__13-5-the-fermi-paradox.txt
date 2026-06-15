@@ -1,0 +1,63 @@
+The Fermi paradox.
+
+“Where is everybody?”.
+
+The Fermi paradox begins with a simple tension. The Milky Way is old. It contains hundreds of billions of stars. Many stars are older than the Sun. Exoplanets are common. If life can lead to technological civilizations, then some civilizations may have had billions of years of head start. If even one of those civilizations developed reliable interstellar travel and chose to expand, it might have spread widely through the Galaxy long before humans appeared. Yet we do not see obvious evidence of a galactic civilization.
+
+The tension becomes sharper because many proposed advanced technologies already exist at least as physical speculations: nuclear starships, laser sails, self-replicating probes, antimatter rockets, ramjets, and spacetime shortcuts. We do not know that any of them are practical, but the list makes the question harder to dismiss. If advanced civilizations are common and some technology enables expansion, why is there no obvious interstellar highway system, no visible engineering network, and no confirmed visitation?
+
+Enrico Fermi is associated with the question “Where is everybody?” during a 1950 lunch conversation at Los Alamos. The modern “Fermi paradox” is broader than that lunch remark. Robert Gray has argued that the common version is better called the Fermi-Hart problem because Michael Hart's published argument made the absence of extraterrestrials on Earth central to the reasoning; see Gray (2015) and Hart (1975). The historical detail matters because it keeps us from treating a lunch question as if it were a finished proof.
+
+The paradox can be stated as two claims that seem hard to hold together:
+1. Earth and humanity are probably not cosmically special, so older technological civilizations may exist somewhere in the Galaxy.
+2. A mature galactic civilization should produce evidence that we would notice, but we do not see such evidence.
+
+The contradiction may be apparent rather than real. Maybe one of the assumptions is wrong. Maybe technological life is rare. Maybe expansion is slow or undesirable. Maybe civilizations self-destruct. Maybe evidence exists but is hard to recognize. Maybe civilizations deliberately avoid contact. The value of the paradox is that it forces the assumptions into the open.
+
+This is why the Fermi paradox is different from a pure logical paradox such as “This statement is false.” A logical paradox may have no ordinary empirical solution. The Fermi paradox should have a solution in the real universe, even if we do not know it yet. Some assumption about life, technology, behavior, survival, evidence, or timescale must be wrong or incomplete.
+
+The first scientific habit here is humility. “We do not see them” is an observation. “Therefore they do not exist” is an interpretation. That interpretation might turn out to be correct, but it requires additional assumptions. In this course, the careful position is that no extraterrestrial life has been confirmed, no extraterrestrial technology has been confirmed, and the absence of obvious evidence is itself a fact that any theory of technological life should take seriously.
+
+Timescales make the paradox sharp.
+
+The Fermi paradox becomes sharper when we compare timescales. The universe is about 13.8 billion years old. Earth is about 4.5 billion years old. If rocky planets and life need several billion years before technological intelligence can appear, there has still been enough time for some planets to get a major head start. In Chapter 10, old planetary systems such as Kepler-444 were examples of planets forming early in Galactic history. Even if many early planets were poor candidates for life, the Galaxy has had a long time to experiment.
+
+Some planets formed around 11 billion year ago, only about 2.8 billion years after the Big Bang. Those early systems may not all have been good homes for life, because heavy elements, supernova rates, and stable environments changed over Galactic history. Still, the point remains: Earth is not automatically first just because Earth is the only inhabited world we know.
+
+Suppose, for the sake of argument, that some planets formed life-bearing environments billions of years before Earth. A civilization with a 5-billion-year head start would not just be somewhat older. It would be older by a timescale much longer than the entire history of complex animals on Earth. Human technology went from the first powered aircraft to spacecraft in about a century. It would be reckless to assume that a civilization 50,000 years older than ours must have a particular technology, but it would also be naive to assume that its technology would look only slightly ahead of ours.
+
+A simple Drake-equation-style estimate makes the issue visible. If the Milky Way has ten to the 11 stars and the chance that any star system ever produces a technological civilization is one in a million, then about ten to the 5 civilizations would have existed at some time. Spread across 5 billion years, that gives a new civilization about every 50,000 years on average. These numbers are not known. They are placeholders for the argument. But they show why even a small probability can become large when multiplied by a Galaxy.
+
+See the Python snippet given in the course lecture notes.
+
+The calculation is deliberately simple, but it captures the heart of the paradox. If technological civilizations are not extremely rare, and if they survive and expand, then the Galaxy has had enough time for many attempts. The question is why none of those attempts has produced unmistakable evidence around us.
+
+Pause and check your understanding.
+
+Which assumption in the simple timing estimate would you change first if you wanted to make the Fermi paradox less surprising: the number of stars, the chance of civilization, the time window, or the assumption that civilizations expand?
+
+The paradox is therefore not merely “space is big.” Space is big, but time is also long. If travel at 0.1c is possible for advanced technology, and if settlement waves can reproduce from star to star, then even slow expansion could matter over millions of years. That leads to the next question: would civilizations really colonize the Galaxy?
+
+Self-replicating machines and the Tipler argument.
+
+One way around the biological problem is to send machines instead of people. Machines do not need breathable air, food, sleep, or social stability. They can be made small, shielded, redundant, and specialized. If a machine can also reproduce using local resources, it becomes a von Neumann probe: a self-replicating machine that can make copies of itself and send those copies onward.
+
+The idea is powerful because replication changes the scale of exploration. One probe is slow. A fleet of probes is better. A probe that can build more probes at each destination becomes a spreading process. If each settled system can send probes to several new systems, the expansion front grows. That is why von Neumann probes became central to strong versions of the Fermi paradox.
+
+A von Neumann probe would not need to colonize the way people do. It could be sent to dig up resources, build factories, make replacement parts, manufacture daughter probes, or prepare a system for later settlement. The key requirement is self-replication using local materials. Once that exists, a single launch can become a branching machine lineage.
+
+Tipler's wording was intentionally forceful: if civilizations were common, the Galaxy should already be overrun by their machines, and set-ee would be a waste of time. That conclusion is useful pedagogically because it shows the strongest version of the machine-colonization argument. It is also exactly why the assumptions must be inspected instead of accepted silently.
+
+Tipler (1980) argued that if extraterrestrial civilizations were common and if self-replicating probes were feasible, the Solar System should already have been visited or transformed by them. Since we do not see such machines, Tipler concluded that extraterrestrial intelligence does not exist. That is a strong conclusion, and it depends on strong assumptions.
+
+The assumptions deserve attention. The probes must survive interstellar travel. They must reliably identify useful resources. They must reproduce without fatal errors. They must not be designed with strict limits. Their search pattern must eventually include our region. They must not break down, choose not to enter inhabited systems, or hide. If any of those assumptions fails, the absence of von Neumann probes becomes less decisive.
+
+For example, probes might be destroyed in transit, limited by dust impacts, or unable to repair accumulated errors. Their search pattern might not be random or exhaustive. They might be programmed to avoid inhabited systems. They might have reached some sectors and not ours. They might even be easy to destroy once detected. These are not excuses to ignore the paradox; they are reminders that a strong conclusion requires a strong model.
+
+A response by Newman Sagan (1981) emphasized that population growth, travel, and diffusion through the Galaxy need not produce simple runaway colonization. Later work has continued to challenge the assumption that faster expansion is inevitable or sustainable. For example, Haqq-Misra Baum (2009) argued that a sustainability perspective changes how we think about the paradox: civilizations might survive precisely by not expanding exponentially.
+
+Pause and check your understanding.
+
+Why is a self-replicating probe a stronger Fermi-paradox argument than a crewed starship, and what assumptions does that stronger argument require?
+
+Self-replicating machines make the paradox sharper, but they do not solve it. They show that the absence of evidence is interesting. They do not prove that life, intelligence, or civilizations are absent everywhere else.

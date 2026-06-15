@@ -1,0 +1,55 @@
+Runaway Greenhouse: Model, History, and Misconceptions.
+
+The phrase runaway greenhouse effect is often used loosely. In astrobiology, it has a more specific meaning. A runaway greenhouse occurs when a wet planet absorbs more solar energy than it can lose through thermal infrared radiation while maintaining a stable ocean. Water evaporates, water vapor increases the greenhouse effect, the atmosphere becomes more opaque to infrared radiation, and the surface warms further. If the feedback cannot be stopped by condensation, clouds, or atmospheric circulation, the ocean can be driven into the atmosphere and eventually lost.
+
+The key word is runaway. Ordinary greenhouse warming does not automatically run away. On Earth, warmer air can hold more water vapor, and water vapor strengthens greenhouse warming, but water also condenses into clouds and rain. The water cycle limits how much water vapor remains in much of the atmosphere. A runaway greenhouse is different because the atmosphere becomes hot and moist enough that condensation can no longer keep the feedback under control. The planet crosses from a water-on-the-surface problem into a water-in-the-atmosphere problem.
+
+The origins of the runaway greenhouse idea.
+
+The classical runaway greenhouse model developed from attempts to understand why Venus is so different from Earth and how the inner edge of the habitable zone should be defined. The idea is tied to a radiation limit. As a water-rich atmosphere warms, it contains more water vapor. Since water vapor is an efficient infrared absorber, the atmosphere can become so optically thick that adding more surface heat no longer produces a proportional increase in outgoing infrared radiation. The planet approaches a maximum rate at which it can cool to space.
+
+This is the historical reason Venus matters so much to the habitable-zone idea. The inner edge of the habitable zone is not just “where it gets uncomfortable.” It is where a water-bearing planet can no longer keep surface oceans stable over geologic time. Goody and Walker's classical discussion framed the problem in terms of how water vapor pressure, temperature, and distance from the Sun affect whether water can remain liquid or whether it is driven into the vapor state. The figure later in this section is a course-level reconstruction of that idea, not a detailed modern Venus climate simulation.
+
+If absorbed sunlight exceeds that cooling limit, a stable ocean cannot persist. Surface water evaporates faster than the planet can radiate the extra energy away. In the simplest one-dimensional models, this creates a threshold between a planet that can maintain surface oceans and a planet that transitions into a steam atmosphere.
+
+This simple picture is useful, but it can be misleading if presented as a complete Venus history. Real planets have clouds, atmospheric circulation, day-night contrasts, changing surface chemistry, volcanic outgassing, atmospheric escape, and interior evolution. Venus' current state likely required coupled evolution of its atmosphere and geology, not just one moment when a thermostat broke.
+
+Pause and check your understanding.
+
+In a runaway greenhouse model, why does the ocean make the warming feedback stronger rather than weaker?
+
+Goldblatt et al. (2013) and the hard part of making Earth run away.
+
+Goldblatt et al. (2013), Low simulated radiation limit for runaway greenhouse climates, is important because it sharpened the radiation-limit problem. Their calculations found a thermal radiation limit of about 282 watts per square meter and argued that a steam atmosphere could be a stable state for a planet receiving roughly Earth's present sunlight. They also emphasized that avoiding a runaway greenhouse on Earth requires the atmosphere to remain subsaturated with water and for the albedo effect of clouds to exceed their greenhouse effect.
+
+The nuance here is that this does not mean ordinary additions of carbon dioxide make Earth become Venus. Goldblatt and colleagues were studying the limiting physics of a hot, water-rich atmosphere. Later discussion of high-carbon-dioxide cases also shows why the problem is not as simple as “add carbon dioxide until runaway.”
+
+A less jargon-heavy way to say this is that carbon dioxide has two competing effects. It absorbs infrared radiation, which tends to warm the planet. But it also scatters incoming sunlight, especially when the atmosphere becomes very thick, which tends to cool the planet by reflecting more sunlight back to space. In some model cases, adding a great deal of carbon dioxide does not simply push the planet toward a runaway greenhouse. The reflection effect can offset much of the added greenhouse effect. In very high-carbon-dioxide atmospheres, additional carbon dioxide can increase infrared opacity, but it also increases Rayleigh scattering of sunlight and can raise planetary albedo. Under cases as high as roughly 1000 times modern carbon dioxide, the net radiative effect can still be cooling in the sense that the added carbon dioxide reflects enough sunlight to offset part of its greenhouse warming. The key runaway ingredient is not just carbon dioxide; it is the transition into a hot, moist or steam-rich atmosphere where water vapor dominates the feedback.
+
+That point matters for how we talk about Earth. Earth can be harmed severely by greenhouse warming long before anything resembling a Venus runaway greenhouse occurs. A few degrees of global warming can transform coastlines, heat waves, ecosystems, agriculture, rainfall patterns, and ice sheets. Those are serious climate problems. They are not the same as boiling the oceans. Keeping those two ideas separate makes the science clearer rather than weaker.
+
+Human-caused climate change is real and serious, but the Venus runaway greenhouse is not the expected outcome of burning fossil fuels. Earth's current climate risk is not that modern industry will turn Earth into Venus. The risk is that rapid greenhouse forcing disrupts the climate system, sea level, ecosystems, agriculture, and human infrastructure. Venus is still relevant, but as a planetary boundary case, not as a direct forecast for the next few centuries.
+
+Why Earth did not undergo a runaway greenhouse.
+
+Earth lacked the conditions needed for its greenhouse effect to run away. It received less sunlight than Venus, especially when the young Sun was fainter. Its surface cooled enough for water vapor to condense into rain and form oceans. Once oceans existed, carbon dioxide could dissolve in water and become stored in carbonate rocks. Earth's atmosphere also did not become permanently steam-rich, so the water-vapor feedback remained limited by condensation.
+
+Clouds and atmospheric circulation matter too. Real Earth is not a saturated one-dimensional column. Dry regions, convection, cloud reflection, and weather patterns all affect how much sunlight is absorbed and how much infrared radiation escapes. Earth's long-term climate is stabilized by the carbonate-silicate cycle, but that cycle depends on surface liquid water, exposed rock, volcanism, and plate tectonics or at least some form of long-term crustal recycling. Remove the water, and the feedback changes. Remove the recycling, and atmospheric carbon can build up or be lost in different ways.
+
+The deepest lesson is that Earth and Venus are fundamentally different planetary systems today. Venus' atmosphere is about 5 times more massive than Earth's atmosphere and produces an infrared optical depth that Earth does not approach. Venus receives about twice Earth's sunlight. Venus' interior and resurfacing history also appear different from Earth's plate-tectonic carbon cycle. These differences are independent of human activity. Human activity is changing Earth's climate, but it is not changing Earth's orbit to 0.72 astronomical units, giving Earth a Venus-mass carbon dioxide atmosphere, or removing Earth's oceans into space.
+
+The better comparison is this: Venus teaches us that atmosphere and geology can push a rocky planet into a radically different stable state. Earth teaches us that oceans, rocks, and climate feedbacks can keep a planet habitable for billions of years, but not that the system is immune to change. Human-caused warming is a major environmental disruption inside Earth's current climate system. Venus is a warning about planetary feedbacks and boundaries, not a literal near-future forecast.
+
+Pause and check your understanding.
+
+Why is it misleading to use Venus as a direct prediction for modern human-caused climate change?
+
+Was early Venus ever habitable?
+
+Early Venus remains one of the most interesting open questions in comparative planetology. The Sun was about 30 percent fainter when the Solar System was young. A young Venus at 0.72 astronomical units may have received only slightly more sunlight than modern Earth receives today. If Venus rotated slowly even then, cloud patterns on the dayside might have reflected enough sunlight to allow temperate conditions in some models. Oceans and rain may have been possible.
+
+But the evidence is hard to recover. Venus' surface appears to have been heavily modified by volcanism and resurfacing, so old rocks that could preserve direct evidence of early oceans are difficult to find or may no longer exist at the surface. This is a major reason future Venus missions matter. They can measure atmospheric composition, noble gases, isotopes, surface mineralogy, and volcanic activity to constrain whether Venus was always dry, briefly wet, or habitable for a substantial time.
+
+The answer matters for exoplanets. If Venus was never habitable, then the inner edge of the habitable zone may be relatively far from the Sun for Earth-like planets. If Venus was habitable for billions of years before losing its water, then some planets near the inner edge might have long habitable windows before they cross a runaway or moist-greenhouse threshold. Either way, Venus is a test case for how habitability evolves, not just where it begins.
+
+This uncertainty is not a failure of science. It is the reason Venus is scientifically valuable. A simple story would be easy: Venus formed dry, stayed dry, and was never habitable. Another simple story would be: Venus was once Earth-like and then became a hothouse. The evidence does not yet force one clean answer. The next generation of Venus measurements is meant to narrow the possibilities by looking for atmospheric, isotopic, surface, and interior clues that still survive.

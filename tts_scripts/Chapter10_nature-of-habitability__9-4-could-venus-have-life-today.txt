@@ -1,0 +1,19 @@
+Could Venus Have Life Today?
+
+The surface of Venus is not a plausible habitat for life as we know it. The temperature is far too high for liquid water or stable organic chemistry, and the pressure is crushing by Earth standards. The surface is also chemically hostile and dry. If Venus has any potentially habitable environment today, it would have to be above the surface, in the clouds.
+
+The cloud-life hypothesis.
+
+At altitudes of roughly 50 to 60 kilometers, Venus' atmosphere has temperatures and pressures that are much closer to Earth surface conditions. That does not make the clouds comfortable. They are dominated by sulfuric acid droplets, contain very little water, and are exposed to a chemically extreme environment. Still, cloud habitability has been discussed because it is the only place on Venus today where temperature and pressure are not immediately disqualifying.
+
+The cloud-life idea became more visible after reports of phosphine in Venus' atmosphere. Phosphine is interesting because on Earth it can be associated with biological or industrial processes, and it is chemically difficult to maintain in some oxidizing environments without a source. However, the Venus phosphine claim has been heavily debated, and other groups have questioned the detection and interpretation. At this point it is not evidence of life. It is, at most, a disputed atmospheric chemistry puzzle.
+
+That distinction is exactly the standard we have used throughout the course. A possible biosignature is not the same thing as a confirmed biosignature. A gas becomes interesting when it is hard to explain without biology, but the hard part is proving that non-biological explanations are inadequate. For Venus, the clouds are chemically complex, observations are difficult, and the signal has been debated. The scientifically useful response is not to dismiss the idea, and not to declare life. The useful response is to ask what measurements would settle the chemistry.
+
+Future Venus missions are the right way forward, but the mission names should be handled carefully because schedules and program details can change. NASA currently describes DAVINCI and VERITAS as separate, complementary Venus missions. DAVINCI is a flyby and atmospheric-probe mission that will measure Venus' atmosphere directly during descent, including gases and isotopes that preserve clues to atmospheric history. VERITAS is a planned orbiter that will use radar and infrared observations to map the surface and investigate Venus' geologic evolution. Together, they address the same larger question from different directions: how did Venus' interior, surface, atmosphere, and water history become so different from Earth's?
+
+As of the current NASA mission pages, DAVINCI is listed as a future Venus flyby and atmospheric-probe mission with a tentative 2030 launch, while VERITAS is listed as a future Venus orbiter with launch no earlier than 2031. They are not described by NASA as a single combined mission. The important course-level point is that the two mission types answer different questions. A descent probe can sample the atmosphere directly and trace chemical history during its fall. An orbiter can map the surface and search for signs of tectonics, volcanism, and crustal evolution across the planet.
+
+Pause and check your understanding.
+
+Why would a disputed gas detection in Venus clouds not count as confirmed life?

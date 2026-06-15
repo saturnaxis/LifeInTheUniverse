@@ -1,0 +1,35 @@
+Mars.
+
+Mars has always been close enough to tempt us and far enough away to mislead us. Through a small telescope, the planet shows a disk, a reddish color, bright polar caps, and dark markings that can appear to shift with the seasons. Those observations were enough for earlier generations to imagine vegetation, canals, and civilizations. Modern spacecraft have replaced that picture with something stranger and more useful: a cold desert world that is not inhabited on its surface today, but that preserves strong evidence for ancient water and possible past habitats.
+
+A useful way to think about Mars is as a nearby “crime scene” for planetary history. We cannot watch ancient rivers flow or see the atmosphere escape billions of years ago. Instead, we study clues left behind: eroded landforms, crater counts, mineral chemistry, isotopes, meteorites, and rover measurements. None of those clues is complete by itself. The power comes from asking whether different clues tell a consistent story.
+
+This chapter is not about proving that Mars has life. It is about learning how scientists move from a tempting idea to a testable claim. Mars gives us a near-perfect case study because the history of Mars science runs from speculation, to telescopic argument, to spacecraft exploration, to chemical experiments, to sample-return planning. The scientific question has narrowed over time. Instead of asking whether a visible civilization lives on Mars, we now ask whether Mars ever had environments where microbial life could have arisen or survived.
+
+That narrowing is not a defeat. It is what progress often looks like. A vague question such as “Are there Martians?” becomes several sharper questions: Was there stable liquid water? What minerals formed in that water? Did the atmosphere last long enough? Could organics be preserved? What nonbiological processes can mimic life? Each sharper question is less dramatic, but it is more testable.
+
+Fantasies of Martian civilization.
+
+Mars entered popular culture before it entered modern planetary science. That matters because the first major lesson of Mars is not about geology or chemistry. It is about evidence. People can look at a real object, collect real observations, and still build a story that goes beyond what the evidence supports.
+
+From channels to canals.
+
+In the late eighteenth century, William Herschel observed Mars and noticed some familiar-looking features. Mars has a day that is close to Earth's: about 24 hours and 37 minutes. Mars also has polar caps. Those similarities made it easier to imagine that Mars might have Earthlike seasons and perhaps Earthlike inhabitants. The idea was not irrational for the time, but it rested on analogy rather than direct evidence. Analogy is useful in science, but it is only a starting point. Seeing that two worlds share one feature is like noticing that two houses both have chimneys; it does not tell you that the rooms, plumbing, or occupants are the same.
+
+The story became much larger after the 1877 opposition of Mars, when the Italian astronomer Giovanni Schiaparelli described linear-looking markings using the word canali. In Italian, the word can mean channels. In English popular culture, it was widely rendered as canals. That translation mattered. A channel could be a natural feature. A canal sounds engineered. The word helped turn a blurry telescopic impression into a story about intelligent Martians.
+
+Percival Lowell pushed the canal interpretation further. He built an observatory in Flagstaff, Arizona, in 1894, partly because the dry air helped reduce atmospheric blurring. Over about twenty years, Lowell claimed to map hundreds of canals on Mars. He assumed the polar caps were water ice and imagined a dying Martian civilization using canals to move water from the poles toward the equator.
+
+Lowell's story was powerful because it had a narrative. It pictured Mars as a warning: an old, drying world where intelligent beings struggled to survive. H. G. Wells published The War of the Worlds in 1898, and Orson Welles's 1938 radio adaptation later helped cement Mars as the planet of invasion, panic, and alien civilization.
+
+This kind of story is attractive because it connects scattered observations into a human drama. The danger is that a good story can feel explanatory before it has earned that status. In astrobiology, a story is not enough. A claim about life has to survive independent observations, physical constraints, and competing explanations.
+
+Other scientists were not convinced. Many astronomers did not see Lowell's canal network, even with larger telescopes. Alfred Russel Wallace, who independently developed the idea of natural selection, argued from physical conditions that Mars was probably too cold for open liquid water. Wallace also pointed out a simple engineering problem: Lowell's canals were drawn as straight lines stretching hundreds or thousands of miles, while real canals and rivers follow topography.
+
+Wallace's objection is a good example of using more than eyesight. Telescopic observing asked, “What do I think I see?” Physical reasoning asked, “Could that interpretation work on a real planet?” Those are different tests. A drawing of straight lines may be suggestive, but temperature, pressure, gravity, and topography can make the suggested interpretation unrealistic.
+
+Pause and check your understanding.
+
+Why did the translation from canali to canals change the kind of claim people thought was being made about Mars?
+
+Some of Lowell's lines corresponded roughly to real features, such as canyons or albedo boundaries, but the canal network itself was not a real Martian civilization. A better explanation is pareidolia, the tendency to see meaningful patterns in ambiguous data. That does not mean Lowell was foolish. It means he was human. Individual scientists can see what they expect to see. The strength of science is that a community can test, compare, and eventually correct those interpretations.

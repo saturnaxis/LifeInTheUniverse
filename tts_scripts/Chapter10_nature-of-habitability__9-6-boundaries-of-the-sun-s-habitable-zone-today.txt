@@ -1,0 +1,51 @@
+Boundaries of the Sun's Habitable Zone Today.
+
+The inner and outer edges of the Sun's habitable zone are not single observed facts. They are model results. Different assumptions about clouds, atmospheric composition, surface pressure, rotation, and planetary mass lead to different boundaries.
+
+For that reason, habitable-zone boundaries are usually given as ranges rather than exact values. A model can ask where an Earth-like planet would enter a runaway greenhouse, where it would lose water slowly through a moist greenhouse, where carbon dioxide clouds or scattering begin to limit warming, or where empirical Solar System examples suggest past water was possible. These are related questions, but they are not identical questions.
+
+The inner edge is especially sensitive because water vapor is a greenhouse gas and because clouds can either cool or warm depending on their height, thickness, and distribution. A rapidly rotating planet, a slowly rotating planet, and a tidally locked planet can have different cloud patterns. A planet with continents arranged differently from Earth can have different weathering and circulation. Even the same orbit can give different answers when the atmosphere is allowed to respond in different ways.
+
+A conservative inner edge is usually tied to water loss: either a moist greenhouse, where the upper atmosphere becomes wet enough for water to escape over time, or a runaway greenhouse, where oceans become unstable. The outer edge is usually tied to the ability of carbon dioxide to keep a planet warm. Farther from the Sun, a planet would need more greenhouse warming. But beyond some point, adding carbon dioxide no longer helps enough because carbon dioxide can condense and because increased scattering reflects sunlight.
+
+A runaway greenhouse boundary for an Earth-like planet around the Sun is often placed near 0.84 astronomical units in optimistic inner-edge estimates. A moist greenhouse boundary, where water can be lost gradually over long times, is often placed farther out, near 0.95 astronomical units. These values should not be memorized as fixed truths. They are model-dependent markers that show the difference between rapid ocean instability and slower water loss.
+
+The outer edge has the same problem in reverse. A colder planet can be warmed by adding carbon dioxide, but only within limits. A conservative outer edge is often near 1.4 astronomical units, while more optimistic estimates can extend toward 1.7 astronomical units. Mars lies at 1.52 astronomical units, which is why early Mars remains so important. It had evidence of liquid water, but not necessarily because it sat comfortably inside a stable Earth-like habitable zone. It may have had a thicker atmosphere, additional greenhouse gases, intermittent warming, impacts, volcanism, or subsurface environments.
+
+Empirical boundaries use Venus and Mars as guideposts. Venus is not habitable today, but early Venus may or may not have been habitable. Mars is not surface-habitable today, but early Mars clearly had liquid water in some environments. These worlds provide real Solar System constraints, but they are not clean laboratory experiments. They each have their own histories.
+
+This produces three useful categories. An optimistic estimate asks how wide the zone could be under favorable assumptions, roughly 0.84 to 1.7 astronomical units for the Sun in the numbers used here. A conservative estimate asks where long-term surface liquid water is more defensible under stricter assumptions, roughly 0.95 to 1.4 astronomical units. An empirical estimate uses the Solar System guideposts of Earth, Venus, and Mars, roughly 1.0 to 1.52 astronomical units if one emphasizes Earth and early Mars. None of these is “the correct answer” by itself.
+
+The key habitability conclusion is that the inner edge of the habitable zone must lie somewhere between modern Earth and Venus for Earth-like planets around the Sun. Earth has maintained surface oceans for billions of years. Venus has not. The exact boundary depends on the model and on the planet's history. That uncertainty is not a weakness; it is the point of comparative planetology.
+
+For mission design, approximate boundaries are still valuable. A telescope team deciding which exoplanets deserve deeper atmospheric observations needs a way to rank targets. A planet in the conservative habitable zone around a quiet star is a stronger first target than a planet far inside the runaway limit. But the ranking is only the beginning. Once a candidate is found, the next questions become atmospheric: Does it have air? Does the atmosphere contain water vapor, carbon dioxide, methane, oxygen, or other gases? Is the planet more like Earth, Venus, Mars, Titan, or something we have not yet seen?
+
+Pause and check your understanding.
+
+Why do Venus and Mars help define empirical habitable-zone boundaries even though neither planet is surface-habitable today?
+
+Try the numbers.
+
+The young Sun was fainter. If the Sun was about 70 percent as bright as today, then early Venus received roughly
+
+0.70 times 1.9 is approximately equal to 1.3
+
+times modern Earth's sunlight. Early Venus was still more strongly irradiated than Earth, but not by as much as modern Venus is today. That is why early Venus habitability remains a real scientific question.
+
+The continuously habitable zone.
+
+The habitable zone changes as the Sun changes. This is where a common mistake appears: the habitable zone is not one fixed ring drawn around the Sun forever. The Sun was fainter in the past, so the region where surface liquid water was easiest to maintain was closer to the Sun. As the Sun brightens, that region slowly shifts outward.
+
+In this course, the continuously habitable zone, or C H Z, means the region where liquid water has been possible over the last 4.5 billion years. The phrase does not mean that a planet definitely had water for all that time. It also does not mean life was present. It means that, according to a chosen habitability model, an Earth-like planet at that distance could have remained within the surface-liquid-water zone across the age of the Solar System.
+
+The C H Z is therefore an overlap region. Imagine drawing the Sun's habitable zone when the Solar System was young, then drawing it again today. The C H Z is the part that stays inside the habitable zone across the whole time interval being considered. A planet can be in the habitable zone today but not in the C H Z if it would have been too cold earlier. A planet can also have been in the C H Z for the past 4.5 billion years and still be uninhabited if it lacked water, the right atmosphere, geological recycling, or the chemical conditions needed for life.
+
+The C H Z is easiest to misunderstand if it is treated as a place where life must have existed continuously. That is not what the term means in this course. It is a climate-possibility definition. It asks whether a planet at a given distance could have had surface liquid water during the last 4.5 billion years as the Sun brightened. A sterile planet could still lie in the C H Z. A planet with subsurface life could lie outside the C H Z. A planet could also lie in the C H Z and lose habitability because of atmospheric escape, giant impacts, or a failed carbon cycle.
+
+Earth is special in this discussion because it appears to have remained within the surface-water range for most of Solar System history. Venus probably sat too close to the inner edge for long-term surface water under many assumptions. Mars may have been more favorable earlier, but as the Sun brightened the habitable zone shifted outward while Mars also lost atmosphere and cooled internally. The C H Z combines stellar evolution with planetary climate, but it still does not replace the geology.
+
+Pause and check your understanding.
+
+In this course, why does the C H Z mean “possible liquid water over the last 4.5 billion years ” rather than “life has existed there continuously”?
+
+See the Python snippet given in the course lecture notes.

@@ -1,0 +1,103 @@
+Venus as an Example in Potential Habitability.
+
+Venus is the planet that forces us to be precise. It is close to Earth in size and mass, and it almost certainly formed from broadly similar Solar System materials. Yet its surface today is hot enough to melt lead, its atmosphere is mostly carbon dioxide, its pressure is about 92 times Earth's surface pressure, and its surface is dry. Venus is not just a slightly warmer Earth. It is a different planetary outcome.
+
+That outcome is especially important because Venus is not an obviously hopeless planet from its basic properties alone. It is almost the same size as Earth, has nearly the same surface gravity, and formed in the same inner Solar System. If we only knew that Venus was a rocky planet near Earth's size, we might put it high on a list of potentially habitable worlds. The actual Venus teaches the opposite lesson: bulk properties are not enough. The arrangement of atmosphere, water, and rock matters.
+
+The comparison also helps us avoid a common mistake. It is tempting to say that Venus is hot because it is closer to the Sun. That is true in the same way that saying a fire is hot because it gives off heat is true: it points in the right direction but misses the mechanism. Modern Venus is hot because its atmosphere and climate history turned extra sunlight into an extreme greenhouse state. Without that atmosphere, Venus would still be warmer than Earth, but it would not be the planet we see today.
+
+Why sunlight alone does not explain Venus.
+
+Venus orbits at about 0.72 astronomical units, which means it is about 28 percent closer to the Sun than Earth. Because sunlight follows an inverse-square law, Venus receives about 1/0.72 squared, or about 1.9 times as much solar energy per square meter as Earth does. That difference matters, especially for early Venus when the young Sun was fainter. But it is not enough by itself to explain modern Venus.
+
+If Venus had an Earth-like atmosphere, it would be warmer than Earth, but not nearly as hot as it actually is. Its present extreme temperature comes from the combination of stronger sunlight, an enormous atmosphere, and a greenhouse effect dominated by carbon dioxide. Venus has roughly similar total carbon inventory to Earth if we count carbon locked in Earth's rocks, but the location of that carbon is totally different. Earth's carbon is mostly in carbonate rocks and the ocean-atmosphere-rock system. Venus' carbon is mostly in the atmosphere.
+
+The phrase “carbon inventory” is worth slowing down over. A planet can have a large amount of carbon without having a large amount of carbon dioxide in the air. On Earth, much of the carbon is hidden in rocks, sediments, and the ocean. On Venus, the accessible carbon is overwhelmingly in the atmosphere. The difference is not simply how much carbon the planets received. It is where the carbon ended up after billions of years of atmospheric chemistry, surface reactions, volcanism, and possible water loss.
+
+Another way to see the contrast is to compare the present atmospheres directly. Venus has vastly more carbon dioxide in its atmosphere than Earth does, often summarized as about 200,000 times more atmospheric carbon dioxide. That number does not mean Venus necessarily formed with 200,000 times more total carbon. It means Earth removed most of its accessible carbon from the atmosphere and stored it in oceans, sediments, and carbonate rocks, while Venus did not maintain the same removal pathway.
+
+Venus' atmosphere is also not just carbon-rich; it is thick. The surface pressure is about 92 bars, meaning the pressure at Venus' surface is comparable to being nearly a kilometer underwater on Earth. Because Venus' surface gravity is lower than Earth's, that pressure corresponds to an atmosphere with several times the mass of Earth's atmosphere. A useful plain-language statement is that Venus' atmosphere is roughly five times thicker by mass than Earth's atmosphere. That thickness matters because greenhouse warming depends not only on which gases are present, but also on how much infrared-absorbing gas lies above the surface.
+
+Try the numbers.
+
+Venus receives about 1.9 times as much sunlight as Earth because flux follows an inverse-square law.
+
+The flux received by Venus divided by the flux received by Earth equals the quantity 1 astronomical unit divided by 0.72 astronomical units, squared. That ratio is approximately 1.9.
+
+This is a large difference, but it does not by itself explain a surface temperature near 735 kelvin. The atmosphere has to be part of the explanation.
+
+See the Python snippet given in the course lecture notes.
+
+The numerical comparison helps prevent a common oversimplification. Venus is closer to the Sun, and that matters. But the huge difference between Venus and Earth is not simply the 0.72 astronomical unit orbit. The difference is that Venus' atmosphere is massive, dry at the surface, and carbon-dioxide dominated. Venus' atmosphere is roughly 5 times more massive than Earth's atmosphere even after accounting for surface gravity differences, and its surface pressure is far higher. A thicker atmosphere has a greater infrared optical depth, meaning it is harder for thermal radiation from the warm lower atmosphere and surface to escape directly to space.
+
+Optical depth is a way of measuring how difficult it is for radiation to pass through a material. A window has low optical depth to visible light because you can see through it. A wall has high optical depth because visible light does not pass through. A greenhouse atmosphere can be mostly transparent to incoming sunlight but optically thick to outgoing infrared radiation. Venus has many absorbing layers above the surface, so infrared light emitted near the ground is very unlikely to escape directly to space.
+
+This does not mean that heat can never leave Venus. Energy must still escape to space, or the planet would warm without limit forever. The important point is where the escaping radiation comes from. On a planet with a thin atmosphere, much of the infrared radiation can come from the surface or lower atmosphere. On a planet with a thick infrared-absorbing atmosphere, the radiation that finally escapes comes from higher, colder layers. Colder layers radiate less energy, so the lower atmosphere and surface must become much hotter to maintain balance with absorbed sunlight.
+
+Pause and check your understanding.
+
+Why is “Venus is hot because it is closer to the Sun” an incomplete explanation?
+
+The two-stream picture of the greenhouse effect.
+
+A basic greenhouse model begins with energy balance. A planet absorbs sunlight and emits infrared radiation back to space. If the absorbed sunlight equals the outgoing infrared radiation, the planet can maintain an approximately steady temperature. If more energy is absorbed than emitted, the planet warms. If more energy is emitted than absorbed, it cools.
+
+The atmosphere matters because visible sunlight and infrared radiation interact differently with gases. Much of the incoming visible sunlight can pass through the atmosphere and warm the surface. The warm surface and lower atmosphere then emit infrared radiation upward. Greenhouse gases absorb some of that infrared radiation and re-emit it in all directions. Some goes upward and eventually escapes to space. Some goes downward and warms the lower atmosphere and surface.
+
+A two-stream model is a simplified way to picture this. Instead of tracking radiation in every direction, we group it into an upward stream and a downward stream. The upward stream carries infrared energy toward space. The downward stream returns some infrared energy toward the surface. If the atmosphere becomes more infrared-opaque, the altitude from which radiation can escape to space moves upward. Since higher layers are usually colder, they emit less energy. To restore energy balance, the lower atmosphere and surface must warm until the escaping radiation again matches absorbed sunlight.
+
+This is why atmospheric thickness matters. More atmosphere does not automatically mean higher temperature; composition, clouds, altitude structure, and sunlight absorption all matter. But for an atmosphere rich in infrared absorbers like carbon dioxide and water vapor, increasing the amount of absorbing gas generally increases the infrared optical depth. Venus does not merely have “more greenhouse gas” than Earth. It has a much thicker atmosphere whose lower layers are buried beneath many infrared-absorbing layers above.
+
+The two-stream model is deliberately incomplete. It does not include clouds, winds, day-night circulation, the vertical structure of real atmospheres, or the chemistry of sulfuric acid clouds. It is still useful because it explains why atmospheric thickness cannot be ignored. A planet can receive the same sunlight as another planet and still have a very different surface temperature if its atmosphere traps and redistributes infrared energy differently.
+
+This is also why early Venus is not a trivial problem. If early Venus had less carbon dioxide in the atmosphere, more reflective clouds, slower rotation, and enough water to rain out, it might have behaved very differently from modern Venus. But once the atmosphere became hot and water-rich enough, the same water vapor that could have rained out under cooler conditions would instead amplify warming. The distinction between condensation and runaway vapor buildup is central to the Venus-Earth comparison.
+
+Try the numbers.
+
+A toy one-layer greenhouse model illustrates why adding infrared opacity warms the surface. Let the planet absorb solar energy corresponding to an effective radiating temperature capital T sub e. If one infrared-absorbing layer returns half of the surface radiation downward, the surface temperature is roughly
+
+capital T sub s is approximately equal to 2 to the one-fourth power times capital T sub e.
+
+This is not a Venus model. It is only a way to see why radiation balance changes when an atmosphere absorbs and re-emits infrared light.
+
+See the Python snippet given in the course lecture notes.
+
+Carbon, water, and why Venus and Earth diverged.
+
+The biggest habitability lesson from Venus is that geology and atmosphere cannot be separated. Earth and Venus probably received broadly similar ingredients during planet formation, including carbon-bearing material and some water delivered by impacts and outgassing. Yet Earth has abundant surface water and relatively little atmospheric carbon dioxide, while Venus has little accessible water and a massive carbon dioxide atmosphere.
+
+The water contrast is just as extreme as the carbon contrast. Earth has vastly more accessible water than Venus, often summarized as about 100,000 times as much accessible water. That does not prove Venus was born dry. Planet formation models and water delivery by icy planetesimals make it reasonable to expect Earth and Venus to have received broadly similar kinds of volatile-rich material. The central question is therefore whether Venus never accumulated much water or whether it once had substantial water and then lost it.
+
+On Earth, the surface became cool enough for water vapor to condense into rain and collect into oceans. Carbon dioxide dissolves in rainwater and seawater, participates in chemical weathering, and becomes locked into carbonate rocks. Plate tectonics and volcanism then help recycle carbon over long timescales. This carbon cycle does not make Earth's climate perfectly stable, but it provides a stabilizing connection between atmosphere, ocean, and rock.
+
+The stabilizing part is easiest to see during long-term warming. Higher temperature and rainfall can increase chemical weathering, which removes carbon dioxide from the atmosphere and stores it in minerals. Lower atmospheric carbon dioxide weakens greenhouse warming. During long-term cooling, weathering slows while volcanic outgassing can continue adding carbon dioxide. This feedback is not fast enough to prevent short-term climate disruption, and it is not a perfect thermostat. But over millions of years it helps keep Earth from drifting permanently into either a frozen or runaway state.
+
+This feedback requires liquid water. Without rain, rivers, oceans, and wet rock, carbon dioxide cannot be removed from the atmosphere in the same way. That is why water loss and carbon dioxide buildup are linked in the Venus story. Losing water does not merely remove a liquid medium for life. It also damages one of the main climate-regulating pathways that keeps an Earth-like planet from accumulating a massive atmospheric carbon reservoir.
+
+On Venus, the key early question is whether water could condense and remain on the surface long enough to create an ocean-rock-atmosphere carbon cycle. If Venus stayed too warm, then water remained mainly in the atmosphere. Water vapor is itself a strong greenhouse gas, so extra evaporation strengthens warming. Ultraviolet light can break water molecules apart in the upper atmosphere. Hydrogen escapes easily to space, while oxygen reacts with surface rocks or combines with other atmospheric species. Once water is lost, the chance for an Earth-like carbon cycle largely disappears.
+
+Venus also appears geologically different from Earth. It does not show clear evidence for Earth-like plate tectonics today. Its surface is relatively young compared with many cratered Solar System surfaces, suggesting substantial resurfacing in the past several hundred million years. Venus may lose heat through episodic or stagnant-lid behavior rather than continuous plate recycling. That interior difference matters because the way a planet loses internal heat controls volcanism, crustal recycling, outgassing, and atmospheric chemistry.
+
+This interior difference is one of the most commonly missed parts of the Venus story. The atmosphere and the interior are not separate systems. Volcanism releases gases from the interior. Surface rocks react with atmospheric gases. Crustal recycling can bury or release carbon. A planet with plate tectonics, oceans, and steady weathering can move carbon among atmosphere, ocean, rock, and mantle. A planet with stagnant-lid or episodic resurfacing may store and release gases in a more uneven way. Venus' atmosphere may therefore be a record of both climate evolution and interior evolution.
+
+The resurfacing problem also affects what we can know. On Earth, old rocks, sediments, zircons, fossils, and isotope ratios let scientists reconstruct pieces of deep history. Venus' surface is harder to read. Radar images show volcanoes, coronae, deformed terrain, and relatively few impact craters, but the surface has been heavily modified. If early Venus had oceans, the direct surface evidence may have been erased or buried. That does not mean early oceans never existed; it means the evidence is difficult to recover.
+
+Radar mapping is central because visible light cannot see through Venus' global cloud deck. Those radar maps show a planet with widespread volcanic plains, coronae that resemble large hot-spot or mantle-upwelling structures, and relatively few impact craters. The crater count suggests much of the surface is geologically young compared with ancient heavily cratered terrains, often discussed in terms of a major resurfacing episode within the last several hundred million years, roughly around 650 million years ago. Venus also has sulfuric acid clouds that should be removed on geologic timescales unless sulfur is being replenished, which points toward ongoing or geologically recent volcanic activity.
+
+Pause and check your understanding.
+
+How can two planets with similar sizes and starting materials end with different atmospheric carbon reservoirs?
+
+Evidence for water loss on Venus.
+
+A major clue to Venus' water history comes from deuterium, a heavy isotope of hydrogen. Ordinary hydrogen has one proton. Deuterium has one proton and one neutron, so it is heavier and escapes less easily. If a planet loses a large amount of hydrogen to space, the remaining hydrogen becomes enriched in deuterium. Venus' atmosphere has a much higher deuterium-to-hydrogen ratio than Earth's oceans, often summarized as roughly 100 times Earth's value, which strongly suggests substantial water loss.
+
+This evidence does not by itself tell us exactly how much water Venus once had. Comet impacts and atmospheric evolution complicate the interpretation. But the basic conclusion is difficult to avoid: Venus has lost significant hydrogen, and water loss is part of its climate history. At minimum, Venus likely lost the equivalent of at least one Earth ocean, and possibly more depending on the assumed starting composition and escape history.
+
+The physical reason is straightforward. Ultraviolet light can break water molecules apart high in an atmosphere. Hydrogen is light, so it can escape more easily than heavier atoms and molecules. Deuterium is heavier than ordinary hydrogen, so it escapes less efficiently. Over time, the remaining atmosphere becomes enriched in deuterium. The measurement is therefore not just a chemical curiosity. It is a clue that the planet's water inventory has been altered by atmospheric escape.
+
+When hydrogen escapes in large quantities, the process can become hydrodynamic: escaping light gas can flow outward efficiently and can sometimes drag other particles along. Measurements of the deuterium-to-hydrogen ratio suggest that water loss is not just an ancient possibility; hydrogen escape is part of Venus' atmospheric evolution. Comet impacts complicate the interpretation because they can add deuterium-rich material, so the measured ratio is not a simple ruler for the original ocean depth. Even with that complication, the ratio strongly supports substantial water loss, with at least an Earth-ocean equivalent often treated as a lower limit.
+
+Venus' slow rotation and weak global magnetic field may have made atmospheric loss easier, but the magnetic-field story should not be oversimplified. Magnetic fields can help reduce some forms of atmospheric stripping, yet atmospheric escape also depends on gravity, upper-atmosphere temperature, chemistry, solar ultraviolet radiation, and interactions with the solar wind. The safest statement is that Venus lost water through a combination of photochemistry and escape processes, with surface reactions helping remove oxygen left behind.
+
+The Venus story is therefore not “greenhouse gases are bad” in a simple moral sense. Greenhouse warming is necessary for Earth to be habitable. Without greenhouse gases, Earth's surface would be far below freezing on average. The Venus story is that climate regulation can fail when water, atmosphere, and rock chemistry move into a different feedback regime.
