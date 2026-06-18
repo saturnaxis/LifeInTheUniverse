@@ -1,0 +1,164 @@
+/* ETAMU Audio Player Theme */
+:root {
+  --audio-gold: #F2A900;
+  --audio-blue: #0033A0;
+  --audio-blue-dark: #002575;
+  --audio-white: #FFFFFF;
+  --audio-dark-text: #1f2937;
+}
+
+/* Main card */
+.audio-card {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 900px;
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border: 3px solid var(--audio-gold);
+  border-radius: 18px;
+  background: var(--audio-blue);
+  color: var(--audio-white);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.audio-card *,
+.audio-card *::before,
+.audio-card *::after {
+  box-sizing: border-box;
+}
+
+/* Native browser audio bar */
+.audio-card audio {
+  width: 100%;
+  display: block;
+  border-radius: 999px;
+}
+
+/* Wrapping toolbar */
+.audio-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  align-items: flex-end;
+}
+
+/* Labels */
+.audio-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  color: var(--audio-white);
+  font-size: 0.95rem;
+  font-weight: 800;
+}
+
+/* Chapter selector */
+.chapter-field {
+  flex: 1 1 260px;
+  min-width: 220px;
+}
+
+/* Speed selector */
+.small-field,
+.speed-field {
+  flex: 0 0 120px;
+}
+
+/* Volume */
+.volume-field {
+  flex: 1 1 210px;
+  min-width: 180px;
+}
+
+/* Select menus */
+.audio-field select {
+  width: 100%;
+  height: 2.5rem;
+  border: 2px solid var(--audio-gold);
+  border-radius: 10px;
+  background: var(--audio-white);
+  color: var(--audio-dark-text);
+  padding: 0 0.75rem;
+  font-size: 1rem;
+}
+
+/* Chapter buttons */
+.chapter-buttons {
+  display: flex;
+  gap: 0.5rem;
+  flex: 0 0 auto;
+}
+
+.chapter-buttons button {
+  height: 2.5rem;
+  border: 2px solid var(--audio-gold);
+  border-radius: 10px;
+  background: var(--audio-gold);
+  color: var(--audio-dark-text);
+  padding: 0 0.9rem;
+  font-size: 1rem;
+  font-weight: 800;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.chapter-buttons button:hover {
+  filter: brightness(1.08);
+}
+
+/* Volume slider */
+.volume-slider {
+  width: 100%;
+  accent-color: var(--audio-gold);
+}
+
+/* Time display */
+.time-display {
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding: 0.55rem 0.75rem;
+  border-radius: 999px;
+  background: var(--audio-blue-dark);
+  color: var(--audio-white);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+/* Focus states */
+.audio-field select:focus,
+.chapter-buttons button:focus,
+.volume-slider:focus {
+  outline: 3px solid var(--audio-gold);
+  outline-offset: 2px;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .audio-card {
+    padding: 1rem;
+  }
+
+  .audio-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .chapter-buttons {
+    width: 100%;
+  }
+
+  .chapter-buttons button {
+    flex: 1;
+  }
+
+  .time-display {
+    margin-left: 0;
+    text-align: center;
+  }
+}

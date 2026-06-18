@@ -1,0 +1,35 @@
+Would civilizations colonize the Galaxy?
+
+How fast could a colonization wave spread?
+
+The next step is to estimate a colonization wave. Suppose a civilization can send spacecraft at 0.1 c, and the average distance between useful target stars is about 5 light-years. The travel time between neighboring systems is then about 50 years. If each new settlement takes 150 years to grow, stabilize, and build new starships, the total time per step is about 200 years. A wave moving one 5-light-year step every 200 years travels at about 0.025 c as a colonization front, slower than the ships but still fast on Galactic timescales.
+
+A Milky Way diameter of about 100,000 light-years could be crossed by light itself in about 100,000 years. Colonization fronts are slower because ships travel below light speed and settlements need time to mature. Assuming 0.1 c ships and a 150-year turnaround time, the entire Galaxy could still be colonized in roughly 10 million years. With a more conservative 0.01 c ship speed and a 5,000-year turnaround time, the timescale becomes roughly 100 million years. That sounds long, but the Milky Way is over 10 billion years old. A hundred million years is less than one percent of Galactic history.
+
+Colonization models are not predictions. They are stress tests. They ask: if a civilization can expand, wants to expand, and reproduces its expansion from system to system, how long would the process take? The answer is usually much shorter than the age of the Galaxy. That is why the lack of obvious evidence becomes surprising under the expansion assumption.
+
+A biological analogy is coral growth. The whole colony does not move at once. Growth occurs around the edges. In a galactic version, established systems send new ships outward. Those new settlements eventually become established and send more ships. The expansion front grows system by system.
+
+Pause and check your understanding.
+
+Why can a galaxy be colonized in much less than the age of the Galaxy even when each individual trip between stars is slow by human standards?
+
+The strongest version of the argument requires only one successful expansionist civilization. It does not require every civilization to expand. If a million civilizations stay home but one builds self-replicating probes or persistent colonies, that one could matter. That is why purely sociological answers to the Fermi paradox must explain not just why many civilizations do not expand, but why none do.
+
+Would anyone want to expand?
+
+Would other civilizations really colonize the Galaxy? One response is that they might not be like us. They might be content to stay home, focused on art, virtual worlds, sustainability, spiritual life, or non-expansionist values. That is possible. The danger is using it too easily. If we say every other civilization chooses not to expand, we are making a strong claim about beings we have never met.
+
+Human history shows that expansion does happen, though not always for noble reasons. Modern humans began in Africa and spread across the planet over tens of thousands of years. Colonization continued even when other people already lived in the places being entered. The history of colonization on Earth is morally complicated and often violent, so it should not be romanticized. But it does show that only a fraction of a population needs to be motivated for expansion to occur.
+
+More specifically, modern humans began in central Africa, and human expansion reached all continents on a timescale of roughly 50,000 to 80,000 years. That spread resembles a coral model in the limited sense that expansion happened from occupied edges into new regions. The comparison is not meant to praise colonization; it is meant to show that expansion can occur even when most individuals stay where they are.
+
+Motives could vary. A group might leave to escape war, persecution, environmental collapse, or political control. A civilization might want to make itself extinction-proof by spreading beyond one planet. A home star's brightening could eventually make the homeworld less habitable, as discussed for the long-term future of Earth in Chapter 9. Machines might be sent for science, mining, surveillance, or preparation for future settlement. Expansion need not require an entire species to share one dream.
+
+The counterargument is that interstellar expansion may be much less attractive than Solar System expansion. A civilization could build habitats, mine asteroids, terraform nearby worlds, or live in artificial environments around its own star. Compared with sending fragile ships across light-years, local expansion may be cheaper, safer, and more rewarding. A civilization with advanced virtual reality or digital minds might find physical colonization unnecessary.
+
+Pause and check your understanding.
+
+Why is it not enough to argue that most civilizations might avoid colonization?
+
+The colonization question is uncomfortable because it mixes physics with values. Science can estimate speeds, distances, energy, and detectability. It cannot easily predict what unknown civilizations will value over millions of years. That uncertainty is not a weakness of the Fermi paradox; it is one of the reasons the paradox remains open.

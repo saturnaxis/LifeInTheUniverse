@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>Life in the Universe Audiobook</title>
+    <link>https://saturnaxis.github.io/LifeInTheUniverse/</link>
+    <description>Audio versions of the Life in the Universe course chapters.</description>
+    <language>en-us</language>
+    <itunes:author>Billy Quarles</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://saturnaxis.github.io/LifeInTheUniverse/_static/images/podcast-cover.jpg"/>
+
+    <item>
+      <title>Chapter 1: The Universe and Life</title>
+      <description>Audio narration for Chapter 1 of Life in the Universe.</description>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">life-in-the-universe-chapter-01</guid>
+      <enclosure
+        url="https://saturnaxis.github.io/LifeInTheUniverse/_static/audio/audiobooks/chapter01_universe_of_life.mp3"
+        length="3080"
+        type="audio/mpeg"/>
+      <itunes:duration>00:51:20</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
