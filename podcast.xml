@@ -10,7 +10,7 @@
     <language>en-us</language>
     <itunes:author>Billy Quarles</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://github.com/saturnaxis/LifeInTheUniverse/tree/main/_static/images/podcast_cover_Ch01.png"/>
+    <itunes:image href="https://saturnaxis.github.io/LifeInTheUniverse/_static/images/podcast_cover_Ch01.png"/>
 
     <item>
       <title>Chapter 1: The Universe and Life</title>
@@ -18,7 +18,7 @@
       <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">life-in-the-universe-chapter-01</guid>
       <enclosure
-        url="https://github.com/saturnaxis/LifeInTheUniverse/tree/main/_static/audio/audiobooks/Chapter01_universe-of-life.mp3"
+        url="https://github.com/saturnaxis/LifeInTheUniverse/_static/audio/audiobooks/Chapter01_universe-of-life.mp3"
         length="34519045" 
         type="audio/mpeg"/>
       <itunes:duration>00:51:20</itunes:duration>
