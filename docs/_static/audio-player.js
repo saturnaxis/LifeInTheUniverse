@@ -20,58 +20,97 @@
 
     if (!audio || !chapterSelect) return;
 
-    const chapters = Array.from(chapterSelect.options).map(option =>
-      Number(option.value)
-    );
+    function getChapters() {
+      return Array.from(chapterSelect.options)
+        .map(option => Number(option.value))
+        .filter(value => Number.isFinite(value));
+    }
 
     function getCurrentChapterIndex() {
+      const chapters = getChapters();
       let index = 0;
+
       for (let i = 0; i < chapters.length; i++) {
         if (audio.currentTime >= chapters[i]) index = i;
       }
+
       return index;
     }
 
-    function seekToChapter(index) {
+    function seekToChapter(index, shouldPlay) {
+      const chapters = getChapters();
+      if (chapters.length === 0) return;
+
       const safeIndex = Math.max(0, Math.min(index, chapters.length - 1));
       audio.currentTime = chapters[safeIndex];
       chapterSelect.selectedIndex = safeIndex;
+
+      if (shouldPlay) {
+        audio.play().catch(function () {
+          /* Browser may block autoplay; ignore safely. */
+        });
+      }
     }
 
     function updateTime() {
       chapterSelect.selectedIndex = getCurrentChapterIndex();
-      timeDisplay.textContent =
-        `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+
+      if (timeDisplay) {
+        timeDisplay.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+      }
     }
 
     chapterSelect.addEventListener("change", function () {
-      audio.currentTime = Number(chapterSelect.value);
-    });
+      const selectedTime = Number(chapterSelect.value);
 
-    prevButton.addEventListener("click", function () {
-      const index = getCurrentChapterIndex();
-
-      if (audio.currentTime - chapters[index] > 3) {
-        seekToChapter(index);
-      } else {
-        seekToChapter(index - 1);
+      if (Number.isFinite(selectedTime)) {
+        audio.currentTime = selectedTime;
+        audio.play().catch(function () {
+          /* Browser may block autoplay; ignore safely. */
+        });
       }
     });
 
-    nextButton.addEventListener("click", function () {
-      seekToChapter(getCurrentChapterIndex() + 1);
-    });
+    if (prevButton) {
+      prevButton.addEventListener("click", function () {
+        const chapters = getChapters();
+        const index = getCurrentChapterIndex();
 
-    speedSelect.addEventListener("change", function () {
-      audio.playbackRate = Number(speedSelect.value);
-    });
+        if (chapters.length === 0) return;
 
-    volumeSlider.addEventListener("input", function () {
+        if (audio.currentTime - chapters[index] > 3) {
+          seekToChapter(index, true);
+        } else {
+          seekToChapter(index - 1, true);
+        }
+      });
+    }
+
+    if (nextButton) {
+      nextButton.addEventListener("click", function () {
+        seekToChapter(getCurrentChapterIndex() + 1, true);
+      });
+    }
+
+    if (speedSelect) {
+      audio.playbackRate = Number(speedSelect.value) || 1;
+
+      speedSelect.addEventListener("change", function () {
+        audio.playbackRate = Number(speedSelect.value) || 1;
+      });
+    }
+
+    if (volumeSlider) {
       audio.volume = Number(volumeSlider.value);
-    });
+
+      volumeSlider.addEventListener("input", function () {
+        audio.volume = Number(volumeSlider.value);
+      });
+    }
 
     audio.addEventListener("loadedmetadata", updateTime);
     audio.addEventListener("timeupdate", updateTime);
+    updateTime();
   }
 
   function initAllAudioCards() {
@@ -84,3 +123,4 @@
     initAllAudioCards();
   }
 })();
+

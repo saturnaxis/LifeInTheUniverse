@@ -1,3 +1,4 @@
+
 /* ETAMU Audio Player Theme */
 :root {
   --audio-gold: #F2A900;
@@ -5,6 +6,7 @@
   --audio-blue-dark: #002575;
   --audio-white: #FFFFFF;
   --audio-dark-text: #1f2937;
+  --audio-shadow: rgba(0, 0, 0, 0.16);
 }
 
 /* Main card */
@@ -18,11 +20,11 @@
   border-radius: 18px;
   background: var(--audio-blue);
   color: var(--audio-white);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
+  box-shadow: 0 8px 24px var(--audio-shadow);
 
   display: flex;
   flex-direction: column;
-  gap: 1.25rem;
+  gap: 1.15rem;
 }
 
 .audio-card *,
@@ -31,52 +33,33 @@
   box-sizing: border-box;
 }
 
-/* Native browser audio bar */
-.audio-card audio {
-  width: 100%;
-  display: block;
-  border-radius: 999px;
-}
-
-/* Wrapping toolbar */
+/* Top toolbar */
 .audio-toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.85rem;
-  align-items: flex-end;
+  width: 100%;
 }
 
-/* Labels */
-.audio-field {
+/* One-line subsection navigation row */
+.chapter-row {
   display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  flex-wrap: nowrap;
+}
+
+/* Text label beside dropdown */
+.chapter-label {
+  flex: 0 0 auto;
   color: var(--audio-white);
   font-size: 0.95rem;
   font-weight: 800;
+  white-space: nowrap;
 }
 
-/* Chapter selector */
-.chapter-field {
-  flex: 1 1 260px;
-  min-width: 220px;
-}
-
-/* Speed selector */
-.small-field,
-.speed-field {
-  flex: 0 0 120px;
-}
-
-/* Volume */
-.volume-field {
-  flex: 1 1 210px;
-  min-width: 180px;
-}
-
-/* Select menus */
-.audio-field select {
-  width: 100%;
+/* Chapter/subsection selector */
+.chapter-select {
+  flex: 1 1 auto;
+  min-width: 260px;
   height: 2.5rem;
   border: 2px solid var(--audio-gold);
   border-radius: 10px;
@@ -86,9 +69,10 @@
   font-size: 1rem;
 }
 
-/* Chapter buttons */
+/* Previous/Next buttons */
 .chapter-buttons {
   display: flex;
+  align-items: center;
   gap: 0.5rem;
   flex: 0 0 auto;
 }
@@ -108,6 +92,54 @@
 
 .chapter-buttons button:hover {
   filter: brightness(1.08);
+}
+
+.chapter-buttons button:active {
+  transform: translateY(1px);
+}
+
+/* Native browser audio bar */
+.audio-card audio,
+.audio-el {
+  width: 100%;
+  display: block;
+  border-radius: 999px;
+}
+
+/* Optional older field-based controls: retained for compatibility */
+.audio-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  color: var(--audio-white);
+  font-size: 0.95rem;
+  font-weight: 800;
+}
+
+.chapter-field {
+  flex: 1 1 260px;
+  min-width: 220px;
+}
+
+.small-field,
+.speed-field {
+  flex: 0 0 120px;
+}
+
+.volume-field {
+  flex: 1 1 210px;
+  min-width: 180px;
+}
+
+.audio-field select {
+  width: 100%;
+  height: 2.5rem;
+  border: 2px solid var(--audio-gold);
+  border-radius: 10px;
+  background: var(--audio-white);
+  color: var(--audio-dark-text);
+  padding: 0 0.75rem;
+  font-size: 1rem;
 }
 
 /* Volume slider */
@@ -131,6 +163,7 @@
 }
 
 /* Focus states */
+.chapter-select:focus,
 .audio-field select:focus,
 .chapter-buttons button:focus,
 .volume-slider:focus {
@@ -138,15 +171,50 @@
   outline-offset: 2px;
 }
 
+/* Medium screens: allow row wrapping before it gets cramped */
+@media (max-width: 850px) {
+  .chapter-row {
+    flex-wrap: wrap;
+  }
+
+  .chapter-label {
+    flex: 0 0 100%;
+  }
+
+  .chapter-select {
+    flex: 1 1 100%;
+    min-width: 100%;
+  }
+
+  .chapter-buttons {
+    width: 100%;
+  }
+
+  .chapter-buttons button {
+    flex: 1;
+  }
+}
+
 /* Mobile */
 @media (max-width: 700px) {
   .audio-card {
     padding: 1rem;
+    border-radius: 16px;
   }
 
-  .audio-toolbar {
+  .chapter-row {
     flex-direction: column;
     align-items: stretch;
+    gap: 0.65rem;
+  }
+
+  .chapter-label {
+    flex: 0 0 auto;
+  }
+
+  .chapter-select {
+    width: 100%;
+    min-width: 100%;
   }
 
   .chapter-buttons {
@@ -162,3 +230,4 @@
     text-align: center;
   }
 }
+

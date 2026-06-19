@@ -90,5 +90,3 @@ sphinx:
       - "https://cdn.plyr.io/3.8.4/plyr.polyfilled.js"
       - "init-plyr.js"
       - "audio-player.js"
-    html_extra_path:
-      - "podcast.xml"

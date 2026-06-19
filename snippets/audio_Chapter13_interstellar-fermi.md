@@ -1,14 +1,5 @@
 ## Listen by section
 
-### 12.1 The challenge of interstellar travel
-
-<audio class="plyr" controls>
-  <source src="../_static/audio/Chapter13_interstellar-fermi__12-1-the-challenge-of-interstellar-travel.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-_This narration is AI-generated from the course text._
-
 ### 12.2 Why existing rockets are not enough
 
 <audio class="plyr" controls>
