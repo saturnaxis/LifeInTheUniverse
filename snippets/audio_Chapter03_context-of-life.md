@@ -1,9 +1,9 @@
 ## Listen by section
 
-### 3.1 The universe and life
+### 3.2 The structure, scale, and history of the universe
 
 <audio class="plyr" controls>
-  <source src="../_static/audio/Chapter03_context-of-life__3-1-the-universe-and-life.mp3" type="audio/mpeg">
+  <source src="../_static/audio/Chapter03_context-of-life__3-2-the-structure-scale-and-history-of-the-universe.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
