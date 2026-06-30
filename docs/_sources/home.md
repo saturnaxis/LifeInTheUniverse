@@ -1,12 +1,24 @@
 # Welcome to Life in the Universe
 
-This Jupyter Book contains the course notes, examples, study resources, and optional computational activities for **ASTR120: Life in the Universe** at East Texas A&M University.
+This JupyterBook is the student-facing course reader for **ASTR 120: Life in the Universe** at East Texas A&M University.
 
-This course explores one of the biggest scientific questions we can ask:
+The course explores one of the biggest scientific questions we can ask:
 
 > Are we alone in the universe?
 
-To approach that question scientifically, we will study astronomy, planetary science, biology, chemistry, and evidence-based reasoning. The goal is not simply to learn facts about planets, stars, and life. The goal is to understand how scientists use evidence to evaluate claims about worlds beyond Earth.
+The goal of this book is not to prove that life exists elsewhere. Instead, the goal is to understand how scientists approach that question using evidence from astronomy, planetary science, biology, chemistry, geology, physics, and computer science.
+
+A planet in the habitable zone is not automatically inhabited. A molecule associated with life is not automatically proof of life. A strange observation is not automatically evidence of aliens. Scientific claims become stronger when multiple lines of evidence point in the same direction and alternative explanations become less likely.
+
+---
+
+## Source basis
+
+This JupyterBook was developed from my ASTR 120 course lecture notes and slide materials, which were originally organized around *Life in the Universe*, 5th edition, by Bennett et al.
+
+The book expands those course materials into a guided, student-facing digital reader with narrative explanations, figures, videos, checkpoint questions, structured review questions, and optional computational examples.
+
+This site is not an official publisher resource and should not be treated as a replacement for the textbook where the textbook is required by the course.
 
 ---
 
@@ -14,13 +26,14 @@ To approach that question scientifically, we will study astronomy, planetary sci
 
 Each chapter introduces major ideas connected to the search for life in the universe. Some sections explain scientific concepts, some focus on evidence, and some include examples, figures, videos, checkpoint questions, or simple calculations.
 
-As you read, focus on three questions:
+As you read, focus on four questions:
 
 1. **What claim is being made?**
 2. **What evidence supports the claim?**
 3. **What other explanations are possible?**
+4. **What evidence would make the claim stronger or weaker?**
 
-These questions matter throughout the course. A planet in the habitable zone is not automatically inhabited. A molecule associated with life is not automatically proof of life. A scientific claim becomes stronger when multiple lines of evidence point in the same direction and alternative explanations become less likely.
+These questions matter throughout the course. The search for life beyond Earth is exciting because the question is enormous, but the method is careful: claims require evidence, and evidence helps us decide how confident we should be.
 
 ---
 
@@ -54,7 +67,7 @@ The most important skills are curiosity, careful reading, and a willingness to a
 
 ## Using AI as a study tool
 
-AI tools are encouraged when they help you learn. They can summarize sections, explain vocabulary, generate practice questions, help compare ideas, or give feedback on your understanding.
+AI tools can be useful when they help you learn. They can summarize sections, explain vocabulary, generate practice questions, help compare ideas, or give feedback on your understanding.
 
 A useful AI prompt usually includes three parts:
 
@@ -64,7 +77,7 @@ A useful AI prompt usually includes three parts:
 
 For example:
 
-> Act as a patient introductory astronomy tutor. I am an ASTR120 student learning about habitable zones for the first time. Explain what a habitable zone is, why it does not guarantee that life exists, and give me three checkpoint questions to test my understanding.
+> Act as a patient introductory astronomy tutor. I am an ASTR 120 student learning about habitable zones for the first time. Explain what a habitable zone is, why it does not guarantee that life exists, and give me three checkpoint questions to test my understanding.
 
 NotebookLM is especially useful because you can add these course notes as a source. You can ask it to summarize a section, create a study guide, generate review questions, or explain confusing ideas using the notes as its reference.
 
@@ -72,9 +85,9 @@ AI should support your learning, not replace your thinking. If an AI-generated e
 
 ---
 
-## A living document
+## Book status
 
-This book is actively evolving. Content may be refined, expanded, or reorganized during the semester based on what helps students learn most effectively.
+This is the first complete public version of the *Life in the Universe* JupyterBook. Future updates may include typo corrections, accessibility improvements, refined captions, additional figures or interactives, and revisions based on student feedback.
 
 If something feels unclear, that is useful feedback. Scientific learning often begins with a good question.
 
@@ -89,4 +102,4 @@ If this is your first time using the book:
 3. Read the sections on **Science and Evidence**, **Mathematics and Optional Python**, and **Learning with AI and NotebookLM**
 4. Open the first chapter and look for the main scientific question it is trying to answer
 
-The search for life in the universe is exciting because the question is enormous, but the method is careful: claims require evidence, and evidence helps us decide how confident we should be.
+The course will return to the same habit again and again: identify the claim, examine the evidence, consider alternatives, and decide how confident the evidence allows us to be.
